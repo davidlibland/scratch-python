@@ -1,0 +1,178 @@
+{
+    "no-dx_all-official": {
+        "Meningitis": [
+            "Meningitis"
+        ],
+        "Legionella": [
+            "Legionella"
+        ],
+        "Hepatitis": [
+            "Hepatitis"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "Influenza": [
+            "Influenza"
+        ],
+        "Diverticular disease of intestine": [
+            "Diverticular disease of intestine"
+        ],
+        "Malaria": [
+            "Malaria"
+        ],
+        "Acute appendicitis": [
+            "Acute appendicitis"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Viral fever": [
+            "Viral fever"
+        ],
+        "Lyme disease": [
+            "Lyme disease"
+        ],
+        "Acute hepatitis A": [
+            "Acute hepatitis A"
+        ],
+        "Sepsis due to other Gram-negative organisms": [
+            "Sepsis due to other Gram-negative organisms"
+        ],
+        "Typhoid fever": [
+            "Salmonella infection",
+            "Typhoid fever"
+        ],
+        "Typhoid and paratyphoid fevers": [
+            "Typhoid and paratyphoid fevers"
+        ]
+    },
+    "0.5-dx_all-official": {
+        "Meningitis": [
+            "Meningitis"
+        ],
+        "Legionella": [
+            "Legionella"
+        ],
+        "Acute hepatitis A": [
+            "Hepatitis",
+            "Acute appendicitis",
+            "Acute hepatitis A"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "Influenza": [
+            "Influenza"
+        ],
+        "Diverticular disease of intestine": [
+            "Diverticular disease of intestine"
+        ],
+        "Malaria": [
+            "Malaria"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Viral fever": [
+            "Viral fever"
+        ],
+        "Lyme disease": [
+            "Lyme disease"
+        ],
+        "Sepsis due to other Gram-negative organisms": [
+            "Sepsis due to other Gram-negative organisms"
+        ],
+        "Typhoid fever": [
+            "Salmonella infection",
+            "Typhoid fever"
+        ],
+        "Typhoid and paratyphoid fevers": [
+            "Typhoid and paratyphoid fevers"
+        ]
+    },
+    "0.25-dx_0.5-official": {
+        "Meningitis": [
+            "Meningitis",
+            "Hepatitis",
+            "Acute appendicitis",
+            "Acute hepatitis A"
+        ],
+        "Salmonella infection": [
+            "Legionella",
+            "Lyme disease",
+            "Salmonella infection"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "Influenza": [
+            "Influenza"
+        ],
+        "Diverticular disease of intestine": [
+            "Diverticular disease of intestine"
+        ],
+        "Malaria": [
+            "Malaria"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Viral fever": [
+            "Viral fever",
+            "Typhoid fever",
+            "Typhoid and paratyphoid fevers"
+        ],
+        "Sepsis due to other Gram-negative organisms": [
+            "Sepsis due to other Gram-negative organisms"
+        ]
+    },
+    "0.75-dx_0.5-official": {
+        "Meningitis": [
+            "Meningitis"
+        ],
+        "Legionella": [
+            "Legionella"
+        ],
+        "Acute hepatitis A": [
+            "Hepatitis",
+            "Acute hepatitis A"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "Influenza": [
+            "Influenza"
+        ],
+        "Diverticular disease of intestine": [
+            "Diverticular disease of intestine"
+        ],
+        "Malaria": [
+            "Malaria"
+        ],
+        "Acute appendicitis": [
+            "Acute appendicitis"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Viral fever": [
+            "Viral fever"
+        ],
+        "Lyme disease": [
+            "Lyme disease"
+        ],
+        "Sepsis due to other Gram-negative organisms": [
+            "Sepsis due to other Gram-negative organisms"
+        ],
+        "Salmonella infection": [
+            "Salmonella infection"
+        ],
+        "Typhoid fever": [
+            "Typhoid fever"
+        ],
+        "Typhoid and paratyphoid fevers": [
+            "Typhoid and paratyphoid fevers"
+        ]
+    }
+}

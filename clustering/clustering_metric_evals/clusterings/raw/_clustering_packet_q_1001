@@ -1,0 +1,226 @@
+{
+    "no-dx_all-official": {
+        "Helicobacter pylori infection": [
+            "Gastritis caused by Helicobacter pylori",
+            "Helicobacter pylori infection"
+        ],
+        "Cholecystitis": [
+            "Cholecystitis"
+        ],
+        "Acute pancreatitis": [
+            "Acute pancreatitis"
+        ],
+        "Pancreatic cancer": [
+            "Pancreatic cancer"
+        ],
+        "Drug induced liver injury": [
+            "Drug induced liver injury"
+        ],
+        "Stomach cancer": [
+            "Stomach cancer"
+        ],
+        "Esophageal cancer": [
+            "Esophageal cancer"
+        ],
+        "Crohn's disease": [
+            "Crohn's disease"
+        ],
+        "Peptic ulcer disease": [
+            "Peptic ulcer disease"
+        ],
+        "Esophageal stricture": [
+            "Esophageal stricture"
+        ],
+        "Viral hepatitis": [
+            "Viral hepatitis"
+        ],
+        "Gastric ulcer": [
+            "Gastric ulcer"
+        ],
+        "Duodenal ulcer": [
+            "Duodenal ulcer"
+        ],
+        "Infectious chronic pancreatitis": [
+            "Infectious chronic pancreatitis"
+        ],
+        "Menetrier disease": [
+            "Menetrier disease"
+        ],
+        "Dieulafoy lesion (hemorrhagic) of stomach and duodenum": [
+            "Dieulafoy lesion (hemorrhagic) of stomach and duodenum"
+        ],
+        "GIST - Gastrointestinal stromal tumour": [
+            "GIST - Gastrointestinal stromal tumour"
+        ],
+        "Gastric marginal zone lymphoma": [
+            "Gastric marginal zone lymphoma"
+        ],
+        "H. pylori associated GALT": [
+            "H. pylori associated GALT"
+        ],
+        "MALT lymphoma": [
+            "MALT lymphoma"
+        ],
+        "Extranodal marginal zone B cell lymphoma": [
+            "Extranodal marginal zone B cell lymphoma"
+        ]
+    },
+    "0.5-dx_all-official": {
+        "Helicobacter pylori infection": [
+            "Gastritis caused by Helicobacter pylori",
+            "Helicobacter pylori infection"
+        ],
+        "Cholecystitis": [
+            "Cholecystitis"
+        ],
+        "Acute pancreatitis": [
+            "Acute pancreatitis",
+            "Infectious chronic pancreatitis"
+        ],
+        "Stomach cancer": [
+            "Pancreatic cancer",
+            "Stomach cancer",
+            "Esophageal cancer"
+        ],
+        "Drug induced liver injury": [
+            "Drug induced liver injury"
+        ],
+        "Crohn's disease": [
+            "Crohn's disease"
+        ],
+        "Peptic ulcer disease": [
+            "Peptic ulcer disease",
+            "Menetrier disease"
+        ],
+        "Esophageal stricture": [
+            "Esophageal stricture"
+        ],
+        "Viral hepatitis": [
+            "Viral hepatitis"
+        ],
+        "Gastric ulcer": [
+            "Gastric ulcer"
+        ],
+        "Duodenal ulcer": [
+            "Duodenal ulcer"
+        ],
+        "Dieulafoy lesion (hemorrhagic) of stomach and duodenum": [
+            "Dieulafoy lesion (hemorrhagic) of stomach and duodenum"
+        ],
+        "GIST - Gastrointestinal stromal tumour": [
+            "GIST - Gastrointestinal stromal tumour"
+        ],
+        "Gastric marginal zone lymphoma": [
+            "Gastric marginal zone lymphoma"
+        ],
+        "H. pylori associated GALT": [
+            "H. pylori associated GALT"
+        ],
+        "MALT lymphoma": [
+            "MALT lymphoma"
+        ],
+        "Extranodal marginal zone B cell lymphoma": [
+            "Extranodal marginal zone B cell lymphoma"
+        ]
+    },
+    "0.25-dx_0.5-official": {
+        "Helicobacter pylori infection": [
+            "Gastritis caused by Helicobacter pylori",
+            "Helicobacter pylori infection"
+        ],
+        "Acute pancreatitis": [
+            "Cholecystitis",
+            "Acute pancreatitis",
+            "Pancreatic cancer",
+            "Stomach cancer",
+            "Esophageal cancer",
+            "Crohn's disease",
+            "Peptic ulcer disease",
+            "Esophageal stricture",
+            "Viral hepatitis",
+            "Gastric ulcer",
+            "Duodenal ulcer",
+            "Infectious chronic pancreatitis",
+            "Menetrier disease",
+            "Gastric marginal zone lymphoma"
+        ],
+        "Drug induced liver injury": [
+            "Drug induced liver injury"
+        ],
+        "Dieulafoy lesion (hemorrhagic) of stomach and duodenum": [
+            "Dieulafoy lesion (hemorrhagic) of stomach and duodenum"
+        ],
+        "GIST - Gastrointestinal stromal tumour": [
+            "GIST - Gastrointestinal stromal tumour"
+        ],
+        "H. pylori associated GALT": [
+            "H. pylori associated GALT"
+        ],
+        "MALT lymphoma": [
+            "MALT lymphoma"
+        ],
+        "Extranodal marginal zone B cell lymphoma": [
+            "Extranodal marginal zone B cell lymphoma"
+        ]
+    },
+    "0.5-dx_0.5-official": {
+        "Gastritis caused by Helicobacter pylori": [
+            "Gastritis caused by Helicobacter pylori"
+        ],
+        "Cholecystitis": [
+            "Cholecystitis"
+        ],
+        "Acute pancreatitis": [
+            "Acute pancreatitis",
+            "Infectious chronic pancreatitis"
+        ],
+        "Stomach cancer": [
+            "Pancreatic cancer",
+            "Stomach cancer",
+            "Esophageal cancer"
+        ],
+        "Drug induced liver injury": [
+            "Drug induced liver injury"
+        ],
+        "Crohn's disease": [
+            "Crohn's disease"
+        ],
+        "Peptic ulcer disease": [
+            "Peptic ulcer disease",
+            "Menetrier disease"
+        ],
+        "Esophageal stricture": [
+            "Esophageal stricture"
+        ],
+        "Viral hepatitis": [
+            "Viral hepatitis"
+        ],
+        "Gastric ulcer": [
+            "Gastric ulcer"
+        ],
+        "Duodenal ulcer": [
+            "Duodenal ulcer"
+        ],
+        "Dieulafoy lesion (hemorrhagic) of stomach and duodenum": [
+            "Dieulafoy lesion (hemorrhagic) of stomach and duodenum"
+        ],
+        "GIST - Gastrointestinal stromal tumour": [
+            "GIST - Gastrointestinal stromal tumour"
+        ],
+        "Gastric marginal zone lymphoma": [
+            "Gastric marginal zone lymphoma"
+        ],
+        "Helicobacter pylori infection": [
+            "Helicobacter pylori infection"
+        ],
+        "H. pylori associated GALT": [
+            "H. pylori associated GALT"
+        ],
+        "MALT lymphoma": [
+            "MALT lymphoma"
+        ],
+        "Extranodal marginal zone B cell lymphoma": [
+            "Extranodal marginal zone B cell lymphoma"
+        ]
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "no-dx_all-official": {
+        "Shigellosis": [
+            "Shigellosis"
+        ],
+        "Bacterial foodborne intoxication": [
+            "Bacterial foodborne intoxication"
+        ],
+        "Acute pancreatitis": [
+            "Acute pancreatitis"
+        ],
+        "Metastasis to gastrointestinal tract": [
+            "Metastasis to gastrointestinal tract"
+        ],
+        "Acidosis": [
+            "Acidosis"
+        ],
+        "UKP - Metastasis to pancreas of unknown primary": [
+            "UKP - Metastasis to pancreas of unknown primary"
+        ],
+        "Volvulus": [
+            "Volvulus",
+            "Gastric volvulus"
+        ],
+        "Achalasia": [
+            "Achalasia"
+        ],
+        "Food poisoning due to bacteria": [
+            "Food poisoning due to bacteria"
+        ],
+        "Infectious gastroenteritis and colitis": [
+            "Infectious gastroenteritis and colitis"
+        ],
+        "Alcohol abuse with intoxication": [
+            "Alcohol abuse with intoxication"
+        ],
+        "Malignancy": [
+            "Malignancy"
+        ],
+        "Acquired gastric outlet stenosis": [
+            "Acquired gastric outlet stenosis"
+        ],
+        "Gastric outlet obstruction": [
+            "SBO - Small bowel obstruction",
+            "Gastric outlet obstruction"
+        ],
+        "Gastritis": [
+            "Gastritis"
+        ],
+        "Acute hepatitis A": [
+            "Acute hepatitis A"
+        ],
+        "Acute cholecystitis": [
+            "Acute cholecystitis"
+        ],
+        "Peptic ulcer disease": [
+            "Peptic ulcer disease"
+        ],
+        "Metastatic neoplasm": [
+            "Metastatic neoplasm"
+        ],
+        "Stomach cancer": [
+            "Stomach cancer"
+        ]
+    },
+    "0.5-dx_all-official": {
+        "Shigellosis": [
+            "Shigellosis"
+        ],
+        "Bacterial foodborne intoxication": [
+            "Bacterial foodborne intoxication",
+            "Alcohol abuse with intoxication"
+        ],
+        "Acute pancreatitis": [
+            "Acute pancreatitis",
+            "Acute hepatitis A",
+            "Acute cholecystitis"
+        ],
+        "Metastasis to gastrointestinal tract": [
+            "Metastasis to gastrointestinal tract"
+        ],
+        "Acidosis": [
+            "Acidosis"
+        ],
+        "UKP - Metastasis to pancreas of unknown primary": [
+            "UKP - Metastasis to pancreas of unknown primary"
+        ],
+        "Volvulus": [
+            "Volvulus",
+            "Gastric volvulus"
+        ],
+        "Achalasia": [
+            "Achalasia"
+        ],
+        "Food poisoning due to bacteria": [
+            "Food poisoning due to bacteria"
+        ],
+        "Infectious gastroenteritis and colitis": [
+            "Infectious gastroenteritis and colitis"
+        ],
+        "Malignancy": [
+            "Malignancy"
+        ],
+        "Gastric outlet obstruction": [
+            "Acquired gastric outlet stenosis",
+            "SBO - Small bowel obstruction",
+            "Gastric outlet obstruction"
+        ],
+        "Gastritis": [
+            "Gastritis"
+        ],
+        "Peptic ulcer disease": [
+            "Peptic ulcer disease"
+        ],
+        "Metastatic neoplasm": [
+            "Metastatic neoplasm"
+        ],
+        "Stomach cancer": [
+            "Stomach cancer"
+        ]
+    },
+    "0.25-dx_0.5-official": {
+        "Acute pancreatitis": [
+            "Shigellosis",
+            "Bacterial foodborne intoxication",
+            "Acute pancreatitis",
+            "Metastasis to gastrointestinal tract",
+            "Acidosis",
+            "UKP - Metastasis to pancreas of unknown primary",
+            "Volvulus",
+            "Achalasia",
+            "Infectious gastroenteritis and colitis",
+            "Alcohol abuse with intoxication",
+            "Acquired gastric outlet stenosis",
+            "SBO - Small bowel obstruction",
+            "Gastritis",
+            "Acute hepatitis A",
+            "Acute cholecystitis",
+            "Metastatic neoplasm",
+            "Gastric volvulus",
+            "Gastric outlet obstruction"
+        ],
+        "Food poisoning due to bacteria": [
+            "Food poisoning due to bacteria"
+        ],
+        "Malignancy": [
+            "Malignancy"
+        ],
+        "Peptic ulcer disease": [
+            "Peptic ulcer disease"
+        ],
+        "Stomach cancer": [
+            "Stomach cancer"
+        ]
+    },
+    "0.75-dx_0.5-official": {
+        "Shigellosis": [
+            "Shigellosis"
+        ],
+        "Bacterial foodborne intoxication": [
+            "Bacterial foodborne intoxication",
+            "Alcohol abuse with intoxication"
+        ],
+        "Acute pancreatitis": [
+            "Acute pancreatitis",
+            "Acute hepatitis A",
+            "Acute cholecystitis"
+        ],
+        "Metastasis to gastrointestinal tract": [
+            "Metastasis to gastrointestinal tract"
+        ],
+        "Acidosis": [
+            "Acidosis"
+        ],
+        "UKP - Metastasis to pancreas of unknown primary": [
+            "UKP - Metastasis to pancreas of unknown primary"
+        ],
+        "Volvulus": [
+            "Volvulus",
+            "Gastric volvulus"
+        ],
+        "Achalasia": [
+            "Achalasia"
+        ],
+        "Food poisoning due to bacteria": [
+            "Food poisoning due to bacteria"
+        ],
+        "Infectious gastroenteritis and colitis": [
+            "Infectious gastroenteritis and colitis"
+        ],
+        "Malignancy": [
+            "Malignancy"
+        ],
+        "Acquired gastric outlet stenosis": [
+            "Acquired gastric outlet stenosis"
+        ],
+        "Gastric outlet obstruction": [
+            "SBO - Small bowel obstruction",
+            "Gastric outlet obstruction"
+        ],
+        "Gastritis": [
+            "Gastritis"
+        ],
+        "Peptic ulcer disease": [
+            "Peptic ulcer disease"
+        ],
+        "Metastatic neoplasm": [
+            "Metastatic neoplasm"
+        ],
+        "Stomach cancer": [
+            "Stomach cancer"
+        ]
+    }
+}

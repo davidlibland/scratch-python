@@ -1,0 +1,6076 @@
+{
+    "no-dx_all-official": {
+        "Allergic reaction to insect bite": [
+            "Allergic reaction to insect bite"
+        ],
+        "RMSF - Rocky Mountain spotted fever": [
+            "Rocky Mountain spotted fever",
+            "RMSF - Rocky Mountain spotted fever",
+            "Rocky Mountain tick fever"
+        ],
+        "Lyme disease": [
+            "Lyme disease",
+            "Lyme borreliosis",
+            "Infection due to Borrelia burgdorferi sensu lato"
+        ],
+        "Atopic IgE-mediated allergic disorder": [
+            "Atopic immunoglobulin E-mediated allergic disorder",
+            "Atopic IgE-mediated allergic disorder"
+        ],
+        "Mumps": [
+            "Mumps"
+        ],
+        "Allergic urticaria": [
+            "Allergic urticaria"
+        ],
+        "Mastocytosis": [
+            "Mastocytosis"
+        ],
+        "Angioedema": [
+            "Angioedema",
+            "Urticaria-angioedema"
+        ],
+        "Allergic reaction": [
+            "Allergic reaction"
+        ],
+        "Eosinophilia": [
+            "Eosinophilia"
+        ],
+        "Angioedema due to disorder of C1 esterase inhibitor": [
+            "Angio-oedema due to disorder of C1 esterase inhibitor",
+            "Angioedema due to disorder of C1 esterase inhibitor"
+        ],
+        "Food allergy": [
+            "Food allergy"
+        ],
+        "Adverse drug interaction with drug": [
+            "Adverse drug interaction with drug"
+        ],
+        "Spider ven": [
+            "Spider ven"
+        ],
+        "Idiopathic urticaria and/or angio-oedema": [
+            "Idiopathic urticaria and/or angio-oedema",
+            "Idiopathic urticaria and/or angioedema"
+        ],
+        "Western poison oak poisoning": [
+            "Western poison oak poisoning"
+        ],
+        "Anaphylaxis": [
+            "Anaphylaxis",
+            "Anaphylactic reaction"
+        ],
+        "Peritonsillar abscess": [
+            "Peritonsillar abscess"
+        ],
+        "Dental abscess": [
+            "Dental abscess"
+        ],
+        "Infection of tick bite": [
+            "Infection of tick bite"
+        ],
+        "Allergy": [
+            "Allergy"
+        ],
+        "Colorado tick fever": [
+            "Colorado tick fever"
+        ],
+        "Angio-oedema and/or urticaria": [
+            "Angio-oedema and/or urticaria"
+        ],
+        "Superior vena cava syndrome": [
+            "Superior vena cava syndrome"
+        ],
+        "Hypersensitivity reaction type I": [
+            "Type 1 hypersensitivity response",
+            "Hypersensitivity reaction type I",
+            "IgE homocytotropic antibody reaction"
+        ],
+        "IgE-mediated allergic disorder": [
+            "IgE-mediated hypersensitivity disorder",
+            "IgE-mediated allergic disorder"
+        ],
+        "Anaphylaxy": [
+            "Anaphylaxy"
+        ],
+        "Allergy reaction": [
+            "Allergy reaction"
+        ],
+        "Tick bite without infection": [
+            "Tick bite",
+            "Tick bite without infection",
+            "Tick disease"
+        ],
+        "Glutamine reaction": [
+            "Glutamine reaction"
+        ],
+        "Anaphylactic reaction due to serum": [
+            "Anaphylactic reaction due to serum"
+        ],
+        "Cellulitis": [
+            "Cellulitis"
+        ],
+        "Erysipelas": [
+            "Erysipelas"
+        ],
+        "Blastomycosis": [
+            "Blastomycosis"
+        ],
+        "Histoplasmosis": [
+            "Histoplasmosis"
+        ],
+        "Toxoplasmosis": [
+            "Toxoplasmosis"
+        ],
+        "Urticaria": [
+            "Urticaria"
+        ],
+        "Hypersensitivity reaction mediated by antibody": [
+            "Hypersensitivity reaction type II",
+            "Hypersensitivity reaction mediated by antibody"
+        ],
+        "Allergic reaction to substance": [
+            "Allergic reaction to substance"
+        ],
+        "Disease due to Lone star virus": [
+            "Disease due to Lone star virus",
+            "Lone star tick bite"
+        ],
+        "Alpha-gal syndrome": [
+            "Alpha-gal syndrome",
+            "tick induced meat allergy",
+            "Alpha-gal hypersensitivity",
+            "Alpha gal allergy due to tick bite"
+        ],
+        "Allergic contact dermatitis": [
+            "Allergic contact dermatitis"
+        ],
+        "Hereditary angioedema with normal C1 esterase inhibitor activity": [
+            "Hereditary angioedema with normal C1 esterase inhibitor activity"
+        ],
+        "Spotted fever [tick-borne rickettsioses]": [
+            "Spotted fever [tick-borne rickettsioses]"
+        ],
+        "Svc syndrome": [
+            "Svc syndrome"
+        ],
+        "Acute sinusitis": [
+            "Acute sinusitis"
+        ],
+        "Infectious parotitis": [
+            "Infectious parotitis"
+        ],
+        "Cerebral venous sinus thrombosis": [
+            "Cerebral venous sinus thrombosis"
+        ],
+        "Alpha gal": [
+            "Alpha gal"
+        ],
+        "Angioedema due to angiotensin-converting-enzyme inhibitor": [
+            "Angioedema due to angiotensin-converting-enzyme inhibitor"
+        ],
+        "alpha-Galactosidase-A deficiency": [
+            "Alpha-galactosidase A deficiency"
+        ],
+        "Episodic angioedema with eosinophilia": [
+            "Episodic angioedema with eosinophilia"
+        ],
+        "Allergy to red meat": [
+            "Meat allergy",
+            "Allergy to red meat",
+            "Allergy to meat"
+        ],
+        "Autoimmune urticaria and/or angioedema": [
+            "Autoimmune urticaria and/or angioedema"
+        ],
+        "Allergy to drug in contact with skin": [
+            "Allergy to drug in contact with skin"
+        ],
+        "allergy to latex": [
+            "allergy to latex"
+        ],
+        "Insect bite": [
+            "insect bite"
+        ],
+        "medication reaction": [
+            "medication reaction"
+        ],
+        "Idiopathic angioedema": [
+            "Idiopathic angioedema"
+        ],
+        "Suppurative parotitis": [
+            "Suppurative parotitis"
+        ],
+        "Ludwig's angina": [
+            "Ludwig's angina"
+        ],
+        "ACE inhibitor-induced angioedema": [
+            "ACE inhibitor-induced angio-oedema",
+            "ACE inhibitor-induced angioedema",
+            "Angiotensin converting enzyme (ACE) inhibitor-aggravated angio-oedema",
+            "Angiotensin converting enzyme inhibitor-aggravated angioedema",
+            "Angiotensin converting enzyme (ACE) inhibitor-aggravated angioedema"
+        ],
+        "Tick-borne meningopolyneuritis": [
+            "Tick-borne meningopolyneuritis"
+        ],
+        "Allergy to alpha glucoside inhibitor": [
+            "Allergy to alpha glucoside inhibitor"
+        ],
+        "Lone star tick meat allergy": [
+            "Lone star tick meat allergy"
+        ],
+        "Acquired angioedema due to lymphoproliferative disorder": [
+            "Acquired angioedema due to lymphoproliferative disorder"
+        ],
+        "Contact dermatitis due to poison ivy": [
+            "Allergic dermatitis due to poison ivy",
+            "Contact dermatitis due to poison ivy"
+        ],
+        "Type 4 hypersensitivity reaction": [
+            "Type 4 hypersensitivity reaction"
+        ],
+        "SVC compression": [
+            "SVC compression"
+        ],
+        "Allergy to beef": [
+            "Beef allergy",
+            "Allergy to beef"
+        ],
+        "Drug-aggravated angioedema-urticaria": [
+            "Drug-induced angio-oedema-urticaria",
+            "Drug-induced angioedema-urticaria"
+        ],
+        "HAE - Hereditary angio-oedema": [
+            "C-1 esterase inhibitor deficiency",
+            "HAE - Hereditary angio-oedema",
+            "Hereditary angioedema",
+            "HAE - Hereditary angioedema",
+            "HANE - Hereditary angioneurotic edema"
+        ],
+        "Systemic lupus erythematosus": [
+            "Systemic lupus erythematosus"
+        ],
+        "Photodermatitis due to sun": [
+            "Photodermatitis due to sun"
+        ],
+        "Allergic reaktion": [
+            "Allergic reaktion"
+        ],
+        "PPI sideeffect": [
+            "PPI sideeffect"
+        ],
+        "Nephrotic syndrome": [
+            "Nephrotic syndrome"
+        ],
+        "Mammalian meat allergy": [
+            "Mammalian meat allergy"
+        ],
+        "Cryptococcosis": [
+            "Cryptococcosis"
+        ],
+        "Allergies": [
+            "Allergies"
+        ],
+        "alpha gal allergy": [
+            "alpha gal allergy"
+        ],
+        "Food anaphylaxis": [
+            "Anaphylactic reaction to food",
+            "Anaphylactic shock due to adverse food reaction"
+        ],
+        "Trauma": [
+            "Trauma"
+        ],
+        "Necrotising cutaneous vasculitis": [
+            "Necrotising cutaneous vasculitis"
+        ],
+        "Mucormycotic gangrenous cellulitis": [
+            "Mucormycotic gangrenous cellulitis"
+        ],
+        "Allergic reaction to food": [
+            "Allergic reaction to food"
+        ],
+        "Cellulitis, facial": [
+            "Cellulitis, facial"
+        ],
+        "Parotitis - non-mumps": [
+            "Parotitis - non-mumps"
+        ],
+        "Allergic reaction to insect venom": [
+            "Allergic reaction to insect venom"
+        ],
+        "Alpha galactosidase allergy": [
+            "Alpha galactosidase allergy"
+        ],
+        "Poison ivy": [
+            "Poison ivy"
+        ],
+        "Contact dermatitis due to poison oak": [
+            "Contact dermatitis due to poison oak"
+        ],
+        "Odontogenic infection of jaw": [
+            "Odontogenic infection of jaw"
+        ],
+        "Sialoadenitis": [
+            "Sialoadenitis"
+        ],
+        "Thoracic outlet syndrome associated with cervical rib": [
+            "Thoracic outlet syndrome associated with cervical rib"
+        ],
+        "Pancoast tumor": [
+            "Pancoast tumor"
+        ],
+        "Lymphoma": [
+            "lymphoma"
+        ],
+        "Congestive heart failure": [
+            "Congestive heart failure"
+        ],
+        "Cheyne-stokes collar": [
+            "Cheyne-stokes collar"
+        ],
+        "Periodontal abscess": [
+            "Parodontal abscess",
+            "Peridental abscess"
+        ],
+        "Sunlight-induced angioedema-urticaria": [
+            "Sunlight-induced angioedema-urticaria"
+        ],
+        "Photosensitisation due to sun": [
+            "Photosensitivity due to sunlight",
+            "Photosensitisation due to sun"
+        ],
+        "Maculopapular drug eruption": [
+            "Maculopapular drug eruption"
+        ],
+        "Atopic dermatitis": [
+            "Atopic dermatitis"
+        ],
+        "Spider bite wound": [
+            "Spider bite wound"
+        ],
+        "Contact dermatitis": [
+            "Contact dermatitis"
+        ],
+        "Type 4 hypersen": [
+            "Type 4 hypersen"
+        ],
+        "Tick red meat allergy": [
+            "Tick red meat allergy"
+        ],
+        "Nephropathy": [
+            "Nephropathy"
+        ],
+        "Disease due to Rickettsia": [
+            "Disease due to Genus Rickettsia",
+            "Rickettsial disease"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Western Rocky Mountain spotted fever": [
+            "Western Rocky Mountain spotted fever"
+        ],
+        "Sporotrichosis": [
+            "Sporotrichosis"
+        ],
+        "Tick bite red meat allergy": [
+            "Tick bite red meat allergy"
+        ],
+        "Drug reaction with eosinophilia and systemic symptoms": [
+            "DRESS syndrome",
+            "Drug Rash with Eosinophilia and Systemic Symptoms",
+            "Drug reaction with eosinophilia and systemic symptoms",
+            "DRESS",
+            "Drug-induced hypersensitivity syndrome"
+        ],
+        "Anaphylaxis secondary to bite and/or sting": [
+            "Anaphylaxis secondary to bite and/or sting"
+        ],
+        "Erlichiosis": [
+            "Erlichiosis"
+        ],
+        "Delayed pressure urticaria": [
+            "Delayed pressure urticaria"
+        ],
+        "Ehrlichiosis": [
+            "Ehrlichiosis"
+        ],
+        "Anaplasmosis": [
+            "Anaplasmosis"
+        ],
+        "Brucellosis": [
+            "Brucellosis"
+        ],
+        "Tick allergy red meat": [
+            "Tick allergy red meat"
+        ],
+        "Rocky Mountain Spotted fever prodrome": [
+            "Rocky Mountain Spotted fever prodrome"
+        ],
+        "Acute kidney injury": [
+            "Acute kidney injury",
+            "Aki"
+        ],
+        "Idiopathic urticaria": [
+            "Idiopathic urticaria",
+            "Idiopathic angio-oedema-urticaria",
+            "Idiopathic angioedema-urticaria"
+        ],
+        "West Nile virus infection": [
+            "West Nile virus infection"
+        ],
+        "Angioedema due to disorder of kinin metabolism": [
+            "Angioedema due to disorder of kinin metabolism"
+        ],
+        "Insect bite of head and neck": [
+            "Insect bite of head and neck"
+        ],
+        "Preseptal cellulitis": [
+            "Preseptal cellulitis"
+        ],
+        "Orbital cellulitis": [
+            "Orbital cellulitis"
+        ],
+        "Zoster ophthalmicus": [
+            "Zoster ophthalmicus"
+        ],
+        "Leptospirosis": [
+            "Leptospirosis"
+        ],
+        "Tick fever due to Rickettsia siberica": [
+            "Tick fever due to Rickettsia siberica"
+        ],
+        "Rickettsia": [
+            "Rickettsia"
+        ],
+        "Dermatomyositis sine myositis": [
+            "Dermatomyositis sine myositis"
+        ],
+        "Insect bite of face": [
+            "Insect bite of face"
+        ],
+        "Cellulitis of face": [
+            "Cellulitis of face"
+        ],
+        "decompensated liver disease": [
+            "decompensated liver disease"
+        ],
+        "Anaphylaxis due to ingested food": [
+            "Anaphylaxis due to ingested food"
+        ],
+        "Hypereosinophilic syndrome": [
+            "Hypereosinophilic syndrome"
+        ],
+        "Lymphedema": [
+            "lymphedema"
+        ],
+        "Melkersson-Rosenthal syndrome": [
+            "Melkersson-Rosenthal syndrome"
+        ],
+        "Allergic urticaria and/or angioedema": [
+            "Allergic urticaria and/or angioedema",
+            "Allergic urticaria and/or angio-oedema"
+        ],
+        "Obstruction of inferior vena cava": [
+            "Obstruction of inferior vena cava"
+        ],
+        "Acquired angioedema due to C1 inhibitor autoantibody": [
+            "Acquired angioedema due to C1 inhibitor autoantibody"
+        ],
+        "Stevens Johnson syndrome": [
+            "Stevens-Johnson syndrome"
+        ],
+        "Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered": [
+            "Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered"
+        ],
+        "Shingles": [
+            "Shingles"
+        ],
+        "SVC - Superior vena cava abnormality": [
+            "Superior vena cava abnormality",
+            "SVC - Superior vena cava abnormality",
+            "Superior caval vein abnormality",
+            "SCV - Superior caval vein abnormality"
+        ],
+        "Cellulitis and acute lymphangitis": [
+            "Cellulitis and acute lymphangitis"
+        ],
+        "Deep vein thrombosis": [
+            "Deep vein thrombosis"
+        ],
+        "Uric": [
+            "Uric"
+        ],
+        "Facial cellulitis": [
+            "Facial cellulitis"
+        ],
+        "Internal jugular vein thrombosis": [
+            "Internal jugular vein thrombosis"
+        ],
+        "Septic thrombophlebitis": [
+            "Septic thrombophlebitis"
+        ],
+        "Impetigo": [
+            "Impetigo"
+        ],
+        "Allergic rhinitis": [
+            "Allergic rhinitis"
+        ],
+        "Endocapillary glomerulonephritis": [
+            "Endocapillary glomerulonephritis"
+        ],
+        "AIN - Acute interstitial nephritis": [
+            "Acute interstitial nephritis",
+            "AIN - Acute interstitial nephritis"
+        ],
+        "Erythema multiforme": [
+            "Erythema multiforme"
+        ],
+        "TEN - Toxic epidermal necrolysis": [
+            "TEN - Toxic epidermal necrolysis"
+        ],
+        "Hypomagnesemia": [
+            "Hypomagnesemia"
+        ],
+        "Hypocalcemia": [
+            "Hypocalcemia"
+        ],
+        "Clostridium difficile colitis": [
+            "Clostridium difficile colitis"
+        ],
+        "Eosinophilic esophagitis": [
+            "Eosinophilic esophagitis"
+        ],
+        "Hereditary angio-oedema - type 1": [
+            "Hereditary angioedema - type 1",
+            "Hereditary angio-oedema - type 1",
+            "Hereditary C1 esterase inhibitor deficiency - deficient factor"
+        ],
+        "Varicella": [
+            "Varicella"
+        ],
+        "Rubella": [
+            "Rubella"
+        ],
+        "Allergic angio-oedema": [
+            "Allergic angio-oedema"
+        ],
+        "Secondary syphilis": [
+            "Secondary Syphilis"
+        ],
+        "Fifth disease": [
+            "Fifth disease"
+        ],
+        "Measles": [
+            "Measles"
+        ],
+        "Dental abscess with sinus": [
+            "Dental abscess with sinus"
+        ],
+        "Hives": [
+            "Hives"
+        ],
+        "Soft tissue infection": [
+            "Soft tissue infection"
+        ],
+        "Dermatitis": [
+            "Dermatitis"
+        ],
+        "Poison ivy rash": [
+            "Poison ivy rash"
+        ],
+        "Variant Creutzfeldt-Jakob disease": [
+            "Variant Creutzfeldt-Jakob disease"
+        ],
+        "SVC syndrone": [
+            "SVC syndrone"
+        ],
+        "Epstein-Barr virus": [
+            "Epstein-Barr virus"
+        ],
+        "Acute tonsillitis": [
+            "Acute tonsillitis"
+        ],
+        "Delayed hypersensitivity disorder": [
+            "Delayed hypersensitivity disorder"
+        ],
+        "Lyme": [
+            "Lyme"
+        ],
+        "Embolism and thrombosis of internal jugular vein": [
+            "Embolism and thrombosis of internal jugular vein"
+        ],
+        "Tick borne disease": [
+            "Tick borne disease"
+        ],
+        "Localized skin infection": [
+            "Localized skin infection"
+        ],
+        "Renal failure": [
+            "Renal failure"
+        ],
+        "Heart failure": [
+            "Heart failure"
+        ],
+        "Allergy to alphagalactose": [
+            "Allergy to alphagalactose"
+        ],
+        "ajs": [
+            "ajs"
+        ],
+        "Delayed urticaria after eating red meat": [
+            "Delayed urticaria after eating red meat"
+        ],
+        "Anaphylaxis due to red meat": [
+            "Anaphylaxis due to red meat"
+        ],
+        "Leishmaniasis": [
+            "Leishmaniasis"
+        ],
+        "Cutaneous leishmaniasis": [
+            "Cutaneous leishmaniasis"
+        ],
+        "Tick borne illness": [
+            "Tick borne illness"
+        ],
+        "Medication side effect": [
+            "Medication side effect"
+        ],
+        "Renal anasarca": [
+            "Renal anasarca"
+        ],
+        "Rickets, active": [
+            "Rickets, active"
+        ],
+        "Anaphylaxis to bugbite": [
+            "Anaphylaxis to bugbite"
+        ],
+        "Contact dermatitis due to nickel": [
+            "Contact dermatitis due to nickel"
+        ],
+        "Eosinophilic cellulitis [Wells]": [
+            "Eosinophilic cellulitis [Wells]"
+        ],
+        "Chagas' disease": [
+            "Chagas disease"
+        ],
+        "Spotted fever due to Rickettsia rickettsii": [
+            "Spotted fever due to Rickettsia rickettsii"
+        ],
+        "Disease caused by parasite": [
+            "Parasitic infectious disease",
+            "Parasitic disease"
+        ],
+        "Bell's palsy": [
+            "Bell's palsy"
+        ],
+        "Asthma": [
+            "Asthma"
+        ],
+        "Non-Hodgkin lymphoma": [
+            "Non-Hodgkin lymphoma"
+        ],
+        "Submandibular abscess": [
+            "Submandibular abscess"
+        ],
+        "Obstructive sleep apnea": [
+            "Sleep apnea",
+            "Obstructive sleep apnea"
+        ],
+        "Acute pharyngitis": [
+            "Acute pharyngitis"
+        ],
+        "Allergic urticaria due to bite and/or sting": [
+            "Allergic urticaria due to bite and/or sting"
+        ],
+        "alpha galactose allergy": [
+            "alpha galactose allergy"
+        ],
+        "Cushing's syndrome": [
+            "Cushing's syndrome"
+        ],
+        "abcess": [
+            "abcess"
+        ],
+        "Trigeminal neuralgia": [
+            "Trigeminal neuralgia"
+        ],
+        "Zoster ocular disease": [
+            "Zoster ocular disease"
+        ],
+        "Anaphylaxis due to shellfish": [
+            "Anaphylaxis due to shellfish"
+        ],
+        "Vascular thoracic outlet syndrome": [
+            "Vascular thoracic outlet syndrome"
+        ],
+        "Urticaria medicamentosa": [
+            "Urticaria due to drug allergy",
+            "Drug-induced urticaria"
+        ],
+        "Limited cutaneous systemic sclerosis": [
+            "Limited cutaneous systemic sclerosis"
+        ],
+        "Drug allergy": [
+            "Medication allergy",
+            "Drug allergy"
+        ],
+        "Cellulits": [
+            "Cellulits"
+        ],
+        "Drug reaction": [
+            "Adverse drug reaction",
+            "Drug reaction"
+        ],
+        "Irritant contact dermatitis": [
+            "Irritant contact dermatitis"
+        ],
+        "Reflux laryngitis": [
+            "Reflux laryngitis"
+        ],
+        "Tick born illness": [
+            "Tick born illness"
+        ],
+        "Lupus erythematosus": [
+            "Lupus erythematosus"
+        ],
+        "Insect bite, nonvenomous, of scalp, infected": [
+            "Insect bite, nonvenomous, of scalp, infected"
+        ],
+        "Dermatographic urticaria": [
+            "Dermatographic urticaria"
+        ],
+        "Chronic urticaria": [
+            "Chronic urticaria"
+        ],
+        "Scombroid fish poisoning": [
+            "Scombroid fish poisoning",
+            "Toxic effect of scombroid fish poisoning"
+        ],
+        "Bug bite": [
+            "Bug bite"
+        ],
+        "Tick borne meat allergy": [
+            "Tick borne meat allergy"
+        ],
+        "alpha gal sydrome": [
+            "alpha gal sydrome"
+        ],
+        "Non dose-related adverse reaction to medication": [
+            "Non dose-related adverse reaction to medication"
+        ],
+        "Human anaplasmosis due to Anaplasma phagocytophilum": [
+            "Infection by Anaplasma phagocytophilum",
+            "Human anaplasmosis due to Anaplasma phagocytophilum"
+        ],
+        "Hereditary C1 esterase inhibitor deficiency - dysfunctional factor": [
+            "Hereditary angioedema - type 2",
+            "Hereditary angio-oedema - type 2"
+        ],
+        "ALF - Acute liver failure": [
+            "ALF - Acute liver failure"
+        ],
+        "Galactosemia": [
+            "Galactosemia"
+        ],
+        "Fungal respiratory infection": [
+            "Fungal respiratory infection"
+        ],
+        "Snake venom causing toxic effect": [
+            "Snake venom causing toxic effect"
+        ],
+        "Drug allergic reaction": [
+            "Drug allergic reaction"
+        ],
+        "Galactose alpha 13 allergy": [
+            "Galactose alpha 13 allergy"
+        ],
+        "Paroxysmal nocturnal hemoglobinuria": [
+            "Paroxysmal nocturnal haemoglobinuria",
+            "PNH - Paroxysmal nocturnal haemoglobinuria"
+        ],
+        "Aspergillosis": [
+            "Aspergillosis"
+        ],
+        "Anaphilactic reaction": [
+            "Anaphilactic reaction"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "Other conditions associated with Lyme disease": [
+            "Other conditions associated with Lyme disease"
+        ],
+        "Babesiosis": [
+            "Babesiosis",
+            "Infection by Babesia"
+        ],
+        "Eruption due to drug": [
+            "Drug rash",
+            "Drug eruption",
+            "Drug induced rash"
+        ],
+        "Dental abscess without a sinus": [
+            "Dental abscess without a sinus"
+        ],
+        "Lemierre syndrome": [
+            "Lemierre syndrome"
+        ],
+        "DRESS (Drug reaction with eosinophilia and systemic symptoms) due to strontium ranelate": [
+            "DRESS (Drug reaction with eosinophilia and systemic symptoms) due to strontium ranelate"
+        ],
+        "Cellilitis": [
+            "Cellilitis"
+        ],
+        "Cellulitis of periorbital region": [
+            "Cellulitis of periorbital region"
+        ],
+        "Allergic reactin": [
+            "Allergic reactin"
+        ],
+        "Allergic medicine": [
+            "Allergic medicine"
+        ],
+        "Allergic food": [
+            "Allergic food"
+        ],
+        "Porphyria": [
+            "Porphyria"
+        ],
+        "Electrolyte problem": [
+            "Electrolyte problem"
+        ],
+        "Periorbital oedema": [
+            "Periorbital oedema"
+        ],
+        "Hypothyroidism": [
+            "Hypothyroidism"
+        ],
+        "Atopic reaction": [
+            "Atopic reaction"
+        ],
+        "alpha-gal syndrom": [
+            "alpha-gal syndrom"
+        ],
+        "Deficiency of alpha-galactosidase": [
+            "Deficiency of alpha-galactosidase"
+        ],
+        "Gastrointestinal food allergy": [
+            "Gastrointestinal food allergy"
+        ],
+        "Local infection of the skin and subcutaneous tissue": [
+            "Local infection of the skin and subcutaneous tissue"
+        ],
+        "Infection": [
+            "Infection"
+        ],
+        "Tick born meat allergy": [
+            "Tick born meat allergy"
+        ],
+        "Cellulitis of orbit": [
+            "Cellulitis of orbit"
+        ],
+        "Mediastinitis": [
+            "Mediastinitis"
+        ],
+        "Liver cirrhosis": [
+            "Liver cirrhosis"
+        ],
+        "Allergic angioedema due to ingested food": [
+            "Allergic angioedema due to ingested food"
+        ],
+        "Tic meat allergy": [
+            "Tic meat allergy"
+        ],
+        "Dental infection": [
+            "Dental infection"
+        ],
+        "Endemic myocosis": [
+            "Endemic myocosis"
+        ],
+        "Cerebral venous thrombosis": [
+            "Cerebral venous thrombosis"
+        ],
+        "Hypercapnia": [
+            "Hypercapnia"
+        ],
+        "Lymphangitis": [
+            "Lymphangitis"
+        ],
+        "Adenopathy": [
+            "Adenopathy"
+        ],
+        "Dermatomyositis": [
+            "Dermatomyositis"
+        ],
+        "Quinke's disease": [
+            "Quinke's disease"
+        ],
+        "angular chelitis": [
+            "angular chelitis"
+        ],
+        "Medication adverse event": [
+            "Medication adverse event"
+        ],
+        "Sarcoidosis": [
+            "Sarcoidosis"
+        ],
+        "Ricketsia": [
+            "Ricketsia"
+        ],
+        "Photosensitive atopic dermatitis": [
+            "Photosensitive atopic dermatitis"
+        ],
+        "Allergic reaction after tic": [
+            "Allergic reaction after tic"
+        ],
+        "Spider bite": [
+            "Spider bite"
+        ],
+        "A-galactose allergy": [
+            "A-galactose allergy"
+        ],
+        "Upper respiratory infection": [
+            "Upper respiratory infection"
+        ],
+        "Infection by Borrelia duttonii": [
+            "Infection by Borrelia duttonii"
+        ],
+        "Tick typhus due to Rickettsia australis": [
+            "Tick typhus due to Rickettsia australis"
+        ],
+        "Hypersesitivity reaction": [
+            "Hypersesitivity reaction"
+        ],
+        "Tularemia": [
+            "Tularemia"
+        ],
+        "Disease caused by fungus": [
+            "Disease caused by fungus"
+        ],
+        "Galactocerebroside beta-galactosidase deficiency - late onset": [
+            "Galactocerebroside beta-galactosidase deficiency - late onset"
+        ],
+        "Human anaplasmosis": [
+            "Human anaplasmosis"
+        ],
+        "STARI - Southern tick-associated rash illness": [
+            "STARI - Southern tick-associated rash illness"
+        ],
+        "Allergic rash": [
+            "Allergic rash"
+        ],
+        "Vasculitis": [
+            "Vasculitis"
+        ],
+        "Acute drug-induced tubulointerstitial nephritis": [
+            "Acute drug-induced interstitial nephritis",
+            "Acute tubulointerstitial nephritis due to hypersensitivity to drugs"
+        ],
+        "Abscess": [
+            "Abscess"
+        ],
+        "Parotid sialodocholithiasis": [
+            "Parotid sialodocholithiasis"
+        ],
+        "Thyroiditis": [
+            "Thyroiditis"
+        ],
+        "Henoch-Sch\u00f6nlein purpura": [
+            "HSP - Henoch-Schonlein purpura",
+            "Henoch-Schoenlein vasculitis"
+        ],
+        "Hereditary dermatographism": [
+            "Hereditary dermatographism"
+        ],
+        "Helicobacter pylori": [
+            "Helicobacter pylori"
+        ],
+        "Parotid abscess": [
+            "Parotid abscess"
+        ],
+        "CVA - Cerebrovascular accident": [
+            "CVA - Cerebrovascular accident"
+        ],
+        "Pancoast syndrome": [
+            "Pancoast syndrome"
+        ],
+        "Plant photodermatitis": [
+            "Plant photodermatitis"
+        ],
+        "Tick-borne infection": [
+            "Tick-borne infection"
+        ],
+        "Disease due to Rickettsiales": [
+            "Rickettsial infectious disease",
+            "Rickettsial infection"
+        ],
+        "Hyperthyroidism": [
+            "Hyperthyroidism"
+        ],
+        "Infectious mononucleosis": [
+            "Infectious mononucleosis"
+        ],
+        "Meningitis": [
+            "Meningitis"
+        ],
+        "Antibody to alpha-gal": [
+            "Antibody to alpha-gal"
+        ],
+        "Delayed anaphylaxis": [
+            "Delayed anaphylaxis"
+        ],
+        "Anaphylaxisis": [
+            "Anaphylaxisis"
+        ],
+        "Myxedema": [
+            "Myxedema"
+        ],
+        "Deficiency of nitrate reductase": [
+            "Deficiency of nitrate reductase"
+        ],
+        "Necrotizing fasciitis": [
+            "Necrotizing fasciitis"
+        ],
+        "Mosquito-borne viral fever, unspecified": [
+            "Mosquito-borne viral fever, unspecified"
+        ],
+        "Allergic reaction to bee sting": [
+            "Allergic reaction to bee sting"
+        ],
+        "Acute urticaria": [
+            "Acute urticaria"
+        ],
+        "Infestation by bed bug": [
+            "Infestation by bed bug"
+        ],
+        "Anaphylaxia": [
+            "Anaphylaxia"
+        ],
+        "Ramsay Hunt syndrome - auricular": [
+            "Ramsay Hunt syndrome - auricular"
+        ],
+        "Infected insect bite by site": [
+            "Infected insect bite by site"
+        ],
+        "Adverse cutaneous reaction to herbal medicine": [
+            "Adverse cutaneous reaction to herbal medicine"
+        ],
+        "sinus cavernisus thrombosis": [
+            "sinus cavernisus thrombosis"
+        ],
+        "TOS - Thoracic outlet syndrome": [
+            "TOS - Thoracic outlet syndrome"
+        ],
+        "Tick exposure": [
+            "Tick exposure"
+        ],
+        "Insect-related poisoning": [
+            "Insect-related poisoning"
+        ],
+        "Pityriasis rosea": [
+            "Pityriasis rosea"
+        ],
+        "Metabolic acidosis, IAG, reduced excretion of inorganic acids": [
+            "Metabolic acidosis, IAG, reduced excretion of inorganic acids"
+        ],
+        "Superior caval vein obstruction": [
+            "Superior caval vein obstruction"
+        ],
+        "Primary hypercoagulable states": [
+            "Primary hypercoagulable states"
+        ],
+        "Red meat allergy": [
+            "Red meat allergy"
+        ],
+        "Cell-mediated immune reaction": [
+            "Delayed hypersensitivity reaction",
+            "Hypersensitivity reaction type IV"
+        ],
+        "Liver injury": [
+            "Liver injury"
+        ],
+        "Meat hypersensitivity": [
+            "Meat hypersensitivity"
+        ],
+        "Polycythemia vera": [
+            "Polycythemia Vera"
+        ],
+        "Noctural cough": [
+            "Noctural cough"
+        ],
+        "Localized cutaneous mastocytosis": [
+            "Localized cutaneous mastocytosis"
+        ],
+        "Idiopathic nonhistaminergic angioedema": [
+            "Idiopathic nonhistaminergic angioedema"
+        ],
+        "San Joaquin Valley fever": [
+            "San Joaquin Valley fever"
+        ],
+        "Nocardiosis": [
+            "Nocardiosis"
+        ],
+        "Diffuse erythrodermic mastocytosis": [
+            "Diffuse erythrodermic mastocytosis"
+        ],
+        "Acquired alpha gal meat allergy due to tick bites": [
+            "Acquired alpha gal meat allergy due to tick bites"
+        ],
+        "Actinomycosis": [
+            "Actinomycosis"
+        ],
+        "Galactose 1,3 alpha galactose allergy": [
+            "Galactose 1,3 alpha galactose allergy"
+        ],
+        "Galactise 1,3 alpha galactose allergy": [
+            "Galactise 1,3 alpha galactose allergy"
+        ],
+        "Acquired alpha gal due to tick bites": [
+            "Acquired alpha gal due to tick bites"
+        ],
+        "Lone star tick bite leading to meat allergy": [
+            "Lone star tick bite leading to meat allergy"
+        ],
+        "Angioedema due to drug": [
+            "Angioedema due to drug"
+        ],
+        "facial swelling": [
+            "facial swelling"
+        ],
+        "arthropod borne illness": [
+            "arthropod borne illness"
+        ],
+        "Erythema nodosum": [
+            "Erythema nodosum"
+        ],
+        "Gastroesophageal reflux disease": [
+            "Gastroesophageal reflux disease"
+        ],
+        "Anasarca": [
+            "Anasarca"
+        ],
+        "Sialolithiasis": [
+            "Sialolithiasis"
+        ],
+        "Acne": [
+            "Acne"
+        ],
+        "Rosacea": [
+            "Rosacea"
+        ],
+        "Topical corticosteroid withdrawal": [
+            "Topical corticosteroid withdrawal"
+        ],
+        "Rhinofacial conidiobolomycosis": [
+            "Rhinofacial conidiobolomycosis"
+        ],
+        "Interstitial granulomatous dermatitis": [
+            "Interstitial granulomatous dermatitis"
+        ],
+        "Urticarial vasculitis with monoclonal IgM component, Schnitzler": [
+            "Urticarial vasculitis with monoclonal IgM component, Schnitzler"
+        ],
+        "CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome": [
+            "CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome"
+        ],
+        "Systemic sclerosis": [
+            "Systemic sclerosis"
+        ],
+        "Gonococcal infection with localized cutaneous involvement": [
+            "Gonococcal infection with localized cutaneous involvement"
+        ],
+        "AIN": [
+            "AIN"
+        ],
+        "Viral exanthem": [
+            "Viral exanthem"
+        ],
+        "C3 esterase deficiency": [
+            "C3 esterase deficiency"
+        ],
+        "Alpha gal red mest allergy post tick bite": [
+            "Alpha gal red mest allergy post tick bite"
+        ],
+        "Rhus dermatitis": [
+            "Rhus dermatitis"
+        ],
+        "Horner's syndrome": [
+            "Horner's syndrome"
+        ],
+        "Meat allergy due to Lone Star tick bite": [
+            "Meat allergy due to Lone Star tick bite"
+        ],
+        "Ricketsial infection": [
+            "Ricketsial infection"
+        ],
+        "Streptococcal pharyngitis": [
+            "Streptococcal pharyngitis"
+        ],
+        "Pemphigus vulgaris": [
+            "Pemphigus vulgaris"
+        ],
+        "Bullous pemphigoid": [
+            "Bullous pemphigoid"
+        ],
+        "Glomerulonephritis": [
+            "Glomerulonephritis"
+        ],
+        "Volume overload": [
+            "Volume overload"
+        ],
+        "Delayed onset anaphylaxis from beef": [
+            "Delayed onset anaphylaxis from beef"
+        ],
+        "Job's syndrome": [
+            "Job's syndrome"
+        ],
+        "Star  tick": [
+            "Star  tick"
+        ],
+        "Rash from ppi": [
+            "Rash from ppi"
+        ],
+        "Dental caries": [
+            "Dental caries"
+        ],
+        "Angioedema face": [
+            "Angioedema face"
+        ],
+        "Mast cell mediated angioedema": [
+            "Mast cell mediated angioedema"
+        ],
+        "Allergie": [
+            "Allergie"
+        ],
+        "tick fever": [
+            "tick fever"
+        ],
+        "Urticaria secondary to infection": [
+            "Urticaria secondary to infection"
+        ],
+        "Thrombosis": [
+            "Thrombosis"
+        ],
+        "Contact dermatitis due to meat": [
+            "Contact dermatitis due to meat"
+        ],
+        "Poison sumac poisoning": [
+            "Poison sumac poisoning"
+        ],
+        "Allergic drug reaction": [
+            "Allergic drug reaction"
+        ],
+        "Urticaria due to cold and heat": [
+            "Urticaria due to cold and heat"
+        ],
+        "Mosquito bite": [
+            "Mosquito bite"
+        ],
+        "Absence of tooth - acquired": [
+            "Absence of tooth - acquired"
+        ],
+        "Delayed allergy to red meat": [
+            "Delayed allergy to red meat"
+        ],
+        "Oral allergy syndrome": [
+            "Oral allergy syndrome"
+        ],
+        "Environmental allergy": [
+            "Environmental allergy"
+        ],
+        "Caterpillar dermatitis": [
+            "Caterpillar dermatitis"
+        ],
+        "Lactose intolerance": [
+            "Lactose intolerance"
+        ],
+        "Cellulitis of right external ear": [
+            "Cellulitis of right external ear"
+        ],
+        "Tick born": [
+            "Tick born"
+        ],
+        "Temporomandibular joint disorders": [
+            "Temporomandibular joint disorders"
+        ],
+        "Strep pyogenes": [
+            "Strep pyogenes"
+        ],
+        "Hypersensitivity disorder mediated by immune complex": [
+            "Hypersensitivity disorder mediated by immune complex"
+        ],
+        "Poison ivy poisoning": [
+            "Poison ivy poisoning"
+        ],
+        "Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere": [
+            "Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere"
+        ],
+        "Typhus fever": [
+            "Typhus fever"
+        ],
+        "Spirochetal infection, unspecified": [
+            "Spirochetal infection, unspecified"
+        ],
+        "Parotiditis": [
+            "Parotiditis"
+        ],
+        "Tick bite causing meat allergy": [
+            "Tick bite causing meat allergy"
+        ],
+        "Acute interstitial pneumonitis": [
+            "Acute interstitial pneumonitis"
+        ],
+        "Edema": [
+            "Edema"
+        ],
+        "Insect sting": [
+            "Insect sting"
+        ],
+        "Esophageal cancer": [
+            "Esophageal cancer"
+        ],
+        "Arthropod": [
+            "Arthropod"
+        ],
+        "On examination - allergic rash": [
+            "On examination - allergic rash"
+        ],
+        "Adverse medication reaction": [
+            "Adverse medication reaction"
+        ],
+        "HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps": [
+            "HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps"
+        ],
+        "Alpha-gal sensitization": [
+            "Alpha-gal sensitization"
+        ],
+        "Medication induced edema": [
+            "Medication induced edema"
+        ],
+        "Post-streptococcal glomerulonephritis": [
+            "Post-streptococcal glomerulonephritis"
+        ],
+        "Aspirin-induced angioedema-urticaria": [
+            "Aspirin-induced angioedema-urticaria"
+        ],
+        "Infection by Ascaris lumbricoides": [
+            "Infection by Ascaris lumbricoides"
+        ],
+        "Anaphalaxis": [
+            "Anaphalaxis"
+        ],
+        "Familial urticaria": [
+            "Familial urticaria"
+        ],
+        "Choking due to food in larynx": [
+            "Choking due to food in larynx"
+        ],
+        "Preorbital cellulitis": [
+            "Preorbital cellulitis"
+        ],
+        "Minimal change nephrotic syndrome": [
+            "Minimal change nephrotic syndrome"
+        ],
+        "Venocaval compression": [
+            "Venocaval compression"
+        ],
+        "Discoid lupus erythematosus": [
+            "Discoid lupus erythematosus"
+        ],
+        "Erythema migrans": [
+            "Erythema migrans"
+        ],
+        "Staphylococcal infection, unspecified site": [
+            "Staphylococcal infection, unspecified site"
+        ],
+        "Nonvenomous insect bite of lip without infection": [
+            "Nonvenomous insect bite of lip without infection"
+        ],
+        "Infected tooth socket": [
+            "Infected tooth socket"
+        ],
+        "ABPA - Allergic bronchopulmonary aspergillosis": [
+            "ABPA - Allergic bronchopulmonary aspergillosis"
+        ]
+    },
+    "0.5-dx_all-official": {
+        "Angioedema": [
+            "Allergic reaction to insect bite",
+            "Allergic urticaria",
+            "Angioedema",
+            "Allergic reaction",
+            "Angio-oedema due to disorder of C1 esterase inhibitor",
+            "Food allergy",
+            "Idiopathic urticaria and/or angio-oedema",
+            "Allergy",
+            "Angio-oedema and/or urticaria",
+            "Allergy reaction",
+            "Urticaria",
+            "Allergic reaction to substance",
+            "Allergic contact dermatitis",
+            "Hereditary angioedema with normal C1 esterase inhibitor activity",
+            "Angioedema due to angiotensin-converting-enzyme inhibitor",
+            "Angioedema due to disorder of C1 esterase inhibitor",
+            "Episodic angioedema with eosinophilia",
+            "Meat allergy",
+            "Autoimmune urticaria and/or angioedema",
+            "insect bite",
+            "ACE inhibitor-induced angio-oedema",
+            "Acquired angioedema due to lymphoproliferative disorder",
+            "C-1 esterase inhibitor deficiency",
+            "Mammalian meat allergy",
+            "Allergy to red meat",
+            "Allergies",
+            "HAE - Hereditary angio-oedema",
+            "Contact dermatitis",
+            "Hereditary angioedema",
+            "Idiopathic urticaria",
+            "Angioedema due to disorder of kinin metabolism",
+            "Insect bite of face",
+            "Allergic urticaria and/or angioedema",
+            "ACE inhibitor-induced angioedema",
+            "Acquired angioedema due to C1 inhibitor autoantibody",
+            "Uric",
+            "Allergic rhinitis",
+            "Hereditary angioedema - type 1",
+            "Allergic urticaria and/or angio-oedema",
+            "Allergic angio-oedema",
+            "Idiopathic angio-oedema-urticaria",
+            "Hereditary angio-oedema - type 1",
+            "Allergy to meat",
+            "Contact dermatitis due to nickel",
+            "Angiotensin converting enzyme (ACE) inhibitor-aggravated angio-oedema",
+            "Medication allergy",
+            "Adverse drug reaction",
+            "Dermatographic urticaria",
+            "Chronic urticaria",
+            "Tick borne meat allergy",
+            "HAE - Hereditary angioedema",
+            "Hereditary angioedema - type 2",
+            "Allergic reactin",
+            "Allergic medicine",
+            "Angiotensin converting enzyme inhibitor-aggravated angioedema",
+            "Urticaria-angioedema",
+            "Allergic angioedema due to ingested food",
+            "Drug allergy",
+            "Hereditary C1 esterase inhibitor deficiency - deficient factor",
+            "Allergic reaction after tic",
+            "Drug reaction",
+            "Angiotensin converting enzyme (ACE) inhibitor-aggravated angioedema",
+            "HANE - Hereditary angioneurotic edema",
+            "Acute urticaria",
+            "Idiopathic angioedema-urticaria",
+            "Hereditary angio-oedema - type 2",
+            "Acquired alpha gal meat allergy due to tick bites",
+            "Angioedema face",
+            "Delayed allergy to red meat",
+            "Environmental allergy",
+            "Caterpillar dermatitis",
+            "Edema",
+            "Idiopathic urticaria and/or angioedema",
+            "Aspirin-induced angioedema-urticaria"
+        ],
+        "RMSF - Rocky Mountain spotted fever": [
+            "Rocky Mountain spotted fever",
+            "RMSF - Rocky Mountain spotted fever",
+            "Rocky Mountain tick fever"
+        ],
+        "Lyme disease": [
+            "Lyme disease",
+            "Lyme borreliosis",
+            "lymphedema",
+            "Quinke's disease",
+            "Infection due to Borrelia burgdorferi sensu lato"
+        ],
+        "Atopic IgE-mediated allergic disorder": [
+            "Atopic immunoglobulin E-mediated allergic disorder",
+            "Atopic IgE-mediated allergic disorder"
+        ],
+        "Mumps": [
+            "Mumps"
+        ],
+        "Mastocytosis": [
+            "Mastocytosis"
+        ],
+        "Eosinophilia": [
+            "Eosinophilia"
+        ],
+        "Adverse drug interaction with drug": [
+            "Adverse drug interaction with drug"
+        ],
+        "Spider ven": [
+            "Spider ven"
+        ],
+        "Western poison oak poisoning": [
+            "Western poison oak poisoning"
+        ],
+        "Anaphylactic reaction to food": [
+            "Anaphylaxis",
+            "Anaphylactic reaction to food",
+            "Anaplasmosis",
+            "Anaphylaxis due to ingested food",
+            "Anaphylactic reaction",
+            "Anaphylactic shock due to adverse food reaction"
+        ],
+        "Peritonsillar abscess": [
+            "Peritonsillar abscess"
+        ],
+        "Dental abscess": [
+            "Dental abscess"
+        ],
+        "Infectious parotitis": [
+            "Infection of tick bite",
+            "Infectious parotitis"
+        ],
+        "Colorado tick fever": [
+            "Colorado tick fever"
+        ],
+        "Nephrotic syndrome": [
+            "Superior vena cava syndrome",
+            "Type 1 hypersensitivity response",
+            "Alpha-gal syndrome",
+            "Svc syndrome",
+            "Alpha gal",
+            "Type 4 hypersensitivity reaction",
+            "Nephrotic syndrome",
+            "alpha gal allergy",
+            "DRESS syndrome",
+            "Hypereosinophilic syndrome",
+            "Hypersensitivity reaction type I",
+            "Drug Rash with Eosinophilia and Systemic Symptoms",
+            "Stevens-Johnson syndrome",
+            "alpha galactose allergy",
+            "tick induced meat allergy",
+            "Drug reaction with eosinophilia and systemic symptoms",
+            "DRESS",
+            "Meat hypersensitivity",
+            "Drug-induced hypersensitivity syndrome",
+            "Job's syndrome",
+            "IgE homocytotropic antibody reaction",
+            "Alpha-gal hypersensitivity",
+            "Alpha gal allergy due to tick bite"
+        ],
+        "IgE-mediated allergic disorder": [
+            "IgE-mediated hypersensitivity disorder",
+            "IgE-mediated allergic disorder"
+        ],
+        "Anaphylaxy": [
+            "Anaphylaxy"
+        ],
+        "Tick bite without infection": [
+            "Tick bite",
+            "Tick bite without infection",
+            "Tick disease"
+        ],
+        "Glutamine reaction": [
+            "Glutamine reaction"
+        ],
+        "Anaphylactic reaction due to serum": [
+            "Anaphylactic reaction due to serum"
+        ],
+        "Cellulitis and acute lymphangitis": [
+            "Cellulitis",
+            "Cellulitis and acute lymphangitis",
+            "Vasculitis"
+        ],
+        "Erysipelas": [
+            "Erysipelas"
+        ],
+        "Blastomycosis": [
+            "Blastomycosis"
+        ],
+        "Histoplasmosis": [
+            "Histoplasmosis"
+        ],
+        "Toxoplasmosis": [
+            "Toxoplasmosis"
+        ],
+        "Hypersensitivity reaction mediated by antibody": [
+            "Hypersensitivity reaction type II",
+            "Hypersensitivity reaction mediated by antibody"
+        ],
+        "Disease due to Lone star virus": [
+            "Disease due to Lone star virus",
+            "Lone star tick bite"
+        ],
+        "Spotted fever [tick-borne rickettsioses]": [
+            "Spotted fever [tick-borne rickettsioses]"
+        ],
+        "Acute sinusitis": [
+            "Acute sinusitis"
+        ],
+        "Cerebral venous sinus thrombosis": [
+            "Cerebral venous sinus thrombosis"
+        ],
+        "alpha-Galactosidase-A deficiency": [
+            "Alpha-galactosidase A deficiency",
+            "Galactocerebroside beta-galactosidase deficiency - late onset"
+        ],
+        "Allergy to drug in contact with skin": [
+            "Allergy to drug in contact with skin"
+        ],
+        "allergy to latex": [
+            "allergy to latex"
+        ],
+        "medication reaction": [
+            "medication reaction"
+        ],
+        "Idiopathic angioedema": [
+            "Idiopathic angioedema"
+        ],
+        "Suppurative parotitis": [
+            "Suppurative parotitis"
+        ],
+        "Ludwig's angina": [
+            "Ludwig's angina"
+        ],
+        "Tick-borne meningopolyneuritis": [
+            "Tick-borne meningopolyneuritis"
+        ],
+        "Allergy to alpha glucoside inhibitor": [
+            "Allergy to alpha glucoside inhibitor"
+        ],
+        "Lone star tick meat allergy": [
+            "Lone star tick meat allergy"
+        ],
+        "Contact dermatitis due to poison ivy": [
+            "Allergic dermatitis due to poison ivy",
+            "Contact dermatitis due to poison ivy"
+        ],
+        "SVC compression": [
+            "SVC compression"
+        ],
+        "Allergy to beef": [
+            "Beef allergy",
+            "Allergy to beef"
+        ],
+        "Drug-aggravated angioedema-urticaria": [
+            "Drug-induced angio-oedema-urticaria",
+            "Drug-induced angioedema-urticaria"
+        ],
+        "Systemic lupus erythematosus": [
+            "Systemic lupus erythematosus"
+        ],
+        "Photodermatitis due to sun": [
+            "Photodermatitis due to sun"
+        ],
+        "Allergic reaktion": [
+            "Allergic reaktion"
+        ],
+        "PPI sideeffect": [
+            "PPI sideeffect"
+        ],
+        "Cryptococcosis": [
+            "Cryptococcosis"
+        ],
+        "Trauma": [
+            "Trauma"
+        ],
+        "Necrotising cutaneous vasculitis": [
+            "Necrotising cutaneous vasculitis"
+        ],
+        "Mucormycotic gangrenous cellulitis": [
+            "Mucormycotic gangrenous cellulitis"
+        ],
+        "Allergic reaction to food": [
+            "Allergic reaction to food"
+        ],
+        "Cellulitis, facial": [
+            "Cellulitis, facial"
+        ],
+        "Parotitis - non-mumps": [
+            "Parotitis - non-mumps"
+        ],
+        "Allergic reaction to insect venom": [
+            "Allergic reaction to insect venom"
+        ],
+        "Alpha galactosidase allergy": [
+            "Alpha galactosidase allergy"
+        ],
+        "Poison ivy": [
+            "Poison ivy"
+        ],
+        "Dermatitis": [
+            "Contact dermatitis due to poison oak",
+            "Dermatitis"
+        ],
+        "Odontogenic infection of jaw": [
+            "Odontogenic infection of jaw"
+        ],
+        "Sialoadenitis": [
+            "Sialoadenitis"
+        ],
+        "Thoracic outlet syndrome associated with cervical rib": [
+            "Thoracic outlet syndrome associated with cervical rib"
+        ],
+        "Pancoast tumor": [
+            "Pancoast tumor"
+        ],
+        "Lymphoma": [
+            "lymphoma"
+        ],
+        "Congestive heart failure": [
+            "Congestive heart failure"
+        ],
+        "Cheyne-stokes collar": [
+            "Cheyne-stokes collar"
+        ],
+        "Periodontal abscess": [
+            "Parodontal abscess",
+            "Peridental abscess"
+        ],
+        "Sunlight-induced angioedema-urticaria": [
+            "Sunlight-induced angioedema-urticaria"
+        ],
+        "Photosensitisation due to sun": [
+            "Photosensitivity due to sunlight",
+            "Photosensitisation due to sun"
+        ],
+        "Maculopapular drug eruption": [
+            "Maculopapular drug eruption"
+        ],
+        "Atopic dermatitis": [
+            "Atopic dermatitis"
+        ],
+        "Spider bite wound": [
+            "Spider bite wound"
+        ],
+        "Type 4 hypersen": [
+            "Type 4 hypersen"
+        ],
+        "Tick red meat allergy": [
+            "Tick red meat allergy"
+        ],
+        "Nephropathy": [
+            "Nephropathy"
+        ],
+        "Disease due to Rickettsia": [
+            "Disease due to Genus Rickettsia",
+            "Rickettsial disease"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Western Rocky Mountain spotted fever": [
+            "Western Rocky Mountain spotted fever"
+        ],
+        "Sporotrichosis": [
+            "Sporotrichosis"
+        ],
+        "Tick bite red meat allergy": [
+            "Tick bite red meat allergy"
+        ],
+        "Anaphylaxis secondary to bite and/or sting": [
+            "Anaphylaxis secondary to bite and/or sting"
+        ],
+        "Erlichiosis": [
+            "Erlichiosis"
+        ],
+        "Delayed pressure urticaria": [
+            "Delayed pressure urticaria"
+        ],
+        "Ehrlichiosis": [
+            "Ehrlichiosis"
+        ],
+        "Brucellosis": [
+            "Brucellosis"
+        ],
+        "Tick allergy red meat": [
+            "Tick allergy red meat"
+        ],
+        "Rocky Mountain Spotted fever prodrome": [
+            "Rocky Mountain Spotted fever prodrome"
+        ],
+        "Acute kidney injury": [
+            "Acute kidney injury",
+            "Aki"
+        ],
+        "West Nile virus infection": [
+            "West Nile virus infection"
+        ],
+        "Insect bite of head and neck": [
+            "Insect bite of head and neck"
+        ],
+        "Preseptal cellulitis": [
+            "Preseptal cellulitis"
+        ],
+        "Cellulitis of face": [
+            "Orbital cellulitis",
+            "Cellulitis of face"
+        ],
+        "Zoster ophthalmicus": [
+            "Zoster ophthalmicus"
+        ],
+        "Leptospirosis": [
+            "Leptospirosis"
+        ],
+        "Tick fever due to Rickettsia siberica": [
+            "Tick fever due to Rickettsia siberica"
+        ],
+        "Rickettsia": [
+            "Rickettsia"
+        ],
+        "Dermatomyositis sine myositis": [
+            "Dermatomyositis sine myositis"
+        ],
+        "decompensated liver disease": [
+            "decompensated liver disease"
+        ],
+        "Melkersson-Rosenthal syndrome": [
+            "Melkersson-Rosenthal syndrome"
+        ],
+        "Obstruction of inferior vena cava": [
+            "Obstruction of inferior vena cava"
+        ],
+        "Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered": [
+            "Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered"
+        ],
+        "Shingles": [
+            "Shingles"
+        ],
+        "SVC - Superior vena cava abnormality": [
+            "Superior vena cava abnormality",
+            "SVC - Superior vena cava abnormality",
+            "Superior caval vein abnormality",
+            "SCV - Superior caval vein abnormality"
+        ],
+        "Deep vein thrombosis": [
+            "Deep vein thrombosis"
+        ],
+        "Facial cellulitis": [
+            "Facial cellulitis"
+        ],
+        "Internal jugular vein thrombosis": [
+            "Internal jugular vein thrombosis"
+        ],
+        "Septic thrombophlebitis": [
+            "Septic thrombophlebitis"
+        ],
+        "Impetigo": [
+            "Impetigo"
+        ],
+        "Endocapillary glomerulonephritis": [
+            "Endocapillary glomerulonephritis"
+        ],
+        "AIN - Acute interstitial nephritis": [
+            "Acute interstitial nephritis",
+            "AIN - Acute interstitial nephritis"
+        ],
+        "Erythema multiforme": [
+            "Erythema multiforme"
+        ],
+        "TEN - Toxic epidermal necrolysis": [
+            "TEN - Toxic epidermal necrolysis"
+        ],
+        "Hypomagnesemia": [
+            "Hypomagnesemia"
+        ],
+        "Hypocalcemia": [
+            "Hypocalcemia"
+        ],
+        "Clostridium difficile colitis": [
+            "Clostridium difficile colitis"
+        ],
+        "Eosinophilic esophagitis": [
+            "Eosinophilic esophagitis"
+        ],
+        "Varicella": [
+            "Varicella"
+        ],
+        "Rubella": [
+            "Rubella"
+        ],
+        "Secondary syphilis": [
+            "Secondary Syphilis"
+        ],
+        "Fifth disease": [
+            "Fifth disease"
+        ],
+        "Measles": [
+            "Measles"
+        ],
+        "Dental abscess with sinus": [
+            "Dental abscess with sinus"
+        ],
+        "Hives": [
+            "Hives"
+        ],
+        "Soft tissue infection": [
+            "Soft tissue infection"
+        ],
+        "Poison ivy rash": [
+            "Poison ivy rash"
+        ],
+        "Variant Creutzfeldt-Jakob disease": [
+            "Variant Creutzfeldt-Jakob disease"
+        ],
+        "SVC syndrone": [
+            "SVC syndrone"
+        ],
+        "Epstein-Barr virus": [
+            "Epstein-Barr virus"
+        ],
+        "Acute tonsillitis": [
+            "Acute tonsillitis"
+        ],
+        "Delayed hypersensitivity disorder": [
+            "Delayed hypersensitivity disorder"
+        ],
+        "Lyme": [
+            "Lyme"
+        ],
+        "Embolism and thrombosis of internal jugular vein": [
+            "Embolism and thrombosis of internal jugular vein"
+        ],
+        "Tick borne disease": [
+            "Tick borne disease"
+        ],
+        "Localized skin infection": [
+            "Localized skin infection"
+        ],
+        "Renal failure": [
+            "Renal failure"
+        ],
+        "Heart failure": [
+            "Heart failure"
+        ],
+        "Allergy to alphagalactose": [
+            "Allergy to alphagalactose"
+        ],
+        "ajs": [
+            "ajs"
+        ],
+        "Delayed urticaria after eating red meat": [
+            "Delayed urticaria after eating red meat"
+        ],
+        "Anaphylaxis due to red meat": [
+            "Anaphylaxis due to red meat"
+        ],
+        "Leishmaniasis": [
+            "Leishmaniasis"
+        ],
+        "Cutaneous leishmaniasis": [
+            "Cutaneous leishmaniasis"
+        ],
+        "Tick borne illness": [
+            "Tick borne illness"
+        ],
+        "Medication side effect": [
+            "Medication side effect"
+        ],
+        "Renal anasarca": [
+            "Renal anasarca"
+        ],
+        "Rickets, active": [
+            "Rickets, active"
+        ],
+        "Anaphylaxis to bugbite": [
+            "Anaphylaxis to bugbite"
+        ],
+        "Eosinophilic cellulitis [Wells]": [
+            "Eosinophilic cellulitis [Wells]"
+        ],
+        "Chagas' disease": [
+            "Chagas disease"
+        ],
+        "Spotted fever due to Rickettsia rickettsii": [
+            "Spotted fever due to Rickettsia rickettsii"
+        ],
+        "Disease caused by parasite": [
+            "Parasitic infectious disease",
+            "Parasitic disease"
+        ],
+        "Bell's palsy": [
+            "Bell's palsy"
+        ],
+        "Asthma": [
+            "Asthma"
+        ],
+        "Non-Hodgkin lymphoma": [
+            "Non-Hodgkin lymphoma"
+        ],
+        "Submandibular abscess": [
+            "Submandibular abscess"
+        ],
+        "Obstructive sleep apnea": [
+            "Sleep apnea",
+            "Obstructive sleep apnea"
+        ],
+        "Acute pharyngitis": [
+            "Acute pharyngitis"
+        ],
+        "Allergic urticaria due to bite and/or sting": [
+            "Allergic urticaria due to bite and/or sting"
+        ],
+        "Cushing's syndrome": [
+            "Cushing's syndrome"
+        ],
+        "Babesiosis": [
+            "abcess",
+            "Babesiosis",
+            "Infection by Babesia"
+        ],
+        "Trigeminal neuralgia": [
+            "Trigeminal neuralgia"
+        ],
+        "Zoster ocular disease": [
+            "Zoster ocular disease"
+        ],
+        "Anaphylaxis due to shellfish": [
+            "Anaphylaxis due to shellfish"
+        ],
+        "Vascular thoracic outlet syndrome": [
+            "Vascular thoracic outlet syndrome"
+        ],
+        "Urticaria medicamentosa": [
+            "Urticaria due to drug allergy",
+            "Drug-induced urticaria"
+        ],
+        "Limited cutaneous systemic sclerosis": [
+            "Limited cutaneous systemic sclerosis"
+        ],
+        "Cellulits": [
+            "Cellulits"
+        ],
+        "Irritant contact dermatitis": [
+            "Irritant contact dermatitis"
+        ],
+        "Reflux laryngitis": [
+            "Reflux laryngitis"
+        ],
+        "Tick born illness": [
+            "Tick born illness"
+        ],
+        "Lupus erythematosus": [
+            "Lupus erythematosus"
+        ],
+        "Insect bite, nonvenomous, of scalp, infected": [
+            "Insect bite, nonvenomous, of scalp, infected"
+        ],
+        "Scombroid fish poisoning": [
+            "Scombroid fish poisoning",
+            "Toxic effect of scombroid fish poisoning"
+        ],
+        "Bug bite": [
+            "Bug bite"
+        ],
+        "alpha gal sydrome": [
+            "alpha gal sydrome"
+        ],
+        "Non dose-related adverse reaction to medication": [
+            "Non dose-related adverse reaction to medication"
+        ],
+        "Human anaplasmosis due to Anaplasma phagocytophilum": [
+            "Infection by Anaplasma phagocytophilum",
+            "Human anaplasmosis due to Anaplasma phagocytophilum"
+        ],
+        "ALF - Acute liver failure": [
+            "ALF - Acute liver failure"
+        ],
+        "Galactosemia": [
+            "Galactosemia"
+        ],
+        "Fungal respiratory infection": [
+            "Fungal respiratory infection"
+        ],
+        "Snake venom causing toxic effect": [
+            "Snake venom causing toxic effect"
+        ],
+        "Drug allergic reaction": [
+            "Drug allergic reaction"
+        ],
+        "Galactose alpha 13 allergy": [
+            "Galactose alpha 13 allergy"
+        ],
+        "Paroxysmal nocturnal hemoglobinuria": [
+            "Paroxysmal nocturnal haemoglobinuria",
+            "PNH - Paroxysmal nocturnal haemoglobinuria"
+        ],
+        "Aspergillosis": [
+            "Aspergillosis"
+        ],
+        "Anaphilactic reaction": [
+            "Anaphilactic reaction"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "Other conditions associated with Lyme disease": [
+            "Other conditions associated with Lyme disease"
+        ],
+        "Eruption due to drug": [
+            "Drug rash",
+            "Drug eruption",
+            "Drug induced rash"
+        ],
+        "Dental abscess without a sinus": [
+            "Dental abscess without a sinus"
+        ],
+        "Lemierre syndrome": [
+            "Lemierre syndrome"
+        ],
+        "DRESS (Drug reaction with eosinophilia and systemic symptoms) due to strontium ranelate": [
+            "DRESS (Drug reaction with eosinophilia and systemic symptoms) due to strontium ranelate"
+        ],
+        "Cellilitis": [
+            "Cellilitis"
+        ],
+        "Cellulitis of periorbital region": [
+            "Cellulitis of periorbital region"
+        ],
+        "Allergic food": [
+            "Allergic food"
+        ],
+        "Porphyria": [
+            "Porphyria"
+        ],
+        "Electrolyte problem": [
+            "Electrolyte problem"
+        ],
+        "Periorbital oedema": [
+            "Periorbital oedema"
+        ],
+        "Hypothyroidism": [
+            "Hypothyroidism"
+        ],
+        "Atopic reaction": [
+            "Atopic reaction"
+        ],
+        "alpha-gal syndrom": [
+            "alpha-gal syndrom"
+        ],
+        "Deficiency of alpha-galactosidase": [
+            "Deficiency of alpha-galactosidase"
+        ],
+        "Gastrointestinal food allergy": [
+            "Gastrointestinal food allergy"
+        ],
+        "Local infection of the skin and subcutaneous tissue": [
+            "Local infection of the skin and subcutaneous tissue"
+        ],
+        "Infection": [
+            "Infection"
+        ],
+        "Tick born meat allergy": [
+            "Tick born meat allergy"
+        ],
+        "Cellulitis of orbit": [
+            "Cellulitis of orbit"
+        ],
+        "Mediastinitis": [
+            "Mediastinitis"
+        ],
+        "Liver cirrhosis": [
+            "Liver cirrhosis"
+        ],
+        "Tic meat allergy": [
+            "Tic meat allergy"
+        ],
+        "Dental infection": [
+            "Dental infection"
+        ],
+        "Endemic myocosis": [
+            "Endemic myocosis"
+        ],
+        "Cerebral venous thrombosis": [
+            "Cerebral venous thrombosis"
+        ],
+        "Hypercapnia": [
+            "Hypercapnia"
+        ],
+        "Lymphangitis": [
+            "Lymphangitis"
+        ],
+        "Adenopathy": [
+            "Adenopathy"
+        ],
+        "Dermatomyositis": [
+            "Dermatomyositis"
+        ],
+        "angular chelitis": [
+            "angular chelitis"
+        ],
+        "Medication adverse event": [
+            "Medication adverse event"
+        ],
+        "Sarcoidosis": [
+            "Sarcoidosis"
+        ],
+        "Ricketsia": [
+            "Ricketsia"
+        ],
+        "Photosensitive atopic dermatitis": [
+            "Photosensitive atopic dermatitis"
+        ],
+        "Spider bite": [
+            "Spider bite"
+        ],
+        "A-galactose allergy": [
+            "A-galactose allergy"
+        ],
+        "Upper respiratory infection": [
+            "Upper respiratory infection"
+        ],
+        "Infection by Borrelia duttonii": [
+            "Infection by Borrelia duttonii"
+        ],
+        "Tick typhus due to Rickettsia australis": [
+            "Tick typhus due to Rickettsia australis"
+        ],
+        "Hypersesitivity reaction": [
+            "Hypersesitivity reaction"
+        ],
+        "Tularemia": [
+            "Tularemia"
+        ],
+        "Disease caused by fungus": [
+            "Disease caused by fungus"
+        ],
+        "Human anaplasmosis": [
+            "Human anaplasmosis"
+        ],
+        "STARI - Southern tick-associated rash illness": [
+            "STARI - Southern tick-associated rash illness"
+        ],
+        "Allergic rash": [
+            "Allergic rash"
+        ],
+        "Acute drug-induced tubulointerstitial nephritis": [
+            "Acute drug-induced interstitial nephritis",
+            "Acute tubulointerstitial nephritis due to hypersensitivity to drugs"
+        ],
+        "Abscess": [
+            "Abscess"
+        ],
+        "Parotid sialodocholithiasis": [
+            "Parotid sialodocholithiasis"
+        ],
+        "Thyroiditis": [
+            "Thyroiditis"
+        ],
+        "Henoch-Sch\u00f6nlein purpura": [
+            "HSP - Henoch-Schonlein purpura",
+            "Henoch-Schoenlein vasculitis"
+        ],
+        "Hereditary dermatographism": [
+            "Hereditary dermatographism"
+        ],
+        "Helicobacter pylori": [
+            "Helicobacter pylori"
+        ],
+        "Parotid abscess": [
+            "Parotid abscess"
+        ],
+        "CVA - Cerebrovascular accident": [
+            "CVA - Cerebrovascular accident"
+        ],
+        "Pancoast syndrome": [
+            "Pancoast syndrome"
+        ],
+        "Plant photodermatitis": [
+            "Plant photodermatitis"
+        ],
+        "Tick-borne infection": [
+            "Tick-borne infection"
+        ],
+        "Disease due to Rickettsiales": [
+            "Rickettsial infectious disease",
+            "Rickettsial infection"
+        ],
+        "Hyperthyroidism": [
+            "Hyperthyroidism"
+        ],
+        "Infectious mononucleosis": [
+            "Infectious mononucleosis"
+        ],
+        "Meningitis": [
+            "Meningitis"
+        ],
+        "Antibody to alpha-gal": [
+            "Antibody to alpha-gal"
+        ],
+        "Delayed anaphylaxis": [
+            "Delayed anaphylaxis"
+        ],
+        "Anaphylaxisis": [
+            "Anaphylaxisis"
+        ],
+        "Myxedema": [
+            "Myxedema"
+        ],
+        "Deficiency of nitrate reductase": [
+            "Deficiency of nitrate reductase"
+        ],
+        "Necrotizing fasciitis": [
+            "Necrotizing fasciitis"
+        ],
+        "Mosquito-borne viral fever, unspecified": [
+            "Mosquito-borne viral fever, unspecified"
+        ],
+        "Allergic reaction to bee sting": [
+            "Allergic reaction to bee sting"
+        ],
+        "Infestation by bed bug": [
+            "Infestation by bed bug"
+        ],
+        "Anaphylaxia": [
+            "Anaphylaxia"
+        ],
+        "Ramsay Hunt syndrome - auricular": [
+            "Ramsay Hunt syndrome - auricular"
+        ],
+        "Infected insect bite by site": [
+            "Infected insect bite by site"
+        ],
+        "Adverse cutaneous reaction to herbal medicine": [
+            "Adverse cutaneous reaction to herbal medicine"
+        ],
+        "sinus cavernisus thrombosis": [
+            "sinus cavernisus thrombosis"
+        ],
+        "TOS - Thoracic outlet syndrome": [
+            "TOS - Thoracic outlet syndrome"
+        ],
+        "Tick exposure": [
+            "Tick exposure"
+        ],
+        "Insect-related poisoning": [
+            "Insect-related poisoning"
+        ],
+        "Pityriasis rosea": [
+            "Pityriasis rosea"
+        ],
+        "Metabolic acidosis, IAG, reduced excretion of inorganic acids": [
+            "Metabolic acidosis, IAG, reduced excretion of inorganic acids"
+        ],
+        "Superior caval vein obstruction": [
+            "Superior caval vein obstruction"
+        ],
+        "Primary hypercoagulable states": [
+            "Primary hypercoagulable states"
+        ],
+        "Red meat allergy": [
+            "Red meat allergy"
+        ],
+        "Cell-mediated immune reaction": [
+            "Delayed hypersensitivity reaction",
+            "Hypersensitivity reaction type IV"
+        ],
+        "Liver injury": [
+            "Liver injury"
+        ],
+        "Polycythemia vera": [
+            "Polycythemia Vera"
+        ],
+        "Noctural cough": [
+            "Noctural cough"
+        ],
+        "Localized cutaneous mastocytosis": [
+            "Localized cutaneous mastocytosis"
+        ],
+        "Idiopathic nonhistaminergic angioedema": [
+            "Idiopathic nonhistaminergic angioedema"
+        ],
+        "San Joaquin Valley fever": [
+            "San Joaquin Valley fever"
+        ],
+        "Nocardiosis": [
+            "Nocardiosis"
+        ],
+        "Diffuse erythrodermic mastocytosis": [
+            "Diffuse erythrodermic mastocytosis"
+        ],
+        "Actinomycosis": [
+            "Actinomycosis"
+        ],
+        "Galactose 1,3 alpha galactose allergy": [
+            "Galactose 1,3 alpha galactose allergy"
+        ],
+        "Galactise 1,3 alpha galactose allergy": [
+            "Galactise 1,3 alpha galactose allergy"
+        ],
+        "Acquired alpha gal due to tick bites": [
+            "Acquired alpha gal due to tick bites"
+        ],
+        "Lone star tick bite leading to meat allergy": [
+            "Lone star tick bite leading to meat allergy"
+        ],
+        "Angioedema due to drug": [
+            "Angioedema due to drug"
+        ],
+        "facial swelling": [
+            "facial swelling"
+        ],
+        "arthropod borne illness": [
+            "arthropod borne illness"
+        ],
+        "Erythema nodosum": [
+            "Erythema nodosum"
+        ],
+        "Gastroesophageal reflux disease": [
+            "Gastroesophageal reflux disease"
+        ],
+        "Anasarca": [
+            "Anasarca"
+        ],
+        "Sialolithiasis": [
+            "Sialolithiasis"
+        ],
+        "Acne": [
+            "Acne"
+        ],
+        "Rosacea": [
+            "Rosacea"
+        ],
+        "Topical corticosteroid withdrawal": [
+            "Topical corticosteroid withdrawal"
+        ],
+        "Rhinofacial conidiobolomycosis": [
+            "Rhinofacial conidiobolomycosis"
+        ],
+        "Interstitial granulomatous dermatitis": [
+            "Interstitial granulomatous dermatitis"
+        ],
+        "Urticarial vasculitis with monoclonal IgM component, Schnitzler": [
+            "Urticarial vasculitis with monoclonal IgM component, Schnitzler"
+        ],
+        "CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome": [
+            "CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome"
+        ],
+        "Systemic sclerosis": [
+            "Systemic sclerosis"
+        ],
+        "Gonococcal infection with localized cutaneous involvement": [
+            "Gonococcal infection with localized cutaneous involvement"
+        ],
+        "AIN": [
+            "AIN"
+        ],
+        "Viral exanthem": [
+            "Viral exanthem"
+        ],
+        "C3 esterase deficiency": [
+            "C3 esterase deficiency"
+        ],
+        "Alpha gal red mest allergy post tick bite": [
+            "Alpha gal red mest allergy post tick bite"
+        ],
+        "Rhus dermatitis": [
+            "Rhus dermatitis"
+        ],
+        "Horner's syndrome": [
+            "Horner's syndrome"
+        ],
+        "Meat allergy due to Lone Star tick bite": [
+            "Meat allergy due to Lone Star tick bite"
+        ],
+        "Ricketsial infection": [
+            "Ricketsial infection"
+        ],
+        "Streptococcal pharyngitis": [
+            "Streptococcal pharyngitis"
+        ],
+        "Pemphigus vulgaris": [
+            "Pemphigus vulgaris"
+        ],
+        "Bullous pemphigoid": [
+            "Bullous pemphigoid"
+        ],
+        "Glomerulonephritis": [
+            "Glomerulonephritis"
+        ],
+        "Volume overload": [
+            "Volume overload"
+        ],
+        "Delayed onset anaphylaxis from beef": [
+            "Delayed onset anaphylaxis from beef"
+        ],
+        "Star  tick": [
+            "Star  tick"
+        ],
+        "Rash from ppi": [
+            "Rash from ppi"
+        ],
+        "Dental caries": [
+            "Dental caries"
+        ],
+        "Mast cell mediated angioedema": [
+            "Mast cell mediated angioedema"
+        ],
+        "Allergie": [
+            "Allergie"
+        ],
+        "tick fever": [
+            "tick fever"
+        ],
+        "Urticaria secondary to infection": [
+            "Urticaria secondary to infection"
+        ],
+        "Thrombosis": [
+            "Thrombosis"
+        ],
+        "Contact dermatitis due to meat": [
+            "Contact dermatitis due to meat"
+        ],
+        "Poison sumac poisoning": [
+            "Poison sumac poisoning"
+        ],
+        "Allergic drug reaction": [
+            "Allergic drug reaction"
+        ],
+        "Urticaria due to cold and heat": [
+            "Urticaria due to cold and heat"
+        ],
+        "Mosquito bite": [
+            "Mosquito bite"
+        ],
+        "Absence of tooth - acquired": [
+            "Absence of tooth - acquired"
+        ],
+        "Oral allergy syndrome": [
+            "Oral allergy syndrome"
+        ],
+        "Lactose intolerance": [
+            "Lactose intolerance"
+        ],
+        "Cellulitis of right external ear": [
+            "Cellulitis of right external ear"
+        ],
+        "Tick born": [
+            "Tick born"
+        ],
+        "Temporomandibular joint disorders": [
+            "Temporomandibular joint disorders"
+        ],
+        "Strep pyogenes": [
+            "Strep pyogenes"
+        ],
+        "Hypersensitivity disorder mediated by immune complex": [
+            "Hypersensitivity disorder mediated by immune complex"
+        ],
+        "Poison ivy poisoning": [
+            "Poison ivy poisoning"
+        ],
+        "Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere": [
+            "Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere"
+        ],
+        "Typhus fever": [
+            "Typhus fever"
+        ],
+        "Spirochetal infection, unspecified": [
+            "Spirochetal infection, unspecified"
+        ],
+        "Parotiditis": [
+            "Parotiditis"
+        ],
+        "Tick bite causing meat allergy": [
+            "Tick bite causing meat allergy"
+        ],
+        "Acute interstitial pneumonitis": [
+            "Acute interstitial pneumonitis"
+        ],
+        "Insect sting": [
+            "Insect sting"
+        ],
+        "Esophageal cancer": [
+            "Esophageal cancer"
+        ],
+        "Arthropod": [
+            "Arthropod"
+        ],
+        "On examination - allergic rash": [
+            "On examination - allergic rash"
+        ],
+        "Adverse medication reaction": [
+            "Adverse medication reaction"
+        ],
+        "HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps": [
+            "HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps"
+        ],
+        "Alpha-gal sensitization": [
+            "Alpha-gal sensitization"
+        ],
+        "Medication induced edema": [
+            "Medication induced edema"
+        ],
+        "Post-streptococcal glomerulonephritis": [
+            "Post-streptococcal glomerulonephritis"
+        ],
+        "Infection by Ascaris lumbricoides": [
+            "Infection by Ascaris lumbricoides"
+        ],
+        "Anaphalaxis": [
+            "Anaphalaxis"
+        ],
+        "Familial urticaria": [
+            "Familial urticaria"
+        ],
+        "Choking due to food in larynx": [
+            "Choking due to food in larynx"
+        ],
+        "Preorbital cellulitis": [
+            "Preorbital cellulitis"
+        ],
+        "Minimal change nephrotic syndrome": [
+            "Minimal change nephrotic syndrome"
+        ],
+        "Venocaval compression": [
+            "Venocaval compression"
+        ],
+        "Discoid lupus erythematosus": [
+            "Discoid lupus erythematosus"
+        ],
+        "Erythema migrans": [
+            "Erythema migrans"
+        ],
+        "Staphylococcal infection, unspecified site": [
+            "Staphylococcal infection, unspecified site"
+        ],
+        "Nonvenomous insect bite of lip without infection": [
+            "Nonvenomous insect bite of lip without infection"
+        ],
+        "Infected tooth socket": [
+            "Infected tooth socket"
+        ],
+        "ABPA - Allergic bronchopulmonary aspergillosis": [
+            "ABPA - Allergic bronchopulmonary aspergillosis"
+        ]
+    },
+    "0.75-dx_all-official": {
+        "Angioedema": [
+            "Allergic reaction to insect bite",
+            "Allergic urticaria",
+            "Angioedema",
+            "Allergic reaction",
+            "Angio-oedema due to disorder of C1 esterase inhibitor",
+            "Food allergy",
+            "Idiopathic urticaria and/or angio-oedema",
+            "Allergy",
+            "Angio-oedema and/or urticaria",
+            "Superior vena cava syndrome",
+            "Type 1 hypersensitivity response",
+            "Allergy reaction",
+            "Urticaria",
+            "Allergic reaction to substance",
+            "Alpha-gal syndrome",
+            "Allergic contact dermatitis",
+            "Hereditary angioedema with normal C1 esterase inhibitor activity",
+            "Svc syndrome",
+            "Alpha gal",
+            "Angioedema due to angiotensin-converting-enzyme inhibitor",
+            "Angioedema due to disorder of C1 esterase inhibitor",
+            "Episodic angioedema with eosinophilia",
+            "Meat allergy",
+            "Autoimmune urticaria and/or angioedema",
+            "insect bite",
+            "ACE inhibitor-induced angio-oedema",
+            "Acquired angioedema due to lymphoproliferative disorder",
+            "Type 4 hypersensitivity reaction",
+            "C-1 esterase inhibitor deficiency",
+            "Nephrotic syndrome",
+            "Mammalian meat allergy",
+            "Allergy to red meat",
+            "Allergies",
+            "alpha gal allergy",
+            "HAE - Hereditary angio-oedema",
+            "Contact dermatitis",
+            "DRESS syndrome",
+            "Hereditary angioedema",
+            "Tick allergy red meat",
+            "Idiopathic urticaria",
+            "Angioedema due to disorder of kinin metabolism",
+            "Insect bite of face",
+            "Hypereosinophilic syndrome",
+            "Allergic urticaria and/or angioedema",
+            "Hypersensitivity reaction type I",
+            "ACE inhibitor-induced angioedema",
+            "Acquired angioedema due to C1 inhibitor autoantibody",
+            "Drug Rash with Eosinophilia and Systemic Symptoms",
+            "Stevens-Johnson syndrome",
+            "Uric",
+            "Allergic rhinitis",
+            "Hereditary angioedema - type 1",
+            "Allergic urticaria and/or angio-oedema",
+            "Allergic angio-oedema",
+            "Idiopathic angio-oedema-urticaria",
+            "Hereditary angio-oedema - type 1",
+            "Allergy to meat",
+            "Contact dermatitis due to nickel",
+            "alpha galactose allergy",
+            "tick induced meat allergy",
+            "Angiotensin converting enzyme (ACE) inhibitor-aggravated angio-oedema",
+            "Medication allergy",
+            "Adverse drug reaction",
+            "Dermatographic urticaria",
+            "Chronic urticaria",
+            "Tick borne meat allergy",
+            "HAE - Hereditary angioedema",
+            "Hereditary angioedema - type 2",
+            "Drug reaction with eosinophilia and systemic symptoms",
+            "Drug allergic reaction",
+            "Allergic reactin",
+            "Allergic medicine",
+            "Angiotensin converting enzyme inhibitor-aggravated angioedema",
+            "Urticaria-angioedema",
+            "Allergic angioedema due to ingested food",
+            "DRESS",
+            "Drug allergy",
+            "Hereditary C1 esterase inhibitor deficiency - deficient factor",
+            "Allergic reaction after tic",
+            "Drug reaction",
+            "Angiotensin converting enzyme (ACE) inhibitor-aggravated angioedema",
+            "HANE - Hereditary angioneurotic edema",
+            "Acute urticaria",
+            "Idiopathic angioedema-urticaria",
+            "Hereditary angio-oedema - type 2",
+            "Delayed hypersensitivity reaction",
+            "Meat hypersensitivity",
+            "Acquired alpha gal meat allergy due to tick bites",
+            "Hypersensitivity reaction type IV",
+            "Drug-induced hypersensitivity syndrome",
+            "Job's syndrome",
+            "IgE homocytotropic antibody reaction",
+            "Angioedema face",
+            "Allergie",
+            "Delayed allergy to red meat",
+            "Environmental allergy",
+            "Caterpillar dermatitis",
+            "Edema",
+            "Idiopathic urticaria and/or angioedema",
+            "Aspirin-induced angioedema-urticaria",
+            "Alpha-gal hypersensitivity",
+            "Alpha gal allergy due to tick bite"
+        ],
+        "RMSF - Rocky Mountain spotted fever": [
+            "Rocky Mountain spotted fever",
+            "RMSF - Rocky Mountain spotted fever",
+            "Rocky Mountain Spotted fever prodrome",
+            "Rocky Mountain tick fever"
+        ],
+        "Lyme disease": [
+            "Lyme disease",
+            "Lyme borreliosis",
+            "lymphedema",
+            "Lyme",
+            "Other conditions associated with Lyme disease",
+            "Quinke's disease",
+            "Infection due to Borrelia burgdorferi sensu lato"
+        ],
+        "Atopic IgE-mediated allergic disorder": [
+            "Atopic immunoglobulin E-mediated allergic disorder",
+            "Atopic IgE-mediated allergic disorder"
+        ],
+        "Mumps": [
+            "Mumps"
+        ],
+        "Mastocytosis": [
+            "Mastocytosis"
+        ],
+        "Eosinophilia": [
+            "Eosinophilia"
+        ],
+        "Adverse drug interaction with drug": [
+            "Adverse drug interaction with drug"
+        ],
+        "Spider ven": [
+            "Spider ven"
+        ],
+        "Western poison oak poisoning": [
+            "Western poison oak poisoning"
+        ],
+        "Anaphylactic reaction to food": [
+            "Anaphylaxis",
+            "Anaphylaxy",
+            "Anaphylactic reaction to food",
+            "Anaplasmosis",
+            "Anaphylaxis due to ingested food",
+            "Anaphylactic reaction",
+            "Anaphylactic shock due to adverse food reaction",
+            "Anaphylaxia",
+            "Delayed onset anaphylaxis from beef",
+            "Anaphalaxis"
+        ],
+        "Peritonsillar abscess": [
+            "Peritonsillar abscess"
+        ],
+        "Dental abscess": [
+            "Dental abscess"
+        ],
+        "Infectious parotitis": [
+            "Infection of tick bite",
+            "Infectious parotitis"
+        ],
+        "Colorado tick fever": [
+            "Colorado tick fever"
+        ],
+        "IgE-mediated allergic disorder": [
+            "IgE-mediated hypersensitivity disorder",
+            "IgE-mediated allergic disorder"
+        ],
+        "Tick bite without infection": [
+            "Tick bite",
+            "Tick bite without infection",
+            "Tick disease"
+        ],
+        "Glutamine reaction": [
+            "Glutamine reaction"
+        ],
+        "Anaphylactic reaction due to serum": [
+            "Anaphylactic reaction due to serum"
+        ],
+        "Orbital cellulitis": [
+            "Cellulitis",
+            "Orbital cellulitis",
+            "Cellulitis of face",
+            "Cellulitis and acute lymphangitis",
+            "Facial cellulitis",
+            "Cellulits",
+            "Vasculitis"
+        ],
+        "Erysipelas": [
+            "Erysipelas"
+        ],
+        "Blastomycosis": [
+            "Blastomycosis"
+        ],
+        "Histoplasmosis": [
+            "Histoplasmosis"
+        ],
+        "Toxoplasmosis": [
+            "Toxoplasmosis"
+        ],
+        "Hypersensitivity reaction mediated by antibody": [
+            "Hypersensitivity reaction type II",
+            "Hypersensitivity reaction mediated by antibody"
+        ],
+        "Disease due to Lone star virus": [
+            "Disease due to Lone star virus",
+            "Lone star tick bite"
+        ],
+        "Spotted fever [tick-borne rickettsioses]": [
+            "Spotted fever [tick-borne rickettsioses]"
+        ],
+        "Acute sinusitis": [
+            "Acute sinusitis"
+        ],
+        "Cerebral venous sinus thrombosis": [
+            "Cerebral venous sinus thrombosis"
+        ],
+        "alpha-Galactosidase-A deficiency": [
+            "Alpha-galactosidase A deficiency",
+            "Galactocerebroside beta-galactosidase deficiency - late onset"
+        ],
+        "Allergy to drug in contact with skin": [
+            "Allergy to drug in contact with skin"
+        ],
+        "allergy to latex": [
+            "allergy to latex"
+        ],
+        "medication reaction": [
+            "medication reaction"
+        ],
+        "Idiopathic angioedema": [
+            "Idiopathic angioedema"
+        ],
+        "Suppurative parotitis": [
+            "Suppurative parotitis"
+        ],
+        "Ludwig's angina": [
+            "Ludwig's angina"
+        ],
+        "Tick-borne meningopolyneuritis": [
+            "Tick-borne meningopolyneuritis"
+        ],
+        "Allergy to alpha glucoside inhibitor": [
+            "Allergy to alpha glucoside inhibitor"
+        ],
+        "Lone star tick meat allergy": [
+            "Lone star tick meat allergy"
+        ],
+        "Contact dermatitis due to poison ivy": [
+            "Allergic dermatitis due to poison ivy",
+            "Contact dermatitis due to poison ivy"
+        ],
+        "SVC compression": [
+            "SVC compression"
+        ],
+        "Allergy to beef": [
+            "Beef allergy",
+            "Allergy to beef"
+        ],
+        "Drug-aggravated angioedema-urticaria": [
+            "Drug-induced angio-oedema-urticaria",
+            "Drug-induced angioedema-urticaria"
+        ],
+        "Systemic lupus erythematosus": [
+            "Systemic lupus erythematosus"
+        ],
+        "Photodermatitis due to sun": [
+            "Photodermatitis due to sun"
+        ],
+        "Allergic reaktion": [
+            "Allergic reaktion"
+        ],
+        "PPI sideeffect": [
+            "PPI sideeffect"
+        ],
+        "Cryptococcosis": [
+            "Cryptococcosis"
+        ],
+        "Trauma": [
+            "Trauma"
+        ],
+        "Necrotising cutaneous vasculitis": [
+            "Necrotising cutaneous vasculitis"
+        ],
+        "Mucormycotic gangrenous cellulitis": [
+            "Mucormycotic gangrenous cellulitis"
+        ],
+        "Allergic reaction to food": [
+            "Allergic reaction to food"
+        ],
+        "Cellulitis, facial": [
+            "Cellulitis, facial"
+        ],
+        "Parotitis - non-mumps": [
+            "Parotitis - non-mumps"
+        ],
+        "Allergic reaction to insect venom": [
+            "Allergic reaction to insect venom"
+        ],
+        "Alpha galactosidase allergy": [
+            "Alpha galactosidase allergy"
+        ],
+        "Poison ivy": [
+            "Poison ivy"
+        ],
+        "Dermatitis": [
+            "Contact dermatitis due to poison oak",
+            "Dermatitis"
+        ],
+        "Odontogenic infection of jaw": [
+            "Odontogenic infection of jaw"
+        ],
+        "Sialoadenitis": [
+            "Sialoadenitis"
+        ],
+        "Thoracic outlet syndrome associated with cervical rib": [
+            "Thoracic outlet syndrome associated with cervical rib"
+        ],
+        "Pancoast tumor": [
+            "Pancoast tumor"
+        ],
+        "Lymphoma": [
+            "lymphoma"
+        ],
+        "Congestive heart failure": [
+            "Congestive heart failure"
+        ],
+        "Cheyne-stokes collar": [
+            "Cheyne-stokes collar"
+        ],
+        "Periodontal abscess": [
+            "Parodontal abscess",
+            "Peridental abscess"
+        ],
+        "Sunlight-induced angioedema-urticaria": [
+            "Sunlight-induced angioedema-urticaria"
+        ],
+        "Photosensitisation due to sun": [
+            "Photosensitivity due to sunlight",
+            "Photosensitisation due to sun"
+        ],
+        "Maculopapular drug eruption": [
+            "Maculopapular drug eruption"
+        ],
+        "Atopic dermatitis": [
+            "Atopic dermatitis",
+            "Photosensitive atopic dermatitis"
+        ],
+        "Spider bite wound": [
+            "Spider bite wound"
+        ],
+        "Type 4 hypersen": [
+            "Type 4 hypersen"
+        ],
+        "Tick red meat allergy": [
+            "Tick red meat allergy"
+        ],
+        "Nephropathy": [
+            "Nephropathy"
+        ],
+        "Disease due to Rickettsia": [
+            "Disease due to Genus Rickettsia",
+            "Rickettsial disease"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Western Rocky Mountain spotted fever": [
+            "Western Rocky Mountain spotted fever"
+        ],
+        "Sporotrichosis": [
+            "Sporotrichosis"
+        ],
+        "Tick bite red meat allergy": [
+            "Tick bite red meat allergy"
+        ],
+        "Anaphylaxis secondary to bite and/or sting": [
+            "Anaphylaxis secondary to bite and/or sting"
+        ],
+        "Erlichiosis": [
+            "Erlichiosis"
+        ],
+        "Delayed pressure urticaria": [
+            "Delayed pressure urticaria"
+        ],
+        "Ehrlichiosis": [
+            "Ehrlichiosis"
+        ],
+        "Brucellosis": [
+            "Brucellosis"
+        ],
+        "Acute kidney injury": [
+            "Acute kidney injury",
+            "Aki"
+        ],
+        "Infection": [
+            "West Nile virus infection",
+            "Infection"
+        ],
+        "Insect bite of head and neck": [
+            "Insect bite of head and neck"
+        ],
+        "Preseptal cellulitis": [
+            "Preseptal cellulitis"
+        ],
+        "Zoster ophthalmicus": [
+            "Zoster ophthalmicus"
+        ],
+        "Leptospirosis": [
+            "Leptospirosis"
+        ],
+        "Tick fever due to Rickettsia siberica": [
+            "Tick fever due to Rickettsia siberica"
+        ],
+        "Rickettsia": [
+            "Rickettsia"
+        ],
+        "Dermatomyositis sine myositis": [
+            "Dermatomyositis sine myositis"
+        ],
+        "decompensated liver disease": [
+            "decompensated liver disease"
+        ],
+        "Melkersson-Rosenthal syndrome": [
+            "Melkersson-Rosenthal syndrome"
+        ],
+        "Obstruction of inferior vena cava": [
+            "Obstruction of inferior vena cava"
+        ],
+        "Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered": [
+            "Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered"
+        ],
+        "Shingles": [
+            "Shingles"
+        ],
+        "SVC - Superior vena cava abnormality": [
+            "Superior vena cava abnormality",
+            "SVC - Superior vena cava abnormality",
+            "Superior caval vein abnormality",
+            "SCV - Superior caval vein abnormality"
+        ],
+        "Deep vein thrombosis": [
+            "Deep vein thrombosis"
+        ],
+        "Internal jugular vein thrombosis": [
+            "Internal jugular vein thrombosis"
+        ],
+        "Septic thrombophlebitis": [
+            "Septic thrombophlebitis"
+        ],
+        "Impetigo": [
+            "Impetigo"
+        ],
+        "Endocapillary glomerulonephritis": [
+            "Endocapillary glomerulonephritis"
+        ],
+        "AIN - Acute interstitial nephritis": [
+            "Acute interstitial nephritis",
+            "AIN - Acute interstitial nephritis"
+        ],
+        "Erythema multiforme": [
+            "Erythema multiforme"
+        ],
+        "TEN - Toxic epidermal necrolysis": [
+            "TEN - Toxic epidermal necrolysis"
+        ],
+        "Hypomagnesemia": [
+            "Hypomagnesemia"
+        ],
+        "Hypocalcemia": [
+            "Hypocalcemia"
+        ],
+        "Clostridium difficile colitis": [
+            "Clostridium difficile colitis"
+        ],
+        "Eosinophilic esophagitis": [
+            "Eosinophilic esophagitis"
+        ],
+        "Varicella": [
+            "Varicella"
+        ],
+        "Rubella": [
+            "Rubella"
+        ],
+        "Secondary syphilis": [
+            "Secondary Syphilis"
+        ],
+        "Fifth disease": [
+            "Fifth disease"
+        ],
+        "Measles": [
+            "Measles"
+        ],
+        "Dental abscess with sinus": [
+            "Dental abscess with sinus"
+        ],
+        "Hives": [
+            "Hives"
+        ],
+        "Soft tissue infection": [
+            "Soft tissue infection"
+        ],
+        "Poison ivy rash": [
+            "Poison ivy rash"
+        ],
+        "Variant Creutzfeldt-Jakob disease": [
+            "Variant Creutzfeldt-Jakob disease"
+        ],
+        "SVC syndrone": [
+            "SVC syndrone"
+        ],
+        "Epstein-Barr virus": [
+            "Epstein-Barr virus"
+        ],
+        "Acute tonsillitis": [
+            "Acute tonsillitis"
+        ],
+        "Delayed hypersensitivity disorder": [
+            "Delayed hypersensitivity disorder"
+        ],
+        "Embolism and thrombosis of internal jugular vein": [
+            "Embolism and thrombosis of internal jugular vein"
+        ],
+        "Tick borne disease": [
+            "Tick borne disease"
+        ],
+        "Localized skin infection": [
+            "Localized skin infection"
+        ],
+        "Renal failure": [
+            "Renal failure"
+        ],
+        "Heart failure": [
+            "Heart failure"
+        ],
+        "Allergy to alphagalactose": [
+            "Allergy to alphagalactose"
+        ],
+        "ajs": [
+            "ajs"
+        ],
+        "Delayed urticaria after eating red meat": [
+            "Delayed urticaria after eating red meat"
+        ],
+        "Anaphylaxis due to red meat": [
+            "Anaphylaxis due to red meat"
+        ],
+        "Leishmaniasis": [
+            "Leishmaniasis"
+        ],
+        "Cutaneous leishmaniasis": [
+            "Cutaneous leishmaniasis"
+        ],
+        "Tick borne illness": [
+            "Tick borne illness"
+        ],
+        "Medication side effect": [
+            "Medication side effect"
+        ],
+        "Renal anasarca": [
+            "Renal anasarca"
+        ],
+        "Rickets, active": [
+            "Rickets, active"
+        ],
+        "Anaphylaxis to bugbite": [
+            "Anaphylaxis to bugbite"
+        ],
+        "Eosinophilic cellulitis [Wells]": [
+            "Eosinophilic cellulitis [Wells]"
+        ],
+        "Chagas' disease": [
+            "Chagas disease"
+        ],
+        "Spotted fever due to Rickettsia rickettsii": [
+            "Spotted fever due to Rickettsia rickettsii"
+        ],
+        "Disease caused by parasite": [
+            "Parasitic infectious disease",
+            "Parasitic disease"
+        ],
+        "Bell's palsy": [
+            "Bell's palsy"
+        ],
+        "Asthma": [
+            "Asthma"
+        ],
+        "Non-Hodgkin lymphoma": [
+            "Non-Hodgkin lymphoma"
+        ],
+        "Submandibular abscess": [
+            "Submandibular abscess"
+        ],
+        "Obstructive sleep apnea": [
+            "Sleep apnea",
+            "Obstructive sleep apnea"
+        ],
+        "Acute pharyngitis": [
+            "Acute pharyngitis"
+        ],
+        "Allergic urticaria due to bite and/or sting": [
+            "Allergic urticaria due to bite and/or sting"
+        ],
+        "Cushing's syndrome": [
+            "Cushing's syndrome"
+        ],
+        "Babesiosis": [
+            "abcess",
+            "Babesiosis",
+            "Infection by Babesia"
+        ],
+        "Trigeminal neuralgia": [
+            "Trigeminal neuralgia"
+        ],
+        "Zoster ocular disease": [
+            "Zoster ocular disease"
+        ],
+        "Anaphylaxis due to shellfish": [
+            "Anaphylaxis due to shellfish"
+        ],
+        "Vascular thoracic outlet syndrome": [
+            "Vascular thoracic outlet syndrome"
+        ],
+        "Urticaria medicamentosa": [
+            "Urticaria due to drug allergy",
+            "Drug-induced urticaria"
+        ],
+        "Limited cutaneous systemic sclerosis": [
+            "Limited cutaneous systemic sclerosis"
+        ],
+        "Irritant contact dermatitis": [
+            "Irritant contact dermatitis"
+        ],
+        "Reflux laryngitis": [
+            "Reflux laryngitis"
+        ],
+        "Tick born illness": [
+            "Tick born illness"
+        ],
+        "Lupus erythematosus": [
+            "Lupus erythematosus"
+        ],
+        "Insect bite, nonvenomous, of scalp, infected": [
+            "Insect bite, nonvenomous, of scalp, infected"
+        ],
+        "Scombroid fish poisoning": [
+            "Scombroid fish poisoning",
+            "Toxic effect of scombroid fish poisoning"
+        ],
+        "Bug bite": [
+            "Bug bite"
+        ],
+        "alpha gal sydrome": [
+            "alpha gal sydrome"
+        ],
+        "Non dose-related adverse reaction to medication": [
+            "Non dose-related adverse reaction to medication"
+        ],
+        "Human anaplasmosis due to Anaplasma phagocytophilum": [
+            "Infection by Anaplasma phagocytophilum",
+            "Human anaplasmosis due to Anaplasma phagocytophilum"
+        ],
+        "ALF - Acute liver failure": [
+            "ALF - Acute liver failure"
+        ],
+        "Galactosemia": [
+            "Galactosemia"
+        ],
+        "Fungal respiratory infection": [
+            "Fungal respiratory infection"
+        ],
+        "Snake venom causing toxic effect": [
+            "Snake venom causing toxic effect"
+        ],
+        "Galactose alpha 13 allergy": [
+            "Galactose alpha 13 allergy"
+        ],
+        "Paroxysmal nocturnal hemoglobinuria": [
+            "Paroxysmal nocturnal haemoglobinuria",
+            "PNH - Paroxysmal nocturnal haemoglobinuria"
+        ],
+        "Aspergillosis": [
+            "Aspergillosis"
+        ],
+        "Anaphilactic reaction": [
+            "Anaphilactic reaction"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "Eruption due to drug": [
+            "Drug rash",
+            "Drug eruption",
+            "Drug induced rash"
+        ],
+        "Dental abscess without a sinus": [
+            "Dental abscess without a sinus"
+        ],
+        "Lemierre syndrome": [
+            "Lemierre syndrome"
+        ],
+        "DRESS (Drug reaction with eosinophilia and systemic symptoms) due to strontium ranelate": [
+            "DRESS (Drug reaction with eosinophilia and systemic symptoms) due to strontium ranelate"
+        ],
+        "Cellilitis": [
+            "Cellilitis"
+        ],
+        "Cellulitis of periorbital region": [
+            "Cellulitis of periorbital region"
+        ],
+        "Allergic food": [
+            "Allergic food"
+        ],
+        "Porphyria": [
+            "Porphyria"
+        ],
+        "Electrolyte problem": [
+            "Electrolyte problem"
+        ],
+        "Periorbital oedema": [
+            "Periorbital oedema"
+        ],
+        "Hypothyroidism": [
+            "Hypothyroidism"
+        ],
+        "Atopic reaction": [
+            "Atopic reaction"
+        ],
+        "alpha-gal syndrom": [
+            "alpha-gal syndrom"
+        ],
+        "Deficiency of alpha-galactosidase": [
+            "Deficiency of alpha-galactosidase"
+        ],
+        "Gastrointestinal food allergy": [
+            "Gastrointestinal food allergy"
+        ],
+        "Local infection of the skin and subcutaneous tissue": [
+            "Local infection of the skin and subcutaneous tissue"
+        ],
+        "Tick born meat allergy": [
+            "Tick born meat allergy"
+        ],
+        "Cellulitis of orbit": [
+            "Cellulitis of orbit"
+        ],
+        "Mediastinitis": [
+            "Mediastinitis"
+        ],
+        "Liver cirrhosis": [
+            "Liver cirrhosis"
+        ],
+        "Tic meat allergy": [
+            "Tic meat allergy"
+        ],
+        "Dental infection": [
+            "Dental infection"
+        ],
+        "Endemic myocosis": [
+            "Endemic myocosis"
+        ],
+        "Cerebral venous thrombosis": [
+            "Cerebral venous thrombosis"
+        ],
+        "Hypercapnia": [
+            "Hypercapnia"
+        ],
+        "Lymphangitis": [
+            "Lymphangitis"
+        ],
+        "Adenopathy": [
+            "Adenopathy"
+        ],
+        "Dermatomyositis": [
+            "Dermatomyositis"
+        ],
+        "angular chelitis": [
+            "angular chelitis"
+        ],
+        "Medication adverse event": [
+            "Medication adverse event"
+        ],
+        "Sarcoidosis": [
+            "Sarcoidosis"
+        ],
+        "Ricketsia": [
+            "Ricketsia"
+        ],
+        "Spider bite": [
+            "Spider bite"
+        ],
+        "A-galactose allergy": [
+            "A-galactose allergy"
+        ],
+        "Upper respiratory infection": [
+            "Upper respiratory infection"
+        ],
+        "Infection by Borrelia duttonii": [
+            "Infection by Borrelia duttonii"
+        ],
+        "Tick typhus due to Rickettsia australis": [
+            "Tick typhus due to Rickettsia australis"
+        ],
+        "Hypersesitivity reaction": [
+            "Hypersesitivity reaction"
+        ],
+        "Tularemia": [
+            "Tularemia"
+        ],
+        "Disease caused by fungus": [
+            "Disease caused by fungus"
+        ],
+        "Human anaplasmosis": [
+            "Human anaplasmosis"
+        ],
+        "STARI - Southern tick-associated rash illness": [
+            "STARI - Southern tick-associated rash illness"
+        ],
+        "Allergic rash": [
+            "Allergic rash"
+        ],
+        "Acute drug-induced tubulointerstitial nephritis": [
+            "Acute drug-induced interstitial nephritis",
+            "Acute tubulointerstitial nephritis due to hypersensitivity to drugs"
+        ],
+        "Abscess": [
+            "Abscess"
+        ],
+        "Parotid sialodocholithiasis": [
+            "Parotid sialodocholithiasis"
+        ],
+        "Thyroiditis": [
+            "Thyroiditis"
+        ],
+        "Henoch-Sch\u00f6nlein purpura": [
+            "HSP - Henoch-Schonlein purpura",
+            "Henoch-Schoenlein vasculitis"
+        ],
+        "Hereditary dermatographism": [
+            "Hereditary dermatographism"
+        ],
+        "Helicobacter pylori": [
+            "Helicobacter pylori"
+        ],
+        "Parotid abscess": [
+            "Parotid abscess"
+        ],
+        "CVA - Cerebrovascular accident": [
+            "CVA - Cerebrovascular accident"
+        ],
+        "Pancoast syndrome": [
+            "Pancoast syndrome"
+        ],
+        "Plant photodermatitis": [
+            "Plant photodermatitis"
+        ],
+        "Tick-borne infection": [
+            "Tick-borne infection"
+        ],
+        "Disease due to Rickettsiales": [
+            "Rickettsial infectious disease",
+            "Rickettsial infection"
+        ],
+        "Hyperthyroidism": [
+            "Hyperthyroidism"
+        ],
+        "Infectious mononucleosis": [
+            "Infectious mononucleosis"
+        ],
+        "Meningitis": [
+            "Meningitis"
+        ],
+        "Antibody to alpha-gal": [
+            "Antibody to alpha-gal"
+        ],
+        "Delayed anaphylaxis": [
+            "Delayed anaphylaxis"
+        ],
+        "Anaphylaxisis": [
+            "Anaphylaxisis"
+        ],
+        "Myxedema": [
+            "Myxedema"
+        ],
+        "Deficiency of nitrate reductase": [
+            "Deficiency of nitrate reductase"
+        ],
+        "Necrotizing fasciitis": [
+            "Necrotizing fasciitis"
+        ],
+        "Mosquito-borne viral fever, unspecified": [
+            "Mosquito-borne viral fever, unspecified"
+        ],
+        "Allergic reaction to bee sting": [
+            "Allergic reaction to bee sting"
+        ],
+        "Infestation by bed bug": [
+            "Infestation by bed bug"
+        ],
+        "Ramsay Hunt syndrome - auricular": [
+            "Ramsay Hunt syndrome - auricular"
+        ],
+        "Infected insect bite by site": [
+            "Infected insect bite by site"
+        ],
+        "Adverse cutaneous reaction to herbal medicine": [
+            "Adverse cutaneous reaction to herbal medicine"
+        ],
+        "sinus cavernisus thrombosis": [
+            "sinus cavernisus thrombosis"
+        ],
+        "TOS - Thoracic outlet syndrome": [
+            "TOS - Thoracic outlet syndrome"
+        ],
+        "Tick exposure": [
+            "Tick exposure"
+        ],
+        "Insect-related poisoning": [
+            "Insect-related poisoning"
+        ],
+        "Pityriasis rosea": [
+            "Pityriasis rosea"
+        ],
+        "Metabolic acidosis, IAG, reduced excretion of inorganic acids": [
+            "Metabolic acidosis, IAG, reduced excretion of inorganic acids"
+        ],
+        "Superior caval vein obstruction": [
+            "Superior caval vein obstruction"
+        ],
+        "Primary hypercoagulable states": [
+            "Primary hypercoagulable states"
+        ],
+        "Red meat allergy": [
+            "Red meat allergy"
+        ],
+        "Liver injury": [
+            "Liver injury"
+        ],
+        "Polycythemia vera": [
+            "Polycythemia Vera"
+        ],
+        "Noctural cough": [
+            "Noctural cough"
+        ],
+        "Localized cutaneous mastocytosis": [
+            "Localized cutaneous mastocytosis"
+        ],
+        "Idiopathic nonhistaminergic angioedema": [
+            "Idiopathic nonhistaminergic angioedema"
+        ],
+        "San Joaquin Valley fever": [
+            "San Joaquin Valley fever"
+        ],
+        "Nocardiosis": [
+            "Nocardiosis"
+        ],
+        "Diffuse erythrodermic mastocytosis": [
+            "Diffuse erythrodermic mastocytosis"
+        ],
+        "Actinomycosis": [
+            "Actinomycosis"
+        ],
+        "Galactose 1,3 alpha galactose allergy": [
+            "Galactose 1,3 alpha galactose allergy"
+        ],
+        "Galactise 1,3 alpha galactose allergy": [
+            "Galactise 1,3 alpha galactose allergy"
+        ],
+        "Acquired alpha gal due to tick bites": [
+            "Acquired alpha gal due to tick bites"
+        ],
+        "Lone star tick bite leading to meat allergy": [
+            "Lone star tick bite leading to meat allergy"
+        ],
+        "Angioedema due to drug": [
+            "Angioedema due to drug"
+        ],
+        "facial swelling": [
+            "facial swelling"
+        ],
+        "arthropod borne illness": [
+            "arthropod borne illness"
+        ],
+        "Erythema nodosum": [
+            "Erythema nodosum"
+        ],
+        "Gastroesophageal reflux disease": [
+            "Gastroesophageal reflux disease"
+        ],
+        "Anasarca": [
+            "Anasarca"
+        ],
+        "Sialolithiasis": [
+            "Sialolithiasis"
+        ],
+        "Acne": [
+            "Acne"
+        ],
+        "Rosacea": [
+            "Rosacea"
+        ],
+        "Topical corticosteroid withdrawal": [
+            "Topical corticosteroid withdrawal"
+        ],
+        "Rhinofacial conidiobolomycosis": [
+            "Rhinofacial conidiobolomycosis"
+        ],
+        "Interstitial granulomatous dermatitis": [
+            "Interstitial granulomatous dermatitis"
+        ],
+        "Urticarial vasculitis with monoclonal IgM component, Schnitzler": [
+            "Urticarial vasculitis with monoclonal IgM component, Schnitzler"
+        ],
+        "CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome": [
+            "CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome"
+        ],
+        "Systemic sclerosis": [
+            "Systemic sclerosis"
+        ],
+        "Gonococcal infection with localized cutaneous involvement": [
+            "Gonococcal infection with localized cutaneous involvement"
+        ],
+        "AIN": [
+            "AIN"
+        ],
+        "Viral exanthem": [
+            "Viral exanthem"
+        ],
+        "C3 esterase deficiency": [
+            "C3 esterase deficiency"
+        ],
+        "Alpha gal red mest allergy post tick bite": [
+            "Alpha gal red mest allergy post tick bite"
+        ],
+        "Rhus dermatitis": [
+            "Rhus dermatitis"
+        ],
+        "Horner's syndrome": [
+            "Horner's syndrome"
+        ],
+        "Meat allergy due to Lone Star tick bite": [
+            "Meat allergy due to Lone Star tick bite"
+        ],
+        "Ricketsial infection": [
+            "Ricketsial infection"
+        ],
+        "Streptococcal pharyngitis": [
+            "Streptococcal pharyngitis"
+        ],
+        "Pemphigus vulgaris": [
+            "Pemphigus vulgaris"
+        ],
+        "Bullous pemphigoid": [
+            "Bullous pemphigoid"
+        ],
+        "Glomerulonephritis": [
+            "Glomerulonephritis"
+        ],
+        "Volume overload": [
+            "Volume overload"
+        ],
+        "Star  tick": [
+            "Star  tick"
+        ],
+        "Rash from ppi": [
+            "Rash from ppi"
+        ],
+        "Dental caries": [
+            "Dental caries"
+        ],
+        "Mast cell mediated angioedema": [
+            "Mast cell mediated angioedema"
+        ],
+        "tick fever": [
+            "tick fever"
+        ],
+        "Urticaria secondary to infection": [
+            "Urticaria secondary to infection"
+        ],
+        "Thrombosis": [
+            "Thrombosis"
+        ],
+        "Contact dermatitis due to meat": [
+            "Contact dermatitis due to meat"
+        ],
+        "Poison sumac poisoning": [
+            "Poison sumac poisoning"
+        ],
+        "Allergic drug reaction": [
+            "Allergic drug reaction"
+        ],
+        "Urticaria due to cold and heat": [
+            "Urticaria due to cold and heat"
+        ],
+        "Mosquito bite": [
+            "Mosquito bite"
+        ],
+        "Absence of tooth - acquired": [
+            "Absence of tooth - acquired"
+        ],
+        "Oral allergy syndrome": [
+            "Oral allergy syndrome"
+        ],
+        "Lactose intolerance": [
+            "Lactose intolerance"
+        ],
+        "Cellulitis of right external ear": [
+            "Cellulitis of right external ear"
+        ],
+        "Tick born": [
+            "Tick born"
+        ],
+        "Temporomandibular joint disorders": [
+            "Temporomandibular joint disorders"
+        ],
+        "Strep pyogenes": [
+            "Strep pyogenes"
+        ],
+        "Hypersensitivity disorder mediated by immune complex": [
+            "Hypersensitivity disorder mediated by immune complex"
+        ],
+        "Poison ivy poisoning": [
+            "Poison ivy poisoning"
+        ],
+        "Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere": [
+            "Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere"
+        ],
+        "Typhus fever": [
+            "Typhus fever"
+        ],
+        "Spirochetal infection, unspecified": [
+            "Spirochetal infection, unspecified"
+        ],
+        "Parotiditis": [
+            "Parotiditis"
+        ],
+        "Tick bite causing meat allergy": [
+            "Tick bite causing meat allergy"
+        ],
+        "Acute interstitial pneumonitis": [
+            "Acute interstitial pneumonitis"
+        ],
+        "Insect sting": [
+            "Insect sting"
+        ],
+        "Esophageal cancer": [
+            "Esophageal cancer"
+        ],
+        "Arthropod": [
+            "Arthropod"
+        ],
+        "On examination - allergic rash": [
+            "On examination - allergic rash"
+        ],
+        "Adverse medication reaction": [
+            "Adverse medication reaction"
+        ],
+        "HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps": [
+            "HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps"
+        ],
+        "Alpha-gal sensitization": [
+            "Alpha-gal sensitization"
+        ],
+        "Medication induced edema": [
+            "Medication induced edema"
+        ],
+        "Post-streptococcal glomerulonephritis": [
+            "Post-streptococcal glomerulonephritis"
+        ],
+        "Infection by Ascaris lumbricoides": [
+            "Infection by Ascaris lumbricoides"
+        ],
+        "Familial urticaria": [
+            "Familial urticaria"
+        ],
+        "Choking due to food in larynx": [
+            "Choking due to food in larynx"
+        ],
+        "Preorbital cellulitis": [
+            "Preorbital cellulitis"
+        ],
+        "Minimal change nephrotic syndrome": [
+            "Minimal change nephrotic syndrome"
+        ],
+        "Venocaval compression": [
+            "Venocaval compression"
+        ],
+        "Discoid lupus erythematosus": [
+            "Discoid lupus erythematosus"
+        ],
+        "Erythema migrans": [
+            "Erythema migrans"
+        ],
+        "Staphylococcal infection, unspecified site": [
+            "Staphylococcal infection, unspecified site"
+        ],
+        "Nonvenomous insect bite of lip without infection": [
+            "Nonvenomous insect bite of lip without infection"
+        ],
+        "Infected tooth socket": [
+            "Infected tooth socket"
+        ],
+        "ABPA - Allergic bronchopulmonary aspergillosis": [
+            "ABPA - Allergic bronchopulmonary aspergillosis"
+        ]
+    },
+    "0.25-dx_0.5-official": {
+        "Angioedema": [
+            "Allergic reaction to insect bite",
+            "Lyme disease",
+            "Allergic urticaria",
+            "Mastocytosis",
+            "Angioedema",
+            "Allergic reaction",
+            "Angio-oedema due to disorder of C1 esterase inhibitor",
+            "Food allergy",
+            "Adverse drug interaction with drug",
+            "Idiopathic urticaria and/or angio-oedema",
+            "Anaphylaxis",
+            "Infection of tick bite",
+            "Allergy",
+            "Angio-oedema and/or urticaria",
+            "Superior vena cava syndrome",
+            "Type 1 hypersensitivity response",
+            "IgE-mediated hypersensitivity disorder",
+            "Anaphylaxy",
+            "Allergy reaction",
+            "Tick bite",
+            "Glutamine reaction",
+            "Anaphylactic reaction due to serum",
+            "Cellulitis",
+            "Erysipelas",
+            "Urticaria",
+            "Hypersensitivity reaction type II",
+            "Allergic reaction to substance",
+            "Alpha-gal syndrome",
+            "Allergic contact dermatitis",
+            "Hereditary angioedema with normal C1 esterase inhibitor activity",
+            "Svc syndrome",
+            "Acute sinusitis",
+            "Infectious parotitis",
+            "Alpha gal",
+            "Angioedema due to angiotensin-converting-enzyme inhibitor",
+            "Alpha-galactosidase A deficiency",
+            "Angioedema due to disorder of C1 esterase inhibitor",
+            "Episodic angioedema with eosinophilia",
+            "Meat allergy",
+            "Autoimmune urticaria and/or angioedema",
+            "insect bite",
+            "medication reaction",
+            "Ludwig's angina",
+            "ACE inhibitor-induced angio-oedema",
+            "Allergy to alpha glucoside inhibitor",
+            "Allergic dermatitis due to poison ivy",
+            "Type 4 hypersensitivity reaction",
+            "Beef allergy",
+            "Drug-induced angio-oedema-urticaria",
+            "C-1 esterase inhibitor deficiency",
+            "Systemic lupus erythematosus",
+            "Allergic reaktion",
+            "Nephrotic syndrome",
+            "Mammalian meat allergy",
+            "Allergy to red meat",
+            "Allergies",
+            "alpha gal allergy",
+            "Anaphylactic reaction to food",
+            "HAE - Hereditary angio-oedema",
+            "Parotitis - non-mumps",
+            "Contact dermatitis due to poison oak",
+            "Sunlight-induced angioedema-urticaria",
+            "Maculopapular drug eruption",
+            "Atopic dermatitis",
+            "Spider bite wound",
+            "Contact dermatitis",
+            "Nephropathy",
+            "Disease due to Genus Rickettsia",
+            "DRESS syndrome",
+            "Hereditary angioedema",
+            "Anaphylaxis secondary to bite and/or sting",
+            "Erlichiosis",
+            "Delayed pressure urticaria",
+            "Ehrlichiosis",
+            "Anaplasmosis",
+            "Tick allergy red meat",
+            "Idiopathic urticaria",
+            "West Nile virus infection",
+            "Angioedema due to disorder of kinin metabolism",
+            "Orbital cellulitis",
+            "Rickettsia",
+            "Lyme borreliosis",
+            "Insect bite of face",
+            "Cellulitis of face",
+            "IgE-mediated allergic disorder",
+            "Anaphylaxis due to ingested food",
+            "Hypereosinophilic syndrome",
+            "lymphedema",
+            "Tick bite without infection",
+            "Allergic urticaria and/or angioedema",
+            "Hypersensitivity reaction type I",
+            "ACE inhibitor-induced angioedema",
+            "Acquired angioedema due to C1 inhibitor autoantibody",
+            "Drug Rash with Eosinophilia and Systemic Symptoms",
+            "Stevens-Johnson syndrome",
+            "Cellulitis and acute lymphangitis",
+            "Uric",
+            "Facial cellulitis",
+            "Septic thrombophlebitis",
+            "Allergic rhinitis",
+            "Endocapillary glomerulonephritis",
+            "Acute interstitial nephritis",
+            "Eosinophilic esophagitis",
+            "Hereditary angioedema - type 1",
+            "Allergic urticaria and/or angio-oedema",
+            "Allergic angio-oedema",
+            "Idiopathic angio-oedema-urticaria",
+            "Acute tonsillitis",
+            "Hereditary angio-oedema - type 1",
+            "Delayed hypersensitivity disorder",
+            "Allergy to meat",
+            "Hypersensitivity reaction mediated by antibody",
+            "Heart failure",
+            "Allergy to alphagalactose",
+            "Anaphylaxis due to red meat",
+            "Tick borne illness",
+            "Medication side effect",
+            "Rickets, active",
+            "Drug-induced angioedema-urticaria",
+            "Eosinophilic cellulitis [Wells]",
+            "Chagas disease",
+            "Parasitic infectious disease",
+            "alpha galactose allergy",
+            "Cushing's syndrome",
+            "tick induced meat allergy",
+            "Anaphylaxis due to shellfish",
+            "Vascular thoracic outlet syndrome",
+            "Urticaria due to drug allergy",
+            "Angiotensin converting enzyme (ACE) inhibitor-aggravated angio-oedema",
+            "Medication allergy",
+            "Cellulits",
+            "Adverse drug reaction",
+            "Reflux laryngitis",
+            "Tick born illness",
+            "Dermatographic urticaria",
+            "Anaphylactic reaction",
+            "Chronic urticaria",
+            "Bug bite",
+            "Tick borne meat allergy",
+            "alpha gal sydrome",
+            "Non dose-related adverse reaction to medication",
+            "HAE - Hereditary angioedema",
+            "Hereditary angioedema - type 2",
+            "Anaphylactic shock due to adverse food reaction",
+            "Drug reaction with eosinophilia and systemic symptoms",
+            "Galactosemia",
+            "Drug allergic reaction",
+            "Galactose alpha 13 allergy",
+            "Aspergillosis",
+            "Other conditions associated with Lyme disease",
+            "Lemierre syndrome",
+            "Allergic reactin",
+            "Allergic medicine",
+            "Allergic food",
+            "Angiotensin converting enzyme inhibitor-aggravated angioedema",
+            "Periorbital oedema",
+            "Deficiency of alpha-galactosidase",
+            "Local infection of the skin and subcutaneous tissue",
+            "Infection",
+            "Urticaria-angioedema",
+            "Allergic angioedema due to ingested food",
+            "Tic meat allergy",
+            "DRESS",
+            "Drug allergy",
+            "Dermatomyositis",
+            "AIN - Acute interstitial nephritis",
+            "Hereditary C1 esterase inhibitor deficiency - deficient factor",
+            "Allergic reaction after tic",
+            "Spider bite",
+            "Drug reaction",
+            "Allergy to beef",
+            "Infection due to Borrelia burgdorferi sensu lato",
+            "Hypersesitivity reaction",
+            "Human anaplasmosis",
+            "Vasculitis",
+            "Parasitic disease",
+            "Hereditary dermatographism",
+            "CVA - Cerebrovascular accident",
+            "Rickettsial disease",
+            "Pancoast syndrome",
+            "Rickettsial infectious disease",
+            "Meningitis",
+            "Angiotensin converting enzyme (ACE) inhibitor-aggravated angioedema",
+            "HANE - Hereditary angioneurotic edema",
+            "Myxedema",
+            "Allergic reaction to bee sting",
+            "Acute urticaria",
+            "Anaphylaxia",
+            "Idiopathic angioedema-urticaria",
+            "Ramsay Hunt syndrome - auricular",
+            "Infected insect bite by site",
+            "Adverse cutaneous reaction to herbal medicine",
+            "Contact dermatitis due to poison ivy",
+            "TOS - Thoracic outlet syndrome",
+            "Hereditary angio-oedema - type 2",
+            "Superior caval vein obstruction",
+            "Red meat allergy",
+            "Delayed hypersensitivity reaction",
+            "Localized cutaneous mastocytosis",
+            "Idiopathic nonhistaminergic angioedema",
+            "Nocardiosis",
+            "Diffuse erythrodermic mastocytosis",
+            "Acquired alpha gal meat allergy due to tick bites",
+            "Actinomycosis",
+            "Hypersensitivity reaction type IV",
+            "Drug-induced hypersensitivity syndrome",
+            "Gastroesophageal reflux disease",
+            "IgE homocytotropic antibody reaction",
+            "Dental caries",
+            "Angioedema face",
+            "Mast cell mediated angioedema",
+            "Allergie",
+            "Urticaria secondary to infection",
+            "Contact dermatitis due to meat",
+            "Urticaria due to cold and heat",
+            "Delayed allergy to red meat",
+            "Oral allergy syndrome",
+            "Environmental allergy",
+            "Caterpillar dermatitis",
+            "Lactose intolerance",
+            "Cellulitis of right external ear",
+            "Rickettsial infection",
+            "Edema",
+            "Idiopathic urticaria and/or angioedema",
+            "Drug-induced urticaria",
+            "Medication induced edema",
+            "Aspirin-induced angioedema-urticaria",
+            "Anaphalaxis",
+            "Tick disease",
+            "Alpha-gal hypersensitivity",
+            "Minimal change nephrotic syndrome",
+            "Alpha gal allergy due to tick bite",
+            "Infected tooth socket"
+        ],
+        "RMSF - Rocky Mountain spotted fever": [
+            "Rocky Mountain spotted fever",
+            "RMSF - Rocky Mountain spotted fever",
+            "Rocky Mountain Spotted fever prodrome",
+            "Rocky Mountain tick fever"
+        ],
+        "Atopic IgE-mediated allergic disorder": [
+            "Atopic immunoglobulin E-mediated allergic disorder",
+            "Atopic IgE-mediated allergic disorder"
+        ],
+        "Mumps": [
+            "Mumps"
+        ],
+        "Eosinophilia": [
+            "Eosinophilia"
+        ],
+        "Spider ven": [
+            "Spider ven"
+        ],
+        "Western poison oak poisoning": [
+            "Western poison oak poisoning"
+        ],
+        "Peritonsillar abscess": [
+            "Peritonsillar abscess"
+        ],
+        "Dental abscess": [
+            "Dental abscess"
+        ],
+        "Colorado tick fever": [
+            "Colorado tick fever",
+            "Lone star tick bite"
+        ],
+        "Blastomycosis": [
+            "Blastomycosis"
+        ],
+        "Histoplasmosis": [
+            "Histoplasmosis"
+        ],
+        "Toxoplasmosis": [
+            "Toxoplasmosis"
+        ],
+        "Disease due to Lone star virus": [
+            "Disease due to Lone star virus"
+        ],
+        "Spotted fever [tick-borne rickettsioses]": [
+            "Spotted fever [tick-borne rickettsioses]"
+        ],
+        "Cerebral venous sinus thrombosis": [
+            "Cerebral venous sinus thrombosis"
+        ],
+        "Allergy to drug in contact with skin": [
+            "Allergy to drug in contact with skin"
+        ],
+        "allergy to latex": [
+            "allergy to latex"
+        ],
+        "Idiopathic angioedema": [
+            "Idiopathic angioedema"
+        ],
+        "Suppurative parotitis": [
+            "Suppurative parotitis"
+        ],
+        "Tick-borne meningopolyneuritis": [
+            "Tick-borne meningopolyneuritis"
+        ],
+        "Lone star tick meat allergy": [
+            "Lone star tick meat allergy"
+        ],
+        "Acquired angioedema due to lymphoproliferative disorder": [
+            "Acquired angioedema due to lymphoproliferative disorder"
+        ],
+        "SVC compression": [
+            "SVC compression"
+        ],
+        "Photodermatitis due to sun": [
+            "Photodermatitis due to sun"
+        ],
+        "PPI sideeffect": [
+            "PPI sideeffect"
+        ],
+        "Cryptococcosis": [
+            "Cryptococcosis"
+        ],
+        "Trauma": [
+            "Trauma"
+        ],
+        "Necrotising cutaneous vasculitis": [
+            "Necrotising cutaneous vasculitis"
+        ],
+        "Mucormycotic gangrenous cellulitis": [
+            "Mucormycotic gangrenous cellulitis"
+        ],
+        "Allergic reaction to food": [
+            "Allergic reaction to food"
+        ],
+        "Cellulitis, facial": [
+            "Cellulitis, facial"
+        ],
+        "Allergic reaction to insect venom": [
+            "Allergic reaction to insect venom"
+        ],
+        "Alpha galactosidase allergy": [
+            "Alpha galactosidase allergy"
+        ],
+        "Poison ivy": [
+            "Poison ivy"
+        ],
+        "Odontogenic infection of jaw": [
+            "Odontogenic infection of jaw"
+        ],
+        "Sialoadenitis": [
+            "Sialoadenitis"
+        ],
+        "Thoracic outlet syndrome associated with cervical rib": [
+            "Thoracic outlet syndrome associated with cervical rib"
+        ],
+        "Pancoast tumor": [
+            "Pancoast tumor"
+        ],
+        "Lymphoma": [
+            "lymphoma"
+        ],
+        "Congestive heart failure": [
+            "Congestive heart failure"
+        ],
+        "Cheyne-stokes collar": [
+            "Cheyne-stokes collar"
+        ],
+        "Periodontal abscess": [
+            "Parodontal abscess",
+            "Peridental abscess"
+        ],
+        "Photosensitisation due to sun": [
+            "Photosensitivity due to sunlight",
+            "Photosensitisation due to sun"
+        ],
+        "Type 4 hypersen": [
+            "Type 4 hypersen"
+        ],
+        "Tick red meat allergy": [
+            "Tick red meat allergy"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Western Rocky Mountain spotted fever": [
+            "Western Rocky Mountain spotted fever"
+        ],
+        "Sporotrichosis": [
+            "Sporotrichosis"
+        ],
+        "Tick bite red meat allergy": [
+            "Tick bite red meat allergy"
+        ],
+        "Brucellosis": [
+            "Brucellosis"
+        ],
+        "Acute kidney injury": [
+            "Acute kidney injury",
+            "Aki"
+        ],
+        "Insect bite of head and neck": [
+            "Insect bite of head and neck"
+        ],
+        "Preseptal cellulitis": [
+            "Preseptal cellulitis"
+        ],
+        "Zoster ophthalmicus": [
+            "Zoster ophthalmicus"
+        ],
+        "Leptospirosis": [
+            "Leptospirosis"
+        ],
+        "Tick fever due to Rickettsia siberica": [
+            "Tick fever due to Rickettsia siberica"
+        ],
+        "Dermatomyositis sine myositis": [
+            "Dermatomyositis sine myositis"
+        ],
+        "decompensated liver disease": [
+            "decompensated liver disease"
+        ],
+        "Melkersson-Rosenthal syndrome": [
+            "Melkersson-Rosenthal syndrome"
+        ],
+        "Obstruction of inferior vena cava": [
+            "Obstruction of inferior vena cava"
+        ],
+        "Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered": [
+            "Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered"
+        ],
+        "Shingles": [
+            "Shingles"
+        ],
+        "SVC - Superior vena cava abnormality": [
+            "Superior vena cava abnormality",
+            "SVC - Superior vena cava abnormality",
+            "Superior caval vein abnormality",
+            "SCV - Superior caval vein abnormality"
+        ],
+        "Deep vein thrombosis": [
+            "Deep vein thrombosis"
+        ],
+        "Internal jugular vein thrombosis": [
+            "Internal jugular vein thrombosis"
+        ],
+        "Impetigo": [
+            "Impetigo"
+        ],
+        "Erythema multiforme": [
+            "Erythema multiforme"
+        ],
+        "Liver cirrhosis": [
+            "TEN - Toxic epidermal necrolysis",
+            "Liver cirrhosis"
+        ],
+        "Hypomagnesemia": [
+            "Hypomagnesemia"
+        ],
+        "Hypocalcemia": [
+            "Hypocalcemia"
+        ],
+        "Clostridium difficile colitis": [
+            "Clostridium difficile colitis"
+        ],
+        "Varicella": [
+            "Varicella"
+        ],
+        "Rubella": [
+            "Rubella"
+        ],
+        "Secondary syphilis": [
+            "Secondary Syphilis"
+        ],
+        "Fifth disease": [
+            "Fifth disease"
+        ],
+        "Measles": [
+            "Measles"
+        ],
+        "Babesiosis": [
+            "Dental abscess with sinus",
+            "Babesiosis",
+            "Infection by Babesia"
+        ],
+        "Hives": [
+            "Hives"
+        ],
+        "Soft tissue infection": [
+            "Soft tissue infection"
+        ],
+        "Dermatitis": [
+            "Dermatitis"
+        ],
+        "Poison ivy rash": [
+            "Poison ivy rash"
+        ],
+        "Variant Creutzfeldt-Jakob disease": [
+            "Variant Creutzfeldt-Jakob disease"
+        ],
+        "Job's syndrome": [
+            "SVC syndrone",
+            "Job's syndrome"
+        ],
+        "Epstein-Barr virus": [
+            "Epstein-Barr virus"
+        ],
+        "Lyme": [
+            "Lyme"
+        ],
+        "Embolism and thrombosis of internal jugular vein": [
+            "Embolism and thrombosis of internal jugular vein"
+        ],
+        "Tick borne disease": [
+            "Tick borne disease"
+        ],
+        "Localized skin infection": [
+            "Localized skin infection"
+        ],
+        "Renal failure": [
+            "Renal failure"
+        ],
+        "ajs": [
+            "ajs"
+        ],
+        "Delayed urticaria after eating red meat": [
+            "Delayed urticaria after eating red meat"
+        ],
+        "Leishmaniasis": [
+            "Leishmaniasis"
+        ],
+        "Cutaneous leishmaniasis": [
+            "Cutaneous leishmaniasis"
+        ],
+        "Renal anasarca": [
+            "Renal anasarca"
+        ],
+        "Anaphylaxis to bugbite": [
+            "Anaphylaxis to bugbite"
+        ],
+        "Contact dermatitis due to nickel": [
+            "Contact dermatitis due to nickel"
+        ],
+        "Spotted fever due to Rickettsia rickettsii": [
+            "Spotted fever due to Rickettsia rickettsii"
+        ],
+        "Bell's palsy": [
+            "Bell's palsy"
+        ],
+        "Asthma": [
+            "Asthma"
+        ],
+        "Non-Hodgkin lymphoma": [
+            "Non-Hodgkin lymphoma"
+        ],
+        "Submandibular abscess": [
+            "Submandibular abscess"
+        ],
+        "Obstructive sleep apnea": [
+            "Sleep apnea",
+            "Obstructive sleep apnea"
+        ],
+        "Acute pharyngitis": [
+            "Acute pharyngitis"
+        ],
+        "Allergic urticaria due to bite and/or sting": [
+            "Allergic urticaria due to bite and/or sting"
+        ],
+        "abcess": [
+            "abcess"
+        ],
+        "Trigeminal neuralgia": [
+            "Trigeminal neuralgia"
+        ],
+        "Zoster ocular disease": [
+            "Zoster ocular disease"
+        ],
+        "Limited cutaneous systemic sclerosis": [
+            "Limited cutaneous systemic sclerosis"
+        ],
+        "Irritant contact dermatitis": [
+            "Irritant contact dermatitis"
+        ],
+        "Lupus erythematosus": [
+            "Lupus erythematosus"
+        ],
+        "Insect bite, nonvenomous, of scalp, infected": [
+            "Insect bite, nonvenomous, of scalp, infected"
+        ],
+        "Scombroid fish poisoning": [
+            "Scombroid fish poisoning",
+            "Toxic effect of scombroid fish poisoning"
+        ],
+        "Human anaplasmosis due to Anaplasma phagocytophilum": [
+            "Infection by Anaplasma phagocytophilum",
+            "Human anaplasmosis due to Anaplasma phagocytophilum"
+        ],
+        "ALF - Acute liver failure": [
+            "ALF - Acute liver failure"
+        ],
+        "Fungal respiratory infection": [
+            "Fungal respiratory infection"
+        ],
+        "Snake venom causing toxic effect": [
+            "Snake venom causing toxic effect"
+        ],
+        "Paroxysmal nocturnal hemoglobinuria": [
+            "Paroxysmal nocturnal haemoglobinuria",
+            "PNH - Paroxysmal nocturnal haemoglobinuria"
+        ],
+        "Anaphilactic reaction": [
+            "Anaphilactic reaction"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "Eruption due to drug": [
+            "Drug rash",
+            "Drug eruption",
+            "Drug induced rash"
+        ],
+        "Dental abscess without a sinus": [
+            "Dental abscess without a sinus"
+        ],
+        "DRESS (Drug reaction with eosinophilia and systemic symptoms) due to strontium ranelate": [
+            "DRESS (Drug reaction with eosinophilia and systemic symptoms) due to strontium ranelate"
+        ],
+        "Cellilitis": [
+            "Cellilitis"
+        ],
+        "Cellulitis of periorbital region": [
+            "Cellulitis of periorbital region"
+        ],
+        "Porphyria": [
+            "Porphyria"
+        ],
+        "Electrolyte problem": [
+            "Electrolyte problem"
+        ],
+        "Hypothyroidism": [
+            "Hypothyroidism"
+        ],
+        "Atopic reaction": [
+            "Atopic reaction"
+        ],
+        "alpha-gal syndrom": [
+            "alpha-gal syndrom"
+        ],
+        "Gastrointestinal food allergy": [
+            "Gastrointestinal food allergy"
+        ],
+        "Tick born meat allergy": [
+            "Tick born meat allergy"
+        ],
+        "Cellulitis of orbit": [
+            "Cellulitis of orbit"
+        ],
+        "Mediastinitis": [
+            "Mediastinitis"
+        ],
+        "Dental infection": [
+            "Dental infection"
+        ],
+        "Endemic myocosis": [
+            "Endemic myocosis"
+        ],
+        "Cerebral venous thrombosis": [
+            "Cerebral venous thrombosis"
+        ],
+        "Hypercapnia": [
+            "Hypercapnia"
+        ],
+        "Lymphangitis": [
+            "Lymphangitis"
+        ],
+        "Adenopathy": [
+            "Adenopathy"
+        ],
+        "Quinke's disease": [
+            "Quinke's disease"
+        ],
+        "angular chelitis": [
+            "angular chelitis",
+            "Preorbital cellulitis"
+        ],
+        "Medication adverse event": [
+            "Medication adverse event"
+        ],
+        "Sarcoidosis": [
+            "Sarcoidosis"
+        ],
+        "Ricketsia": [
+            "Ricketsia"
+        ],
+        "Photosensitive atopic dermatitis": [
+            "Photosensitive atopic dermatitis"
+        ],
+        "A-galactose allergy": [
+            "A-galactose allergy"
+        ],
+        "Upper respiratory infection": [
+            "Upper respiratory infection"
+        ],
+        "Infection by Borrelia duttonii": [
+            "Infection by Borrelia duttonii"
+        ],
+        "Tick typhus due to Rickettsia australis": [
+            "Tick typhus due to Rickettsia australis"
+        ],
+        "Tularemia": [
+            "Tularemia"
+        ],
+        "Disease caused by fungus": [
+            "Disease caused by fungus"
+        ],
+        "Galactocerebroside beta-galactosidase deficiency - late onset": [
+            "Galactocerebroside beta-galactosidase deficiency - late onset"
+        ],
+        "STARI - Southern tick-associated rash illness": [
+            "STARI - Southern tick-associated rash illness"
+        ],
+        "Allergic rash": [
+            "Allergic rash"
+        ],
+        "Acute drug-induced tubulointerstitial nephritis": [
+            "Acute drug-induced interstitial nephritis",
+            "Acute tubulointerstitial nephritis due to hypersensitivity to drugs"
+        ],
+        "Abscess": [
+            "Abscess"
+        ],
+        "Parotid sialodocholithiasis": [
+            "Parotid sialodocholithiasis"
+        ],
+        "Thyroiditis": [
+            "Thyroiditis"
+        ],
+        "Henoch-Sch\u00f6nlein purpura": [
+            "HSP - Henoch-Schonlein purpura",
+            "Henoch-Schoenlein vasculitis"
+        ],
+        "Helicobacter pylori": [
+            "Helicobacter pylori"
+        ],
+        "Parotid abscess": [
+            "Parotid abscess"
+        ],
+        "Plant photodermatitis": [
+            "Plant photodermatitis"
+        ],
+        "Tick-borne infection": [
+            "Tick-borne infection"
+        ],
+        "Hyperthyroidism": [
+            "Hyperthyroidism"
+        ],
+        "Infectious mononucleosis": [
+            "Infectious mononucleosis"
+        ],
+        "Antibody to alpha-gal": [
+            "Antibody to alpha-gal"
+        ],
+        "Delayed anaphylaxis": [
+            "Delayed anaphylaxis"
+        ],
+        "Anaphylaxisis": [
+            "Anaphylaxisis"
+        ],
+        "Deficiency of nitrate reductase": [
+            "Deficiency of nitrate reductase"
+        ],
+        "Necrotizing fasciitis": [
+            "Necrotizing fasciitis"
+        ],
+        "Mosquito-borne viral fever, unspecified": [
+            "Mosquito-borne viral fever, unspecified"
+        ],
+        "Infestation by bed bug": [
+            "Infestation by bed bug"
+        ],
+        "sinus cavernisus thrombosis": [
+            "sinus cavernisus thrombosis"
+        ],
+        "Tick exposure": [
+            "Tick exposure"
+        ],
+        "Insect-related poisoning": [
+            "Insect-related poisoning"
+        ],
+        "Pityriasis rosea": [
+            "Pityriasis rosea"
+        ],
+        "Metabolic acidosis, IAG, reduced excretion of inorganic acids": [
+            "Metabolic acidosis, IAG, reduced excretion of inorganic acids"
+        ],
+        "Primary hypercoagulable states": [
+            "Primary hypercoagulable states"
+        ],
+        "Liver injury": [
+            "Liver injury"
+        ],
+        "Meat hypersensitivity": [
+            "Meat hypersensitivity"
+        ],
+        "Polycythemia vera": [
+            "Polycythemia Vera"
+        ],
+        "Noctural cough": [
+            "Noctural cough"
+        ],
+        "San Joaquin Valley fever": [
+            "San Joaquin Valley fever"
+        ],
+        "Galactose 1,3 alpha galactose allergy": [
+            "Galactose 1,3 alpha galactose allergy"
+        ],
+        "Galactise 1,3 alpha galactose allergy": [
+            "Galactise 1,3 alpha galactose allergy"
+        ],
+        "Acquired alpha gal due to tick bites": [
+            "Acquired alpha gal due to tick bites"
+        ],
+        "Lone star tick bite leading to meat allergy": [
+            "Lone star tick bite leading to meat allergy"
+        ],
+        "Angioedema due to drug": [
+            "Angioedema due to drug"
+        ],
+        "facial swelling": [
+            "facial swelling"
+        ],
+        "arthropod borne illness": [
+            "arthropod borne illness"
+        ],
+        "Erythema nodosum": [
+            "Erythema nodosum"
+        ],
+        "Anasarca": [
+            "Anasarca"
+        ],
+        "Sialolithiasis": [
+            "Sialolithiasis"
+        ],
+        "Acne": [
+            "Acne"
+        ],
+        "Rosacea": [
+            "Rosacea"
+        ],
+        "Topical corticosteroid withdrawal": [
+            "Topical corticosteroid withdrawal"
+        ],
+        "Rhinofacial conidiobolomycosis": [
+            "Rhinofacial conidiobolomycosis"
+        ],
+        "Interstitial granulomatous dermatitis": [
+            "Interstitial granulomatous dermatitis"
+        ],
+        "Urticarial vasculitis with monoclonal IgM component, Schnitzler": [
+            "Urticarial vasculitis with monoclonal IgM component, Schnitzler"
+        ],
+        "CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome": [
+            "CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome"
+        ],
+        "Systemic sclerosis": [
+            "Systemic sclerosis"
+        ],
+        "Gonococcal infection with localized cutaneous involvement": [
+            "Gonococcal infection with localized cutaneous involvement"
+        ],
+        "AIN": [
+            "AIN"
+        ],
+        "Viral exanthem": [
+            "Viral exanthem"
+        ],
+        "C3 esterase deficiency": [
+            "C3 esterase deficiency"
+        ],
+        "Alpha gal red mest allergy post tick bite": [
+            "Alpha gal red mest allergy post tick bite"
+        ],
+        "Rhus dermatitis": [
+            "Rhus dermatitis"
+        ],
+        "Horner's syndrome": [
+            "Horner's syndrome"
+        ],
+        "Meat allergy due to Lone Star tick bite": [
+            "Meat allergy due to Lone Star tick bite"
+        ],
+        "Ricketsial infection": [
+            "Ricketsial infection"
+        ],
+        "Streptococcal pharyngitis": [
+            "Streptococcal pharyngitis"
+        ],
+        "Pemphigus vulgaris": [
+            "Pemphigus vulgaris"
+        ],
+        "Bullous pemphigoid": [
+            "Bullous pemphigoid"
+        ],
+        "Glomerulonephritis": [
+            "Glomerulonephritis"
+        ],
+        "Volume overload": [
+            "Volume overload"
+        ],
+        "Delayed onset anaphylaxis from beef": [
+            "Delayed onset anaphylaxis from beef"
+        ],
+        "Star  tick": [
+            "Star  tick"
+        ],
+        "Rash from ppi": [
+            "Rash from ppi"
+        ],
+        "tick fever": [
+            "tick fever"
+        ],
+        "Thrombosis": [
+            "Thrombosis"
+        ],
+        "Poison sumac poisoning": [
+            "Poison sumac poisoning"
+        ],
+        "Allergic drug reaction": [
+            "Allergic drug reaction"
+        ],
+        "Mosquito bite": [
+            "Mosquito bite"
+        ],
+        "Absence of tooth - acquired": [
+            "Absence of tooth - acquired"
+        ],
+        "Tick born": [
+            "Tick born"
+        ],
+        "Temporomandibular joint disorders": [
+            "Temporomandibular joint disorders"
+        ],
+        "Strep pyogenes": [
+            "Strep pyogenes"
+        ],
+        "Hypersensitivity disorder mediated by immune complex": [
+            "Hypersensitivity disorder mediated by immune complex"
+        ],
+        "Poison ivy poisoning": [
+            "Poison ivy poisoning"
+        ],
+        "Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere": [
+            "Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere"
+        ],
+        "Typhus fever": [
+            "Typhus fever"
+        ],
+        "Spirochetal infection, unspecified": [
+            "Spirochetal infection, unspecified"
+        ],
+        "Parotiditis": [
+            "Parotiditis"
+        ],
+        "Tick bite causing meat allergy": [
+            "Tick bite causing meat allergy"
+        ],
+        "Acute interstitial pneumonitis": [
+            "Acute interstitial pneumonitis"
+        ],
+        "Insect sting": [
+            "Insect sting"
+        ],
+        "Esophageal cancer": [
+            "Esophageal cancer"
+        ],
+        "Arthropod": [
+            "Arthropod"
+        ],
+        "On examination - allergic rash": [
+            "On examination - allergic rash"
+        ],
+        "Adverse medication reaction": [
+            "Adverse medication reaction"
+        ],
+        "HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps": [
+            "HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps"
+        ],
+        "Alpha-gal sensitization": [
+            "Alpha-gal sensitization"
+        ],
+        "Post-streptococcal glomerulonephritis": [
+            "Post-streptococcal glomerulonephritis"
+        ],
+        "Infection by Ascaris lumbricoides": [
+            "Infection by Ascaris lumbricoides"
+        ],
+        "Familial urticaria": [
+            "Familial urticaria"
+        ],
+        "Choking due to food in larynx": [
+            "Choking due to food in larynx"
+        ],
+        "Venocaval compression": [
+            "Venocaval compression"
+        ],
+        "Discoid lupus erythematosus": [
+            "Discoid lupus erythematosus"
+        ],
+        "Erythema migrans": [
+            "Erythema migrans"
+        ],
+        "Staphylococcal infection, unspecified site": [
+            "Staphylococcal infection, unspecified site"
+        ],
+        "Nonvenomous insect bite of lip without infection": [
+            "Nonvenomous insect bite of lip without infection"
+        ],
+        "ABPA - Allergic bronchopulmonary aspergillosis": [
+            "ABPA - Allergic bronchopulmonary aspergillosis"
+        ]
+    },
+    "0.5-dx_0.5-official": {
+        "Angioedema": [
+            "Allergic reaction to insect bite",
+            "Allergic urticaria",
+            "Angioedema",
+            "Allergic reaction",
+            "Angio-oedema due to disorder of C1 esterase inhibitor",
+            "Food allergy",
+            "Idiopathic urticaria and/or angio-oedema",
+            "Infection of tick bite",
+            "Allergy",
+            "Angio-oedema and/or urticaria",
+            "Allergy reaction",
+            "Urticaria",
+            "Allergic reaction to substance",
+            "Allergic contact dermatitis",
+            "Hereditary angioedema with normal C1 esterase inhibitor activity",
+            "Angioedema due to angiotensin-converting-enzyme inhibitor",
+            "Angioedema due to disorder of C1 esterase inhibitor",
+            "Episodic angioedema with eosinophilia",
+            "Meat allergy",
+            "Autoimmune urticaria and/or angioedema",
+            "Allergy to drug in contact with skin",
+            "insect bite",
+            "Idiopathic angioedema",
+            "ACE inhibitor-induced angio-oedema",
+            "Allergy to alpha glucoside inhibitor",
+            "Acquired angioedema due to lymphoproliferative disorder",
+            "Allergic dermatitis due to poison ivy",
+            "Beef allergy",
+            "Drug-induced angio-oedema-urticaria",
+            "C-1 esterase inhibitor deficiency",
+            "Mammalian meat allergy",
+            "Allergy to red meat",
+            "Allergies",
+            "alpha gal allergy",
+            "HAE - Hereditary angio-oedema",
+            "Contact dermatitis due to poison oak",
+            "Atopic dermatitis",
+            "Contact dermatitis",
+            "Hereditary angioedema",
+            "Idiopathic urticaria",
+            "Angioedema due to disorder of kinin metabolism",
+            "Insect bite of face",
+            "Tick bite without infection",
+            "Allergic urticaria and/or angioedema",
+            "ACE inhibitor-induced angioedema",
+            "Acquired angioedema due to C1 inhibitor autoantibody",
+            "Uric",
+            "Allergic rhinitis",
+            "Hereditary angioedema - type 1",
+            "Allergic urticaria and/or angio-oedema",
+            "Allergic angio-oedema",
+            "Idiopathic angio-oedema-urticaria",
+            "Dermatitis",
+            "Hereditary angio-oedema - type 1",
+            "Allergy to meat",
+            "Drug-induced angioedema-urticaria",
+            "Contact dermatitis due to nickel",
+            "Allergic urticaria due to bite and/or sting",
+            "Urticaria due to drug allergy",
+            "Angiotensin converting enzyme (ACE) inhibitor-aggravated angio-oedema",
+            "Medication allergy",
+            "Lone star tick bite",
+            "Chronic urticaria",
+            "Tick borne meat allergy",
+            "HAE - Hereditary angioedema",
+            "Hereditary angioedema - type 2",
+            "Allergic reactin",
+            "Angiotensin converting enzyme inhibitor-aggravated angioedema",
+            "Gastrointestinal food allergy",
+            "Tick born meat allergy",
+            "Urticaria-angioedema",
+            "Allergic angioedema due to ingested food",
+            "Drug allergy",
+            "Photosensitive atopic dermatitis",
+            "Hereditary C1 esterase inhibitor deficiency - deficient factor",
+            "Allergic reaction after tic",
+            "Allergy to beef",
+            "Angiotensin converting enzyme (ACE) inhibitor-aggravated angioedema",
+            "HANE - Hereditary angioneurotic edema",
+            "Acute urticaria",
+            "Idiopathic angioedema-urticaria",
+            "Infected insect bite by site",
+            "Contact dermatitis due to poison ivy",
+            "Hereditary angio-oedema - type 2",
+            "Red meat allergy",
+            "Idiopathic nonhistaminergic angioedema",
+            "Acquired alpha gal meat allergy due to tick bites",
+            "Angioedema face",
+            "Allergie",
+            "Delayed allergy to red meat",
+            "Environmental allergy",
+            "Caterpillar dermatitis",
+            "Adverse medication reaction",
+            "Idiopathic urticaria and/or angioedema",
+            "Drug-induced urticaria",
+            "Aspirin-induced angioedema-urticaria"
+        ],
+        "RMSF - Rocky Mountain spotted fever": [
+            "Rocky Mountain spotted fever",
+            "Western Rocky Mountain spotted fever",
+            "RMSF - Rocky Mountain spotted fever",
+            "Rocky Mountain tick fever"
+        ],
+        "Lyme disease": [
+            "Lyme disease",
+            "Lyme borreliosis",
+            "Fifth disease",
+            "Other conditions associated with Lyme disease",
+            "Infection due to Borrelia burgdorferi sensu lato"
+        ],
+        "Atopic IgE-mediated allergic disorder": [
+            "Atopic immunoglobulin E-mediated allergic disorder",
+            "Atopic IgE-mediated allergic disorder"
+        ],
+        "Mumps": [
+            "Mumps"
+        ],
+        "Mastocytosis": [
+            "Mastocytosis"
+        ],
+        "Eosinophilia": [
+            "Eosinophilia"
+        ],
+        "Adverse drug interaction with drug": [
+            "Adverse drug interaction with drug"
+        ],
+        "Spider ven": [
+            "Spider ven"
+        ],
+        "Western poison oak poisoning": [
+            "Western poison oak poisoning"
+        ],
+        "Anaphylactic reaction to food": [
+            "Anaphylaxis",
+            "Anaphylactic reaction due to serum",
+            "Anaphylactic reaction to food",
+            "Anaphylaxis secondary to bite and/or sting",
+            "Anaplasmosis",
+            "Anaphylaxis due to ingested food",
+            "Anaphylactic reaction",
+            "Anaphylactic shock due to adverse food reaction",
+            "Anaphylaxia",
+            "Delayed onset anaphylaxis from beef"
+        ],
+        "Peritonsillar abscess": [
+            "Peritonsillar abscess"
+        ],
+        "Dental abscess": [
+            "Dental abscess"
+        ],
+        "Colorado tick fever": [
+            "Colorado tick fever"
+        ],
+        "Nephrotic syndrome": [
+            "Superior vena cava syndrome",
+            "Type 1 hypersensitivity response",
+            "IgE-mediated hypersensitivity disorder",
+            "Alpha-gal syndrome",
+            "Svc syndrome",
+            "Type 4 hypersensitivity reaction",
+            "Nephrotic syndrome",
+            "DRESS syndrome",
+            "IgE-mediated allergic disorder",
+            "Hypereosinophilic syndrome",
+            "Hypersensitivity reaction type I",
+            "Drug Rash with Eosinophilia and Systemic Symptoms",
+            "tick induced meat allergy",
+            "Drug reaction with eosinophilia and systemic symptoms",
+            "Lemierre syndrome",
+            "DRESS",
+            "Delayed hypersensitivity reaction",
+            "Meat hypersensitivity",
+            "Hypersensitivity reaction type IV",
+            "Drug-induced hypersensitivity syndrome",
+            "Horner's syndrome",
+            "IgE homocytotropic antibody reaction"
+        ],
+        "Anaphylaxy": [
+            "Anaphylaxy"
+        ],
+        "Tick bite": [
+            "Tick bite",
+            "Tick disease"
+        ],
+        "Glutamine reaction": [
+            "Glutamine reaction"
+        ],
+        "Orbital cellulitis": [
+            "Cellulitis",
+            "Orbital cellulitis",
+            "Cellulitis of face",
+            "Cellulitis and acute lymphangitis",
+            "Facial cellulitis"
+        ],
+        "Erysipelas": [
+            "Erysipelas"
+        ],
+        "Blastomycosis": [
+            "Blastomycosis"
+        ],
+        "Histoplasmosis": [
+            "Histoplasmosis"
+        ],
+        "Toxoplasmosis": [
+            "Toxoplasmosis"
+        ],
+        "Hypersensitivity reaction mediated by antibody": [
+            "Hypersensitivity reaction type II",
+            "Hypersensitivity reaction mediated by antibody"
+        ],
+        "Disease due to Lone star virus": [
+            "Disease due to Lone star virus"
+        ],
+        "Spotted fever [tick-borne rickettsioses]": [
+            "Spotted fever [tick-borne rickettsioses]"
+        ],
+        "Acute sinusitis": [
+            "Acute sinusitis"
+        ],
+        "Infectious parotitis": [
+            "Infectious parotitis"
+        ],
+        "Deep vein thrombosis": [
+            "Cerebral venous sinus thrombosis",
+            "Deep vein thrombosis"
+        ],
+        "Alpha gal": [
+            "Alpha gal",
+            "alpha-gal syndrom"
+        ],
+        "alpha-Galactosidase-A deficiency": [
+            "Alpha-galactosidase A deficiency",
+            "Deficiency of alpha-galactosidase",
+            "Galactocerebroside beta-galactosidase deficiency - late onset",
+            "C3 esterase deficiency"
+        ],
+        "allergy to latex": [
+            "allergy to latex"
+        ],
+        "medication reaction": [
+            "medication reaction"
+        ],
+        "Suppurative parotitis": [
+            "Suppurative parotitis"
+        ],
+        "Ludwig's angina": [
+            "Ludwig's angina"
+        ],
+        "Tick-borne meningopolyneuritis": [
+            "Tick-borne meningopolyneuritis"
+        ],
+        "Lone star tick meat allergy": [
+            "Lone star tick meat allergy"
+        ],
+        "SVC compression": [
+            "SVC compression"
+        ],
+        "Systemic lupus erythematosus": [
+            "Systemic lupus erythematosus"
+        ],
+        "Photodermatitis due to sun": [
+            "Photodermatitis due to sun"
+        ],
+        "Allergic reaktion": [
+            "Allergic reaktion"
+        ],
+        "PPI sideeffect": [
+            "PPI sideeffect"
+        ],
+        "Cryptococcosis": [
+            "Cryptococcosis"
+        ],
+        "Trauma": [
+            "Trauma"
+        ],
+        "Necrotising cutaneous vasculitis": [
+            "Necrotising cutaneous vasculitis"
+        ],
+        "Mucormycotic gangrenous cellulitis": [
+            "Mucormycotic gangrenous cellulitis"
+        ],
+        "Allergic reaction to food": [
+            "Allergic reaction to food"
+        ],
+        "Cellulitis, facial": [
+            "Cellulitis, facial"
+        ],
+        "Parotitis - non-mumps": [
+            "Parotitis - non-mumps"
+        ],
+        "Allergic reaction to insect venom": [
+            "Allergic reaction to insect venom"
+        ],
+        "Alpha galactosidase allergy": [
+            "Alpha galactosidase allergy"
+        ],
+        "Poison ivy": [
+            "Poison ivy"
+        ],
+        "Odontogenic infection of jaw": [
+            "Odontogenic infection of jaw"
+        ],
+        "Sialoadenitis": [
+            "Sialoadenitis"
+        ],
+        "Thoracic outlet syndrome associated with cervical rib": [
+            "Thoracic outlet syndrome associated with cervical rib"
+        ],
+        "Pancoast tumor": [
+            "Pancoast tumor"
+        ],
+        "Lymphoma": [
+            "lymphoma"
+        ],
+        "Congestive heart failure": [
+            "Congestive heart failure"
+        ],
+        "Cheyne-stokes collar": [
+            "Cheyne-stokes collar"
+        ],
+        "Periodontal abscess": [
+            "Parodontal abscess",
+            "Peridental abscess"
+        ],
+        "Sunlight-induced angioedema-urticaria": [
+            "Sunlight-induced angioedema-urticaria"
+        ],
+        "Photosensitisation due to sun": [
+            "Photosensitivity due to sunlight",
+            "Photosensitisation due to sun"
+        ],
+        "Maculopapular drug eruption": [
+            "Maculopapular drug eruption"
+        ],
+        "Spider bite wound": [
+            "Spider bite wound"
+        ],
+        "Type 4 hypersen": [
+            "Type 4 hypersen"
+        ],
+        "Tick red meat allergy": [
+            "Tick red meat allergy"
+        ],
+        "Nephropathy": [
+            "Nephropathy"
+        ],
+        "Disease due to Rickettsia": [
+            "Disease due to Genus Rickettsia",
+            "Rickettsial disease"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Sporotrichosis": [
+            "Sporotrichosis"
+        ],
+        "Tick bite red meat allergy": [
+            "Tick bite red meat allergy"
+        ],
+        "Erlichiosis": [
+            "Erlichiosis"
+        ],
+        "Delayed pressure urticaria": [
+            "Delayed pressure urticaria"
+        ],
+        "Ehrlichiosis": [
+            "Ehrlichiosis"
+        ],
+        "Brucellosis": [
+            "Brucellosis"
+        ],
+        "Tick allergy red meat": [
+            "Tick allergy red meat"
+        ],
+        "Rocky Mountain Spotted fever prodrome": [
+            "Rocky Mountain Spotted fever prodrome"
+        ],
+        "Acute kidney injury": [
+            "Acute kidney injury",
+            "Aki"
+        ],
+        "Infection": [
+            "West Nile virus infection",
+            "Infection"
+        ],
+        "Insect bite of head and neck": [
+            "Insect bite of head and neck"
+        ],
+        "Preseptal cellulitis": [
+            "Preseptal cellulitis"
+        ],
+        "Zoster ophthalmicus": [
+            "Zoster ophthalmicus"
+        ],
+        "Leptospirosis": [
+            "Leptospirosis"
+        ],
+        "Tick fever due to Rickettsia siberica": [
+            "Tick fever due to Rickettsia siberica"
+        ],
+        "Rickettsia": [
+            "Rickettsia"
+        ],
+        "Dermatomyositis sine myositis": [
+            "Dermatomyositis sine myositis"
+        ],
+        "decompensated liver disease": [
+            "decompensated liver disease"
+        ],
+        "Lymphedema": [
+            "lymphedema"
+        ],
+        "Melkersson-Rosenthal syndrome": [
+            "Melkersson-Rosenthal syndrome"
+        ],
+        "Obstruction of inferior vena cava": [
+            "Obstruction of inferior vena cava"
+        ],
+        "Stevens Johnson syndrome": [
+            "Stevens-Johnson syndrome"
+        ],
+        "Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered": [
+            "Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered"
+        ],
+        "Shingles": [
+            "Shingles"
+        ],
+        "SVC - Superior vena cava abnormality": [
+            "Superior vena cava abnormality",
+            "SVC - Superior vena cava abnormality",
+            "Superior caval vein abnormality",
+            "SCV - Superior caval vein abnormality"
+        ],
+        "Internal jugular vein thrombosis": [
+            "Internal jugular vein thrombosis"
+        ],
+        "Septic thrombophlebitis": [
+            "Septic thrombophlebitis"
+        ],
+        "Impetigo": [
+            "Impetigo"
+        ],
+        "Endocapillary glomerulonephritis": [
+            "Endocapillary glomerulonephritis"
+        ],
+        "AIN - Acute interstitial nephritis": [
+            "Acute interstitial nephritis",
+            "AIN - Acute interstitial nephritis"
+        ],
+        "Erythema multiforme": [
+            "Erythema multiforme"
+        ],
+        "TEN - Toxic epidermal necrolysis": [
+            "TEN - Toxic epidermal necrolysis"
+        ],
+        "Hypomagnesemia": [
+            "Hypomagnesemia"
+        ],
+        "Hypocalcemia": [
+            "Hypocalcemia"
+        ],
+        "Clostridium difficile colitis": [
+            "Clostridium difficile colitis"
+        ],
+        "Eosinophilic esophagitis": [
+            "Eosinophilic esophagitis"
+        ],
+        "Varicella": [
+            "Varicella"
+        ],
+        "Rubella": [
+            "Rubella"
+        ],
+        "Secondary syphilis": [
+            "Secondary Syphilis"
+        ],
+        "Measles": [
+            "Measles"
+        ],
+        "Dental abscess with sinus": [
+            "Dental abscess with sinus"
+        ],
+        "Hives": [
+            "Hives"
+        ],
+        "Soft tissue infection": [
+            "Soft tissue infection"
+        ],
+        "Poison ivy rash": [
+            "Poison ivy rash"
+        ],
+        "Variant Creutzfeldt-Jakob disease": [
+            "Variant Creutzfeldt-Jakob disease"
+        ],
+        "SVC syndrone": [
+            "SVC syndrone"
+        ],
+        "Epstein-Barr virus": [
+            "Epstein-Barr virus"
+        ],
+        "Acute tonsillitis": [
+            "Acute tonsillitis"
+        ],
+        "Delayed hypersensitivity disorder": [
+            "Delayed hypersensitivity disorder"
+        ],
+        "Lyme": [
+            "Lyme"
+        ],
+        "Embolism and thrombosis of internal jugular vein": [
+            "Embolism and thrombosis of internal jugular vein"
+        ],
+        "Tick borne disease": [
+            "Tick borne disease"
+        ],
+        "Localized skin infection": [
+            "Localized skin infection"
+        ],
+        "Renal failure": [
+            "Renal failure"
+        ],
+        "Heart failure": [
+            "Heart failure"
+        ],
+        "Allergy to alphagalactose": [
+            "Allergy to alphagalactose"
+        ],
+        "ajs": [
+            "ajs"
+        ],
+        "Delayed urticaria after eating red meat": [
+            "Delayed urticaria after eating red meat"
+        ],
+        "Anaphylaxis due to red meat": [
+            "Anaphylaxis due to red meat"
+        ],
+        "Leishmaniasis": [
+            "Leishmaniasis"
+        ],
+        "Cutaneous leishmaniasis": [
+            "Cutaneous leishmaniasis"
+        ],
+        "Tick borne illness": [
+            "Tick borne illness"
+        ],
+        "Medication side effect": [
+            "Medication side effect"
+        ],
+        "Renal anasarca": [
+            "Renal anasarca"
+        ],
+        "Rickets, active": [
+            "Rickets, active"
+        ],
+        "Anaphylaxis to bugbite": [
+            "Anaphylaxis to bugbite"
+        ],
+        "Eosinophilic cellulitis [Wells]": [
+            "Eosinophilic cellulitis [Wells]"
+        ],
+        "Chagas' disease": [
+            "Chagas disease"
+        ],
+        "Spotted fever due to Rickettsia rickettsii": [
+            "Spotted fever due to Rickettsia rickettsii"
+        ],
+        "Disease caused by parasite": [
+            "Parasitic infectious disease",
+            "Parasitic disease"
+        ],
+        "Bell's palsy": [
+            "Bell's palsy"
+        ],
+        "Asthma": [
+            "Asthma"
+        ],
+        "Non-Hodgkin lymphoma": [
+            "Non-Hodgkin lymphoma"
+        ],
+        "Submandibular abscess": [
+            "Submandibular abscess"
+        ],
+        "Obstructive sleep apnea": [
+            "Sleep apnea",
+            "Obstructive sleep apnea"
+        ],
+        "Acute pharyngitis": [
+            "Acute pharyngitis"
+        ],
+        "alpha galactose allergy": [
+            "alpha galactose allergy"
+        ],
+        "Cushing's syndrome": [
+            "Cushing's syndrome"
+        ],
+        "Babesiosis": [
+            "abcess",
+            "Babesiosis",
+            "Infection by Babesia"
+        ],
+        "Trigeminal neuralgia": [
+            "Trigeminal neuralgia"
+        ],
+        "Zoster ocular disease": [
+            "Zoster ocular disease"
+        ],
+        "Anaphylaxis due to shellfish": [
+            "Anaphylaxis due to shellfish"
+        ],
+        "Vascular thoracic outlet syndrome": [
+            "Vascular thoracic outlet syndrome"
+        ],
+        "Limited cutaneous systemic sclerosis": [
+            "Limited cutaneous systemic sclerosis"
+        ],
+        "Cellulits": [
+            "Cellulits"
+        ],
+        "Drug reaction": [
+            "Adverse drug reaction",
+            "Drug reaction"
+        ],
+        "Irritant contact dermatitis": [
+            "Irritant contact dermatitis"
+        ],
+        "Reflux laryngitis": [
+            "Reflux laryngitis"
+        ],
+        "Tick born illness": [
+            "Tick born illness"
+        ],
+        "Lupus erythematosus": [
+            "Lupus erythematosus"
+        ],
+        "Insect bite, nonvenomous, of scalp, infected": [
+            "Insect bite, nonvenomous, of scalp, infected"
+        ],
+        "Dermatographic urticaria": [
+            "Dermatographic urticaria"
+        ],
+        "Scombroid fish poisoning": [
+            "Scombroid fish poisoning",
+            "Toxic effect of scombroid fish poisoning"
+        ],
+        "Bug bite": [
+            "Bug bite"
+        ],
+        "alpha gal sydrome": [
+            "alpha gal sydrome"
+        ],
+        "Non dose-related adverse reaction to medication": [
+            "Non dose-related adverse reaction to medication"
+        ],
+        "Human anaplasmosis due to Anaplasma phagocytophilum": [
+            "Infection by Anaplasma phagocytophilum",
+            "Human anaplasmosis due to Anaplasma phagocytophilum"
+        ],
+        "ALF - Acute liver failure": [
+            "ALF - Acute liver failure"
+        ],
+        "Galactosemia": [
+            "Galactosemia"
+        ],
+        "Fungal respiratory infection": [
+            "Fungal respiratory infection"
+        ],
+        "Snake venom causing toxic effect": [
+            "Snake venom causing toxic effect"
+        ],
+        "Drug allergic reaction": [
+            "Drug allergic reaction"
+        ],
+        "Galactose alpha 13 allergy": [
+            "Galactose alpha 13 allergy"
+        ],
+        "Paroxysmal nocturnal hemoglobinuria": [
+            "Paroxysmal nocturnal haemoglobinuria",
+            "PNH - Paroxysmal nocturnal haemoglobinuria"
+        ],
+        "Aspergillosis": [
+            "Aspergillosis"
+        ],
+        "Anaphilactic reaction": [
+            "Anaphilactic reaction"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "Eruption due to drug": [
+            "Drug rash",
+            "Drug eruption",
+            "Drug induced rash"
+        ],
+        "Dental abscess without a sinus": [
+            "Dental abscess without a sinus"
+        ],
+        "DRESS (Drug reaction with eosinophilia and systemic symptoms) due to strontium ranelate": [
+            "DRESS (Drug reaction with eosinophilia and systemic symptoms) due to strontium ranelate"
+        ],
+        "Cellilitis": [
+            "Cellilitis"
+        ],
+        "Cellulitis of periorbital region": [
+            "Cellulitis of periorbital region"
+        ],
+        "Allergic medicine": [
+            "Allergic medicine"
+        ],
+        "Allergic food": [
+            "Allergic food"
+        ],
+        "Porphyria": [
+            "Porphyria"
+        ],
+        "Electrolyte problem": [
+            "Electrolyte problem"
+        ],
+        "Periorbital oedema": [
+            "Periorbital oedema"
+        ],
+        "Hypothyroidism": [
+            "Hypothyroidism"
+        ],
+        "Atopic reaction": [
+            "Atopic reaction"
+        ],
+        "Local infection of the skin and subcutaneous tissue": [
+            "Local infection of the skin and subcutaneous tissue"
+        ],
+        "Cellulitis of orbit": [
+            "Cellulitis of orbit"
+        ],
+        "Meningitis": [
+            "Mediastinitis",
+            "Meningitis"
+        ],
+        "Liver cirrhosis": [
+            "Liver cirrhosis"
+        ],
+        "Tic meat allergy": [
+            "Tic meat allergy"
+        ],
+        "Dental infection": [
+            "Dental infection"
+        ],
+        "Endemic myocosis": [
+            "Endemic myocosis"
+        ],
+        "Cerebral venous thrombosis": [
+            "Cerebral venous thrombosis"
+        ],
+        "Hypercapnia": [
+            "Hypercapnia"
+        ],
+        "Lymphangitis": [
+            "Lymphangitis"
+        ],
+        "Adenopathy": [
+            "Adenopathy"
+        ],
+        "Dermatomyositis": [
+            "Dermatomyositis"
+        ],
+        "Quinke's disease": [
+            "Quinke's disease"
+        ],
+        "angular chelitis": [
+            "angular chelitis"
+        ],
+        "Medication adverse event": [
+            "Medication adverse event"
+        ],
+        "Sarcoidosis": [
+            "Sarcoidosis"
+        ],
+        "Ricketsia": [
+            "Ricketsia"
+        ],
+        "Spider bite": [
+            "Spider bite"
+        ],
+        "A-galactose allergy": [
+            "A-galactose allergy"
+        ],
+        "Upper respiratory infection": [
+            "Upper respiratory infection"
+        ],
+        "Infection by Borrelia duttonii": [
+            "Infection by Borrelia duttonii"
+        ],
+        "Tick typhus due to Rickettsia australis": [
+            "Tick typhus due to Rickettsia australis"
+        ],
+        "Hypersesitivity reaction": [
+            "Hypersesitivity reaction"
+        ],
+        "Tularemia": [
+            "Tularemia"
+        ],
+        "Disease caused by fungus": [
+            "Disease caused by fungus"
+        ],
+        "Human anaplasmosis": [
+            "Human anaplasmosis"
+        ],
+        "STARI - Southern tick-associated rash illness": [
+            "STARI - Southern tick-associated rash illness"
+        ],
+        "Allergic rash": [
+            "Allergic rash"
+        ],
+        "Vasculitis": [
+            "Vasculitis"
+        ],
+        "Acute drug-induced tubulointerstitial nephritis": [
+            "Acute drug-induced interstitial nephritis",
+            "Acute tubulointerstitial nephritis due to hypersensitivity to drugs"
+        ],
+        "Abscess": [
+            "Abscess"
+        ],
+        "Parotid sialodocholithiasis": [
+            "Parotid sialodocholithiasis"
+        ],
+        "Thyroiditis": [
+            "Thyroiditis",
+            "Hyperthyroidism"
+        ],
+        "Henoch-Sch\u00f6nlein purpura": [
+            "HSP - Henoch-Schonlein purpura",
+            "Henoch-Schoenlein vasculitis"
+        ],
+        "Hereditary dermatographism": [
+            "Hereditary dermatographism"
+        ],
+        "Helicobacter pylori": [
+            "Helicobacter pylori"
+        ],
+        "Parotid abscess": [
+            "Parotid abscess"
+        ],
+        "CVA - Cerebrovascular accident": [
+            "CVA - Cerebrovascular accident"
+        ],
+        "Pancoast syndrome": [
+            "Pancoast syndrome"
+        ],
+        "Plant photodermatitis": [
+            "Plant photodermatitis"
+        ],
+        "Tick-borne infection": [
+            "Tick-borne infection"
+        ],
+        "Disease due to Rickettsiales": [
+            "Rickettsial infectious disease",
+            "Rickettsial infection"
+        ],
+        "Infectious mononucleosis": [
+            "Infectious mononucleosis"
+        ],
+        "Antibody to alpha-gal": [
+            "Antibody to alpha-gal"
+        ],
+        "Delayed anaphylaxis": [
+            "Delayed anaphylaxis"
+        ],
+        "Anaphylaxisis": [
+            "Anaphylaxisis"
+        ],
+        "Myxedema": [
+            "Myxedema"
+        ],
+        "Deficiency of nitrate reductase": [
+            "Deficiency of nitrate reductase"
+        ],
+        "Necrotizing fasciitis": [
+            "Necrotizing fasciitis"
+        ],
+        "Mosquito-borne viral fever, unspecified": [
+            "Mosquito-borne viral fever, unspecified"
+        ],
+        "Allergic reaction to bee sting": [
+            "Allergic reaction to bee sting"
+        ],
+        "Infestation by bed bug": [
+            "Infestation by bed bug"
+        ],
+        "Ramsay Hunt syndrome - auricular": [
+            "Ramsay Hunt syndrome - auricular"
+        ],
+        "Adverse cutaneous reaction to herbal medicine": [
+            "Adverse cutaneous reaction to herbal medicine"
+        ],
+        "sinus cavernisus thrombosis": [
+            "sinus cavernisus thrombosis"
+        ],
+        "TOS - Thoracic outlet syndrome": [
+            "TOS - Thoracic outlet syndrome"
+        ],
+        "Tick exposure": [
+            "Tick exposure"
+        ],
+        "Insect-related poisoning": [
+            "Insect-related poisoning"
+        ],
+        "Pityriasis rosea": [
+            "Pityriasis rosea"
+        ],
+        "Metabolic acidosis, IAG, reduced excretion of inorganic acids": [
+            "Metabolic acidosis, IAG, reduced excretion of inorganic acids"
+        ],
+        "Superior caval vein obstruction": [
+            "Superior caval vein obstruction"
+        ],
+        "Primary hypercoagulable states": [
+            "Primary hypercoagulable states"
+        ],
+        "Liver injury": [
+            "Liver injury"
+        ],
+        "Polycythemia vera": [
+            "Polycythemia Vera"
+        ],
+        "Noctural cough": [
+            "Noctural cough"
+        ],
+        "Localized cutaneous mastocytosis": [
+            "Localized cutaneous mastocytosis"
+        ],
+        "San Joaquin Valley fever": [
+            "San Joaquin Valley fever"
+        ],
+        "Nocardiosis": [
+            "Nocardiosis"
+        ],
+        "Diffuse erythrodermic mastocytosis": [
+            "Diffuse erythrodermic mastocytosis"
+        ],
+        "Actinomycosis": [
+            "Actinomycosis"
+        ],
+        "Galactose 1,3 alpha galactose allergy": [
+            "Galactose 1,3 alpha galactose allergy"
+        ],
+        "Galactise 1,3 alpha galactose allergy": [
+            "Galactise 1,3 alpha galactose allergy"
+        ],
+        "Acquired alpha gal due to tick bites": [
+            "Acquired alpha gal due to tick bites"
+        ],
+        "Lone star tick bite leading to meat allergy": [
+            "Lone star tick bite leading to meat allergy"
+        ],
+        "Angioedema due to drug": [
+            "Angioedema due to drug"
+        ],
+        "facial swelling": [
+            "facial swelling"
+        ],
+        "arthropod borne illness": [
+            "arthropod borne illness"
+        ],
+        "Erythema nodosum": [
+            "Erythema nodosum"
+        ],
+        "Gastroesophageal reflux disease": [
+            "Gastroesophageal reflux disease"
+        ],
+        "Anasarca": [
+            "Anasarca"
+        ],
+        "Sialolithiasis": [
+            "Sialolithiasis"
+        ],
+        "Acne": [
+            "Acne"
+        ],
+        "Rosacea": [
+            "Rosacea"
+        ],
+        "Topical corticosteroid withdrawal": [
+            "Topical corticosteroid withdrawal"
+        ],
+        "Rhinofacial conidiobolomycosis": [
+            "Rhinofacial conidiobolomycosis"
+        ],
+        "Interstitial granulomatous dermatitis": [
+            "Interstitial granulomatous dermatitis"
+        ],
+        "Urticarial vasculitis with monoclonal IgM component, Schnitzler": [
+            "Urticarial vasculitis with monoclonal IgM component, Schnitzler"
+        ],
+        "CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome": [
+            "CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome"
+        ],
+        "Systemic sclerosis": [
+            "Systemic sclerosis"
+        ],
+        "Gonococcal infection with localized cutaneous involvement": [
+            "Gonococcal infection with localized cutaneous involvement"
+        ],
+        "AIN": [
+            "AIN"
+        ],
+        "Viral exanthem": [
+            "Viral exanthem"
+        ],
+        "Alpha gal red mest allergy post tick bite": [
+            "Alpha gal red mest allergy post tick bite"
+        ],
+        "Rhus dermatitis": [
+            "Rhus dermatitis"
+        ],
+        "Meat allergy due to Lone Star tick bite": [
+            "Meat allergy due to Lone Star tick bite"
+        ],
+        "Ricketsial infection": [
+            "Ricketsial infection"
+        ],
+        "Streptococcal pharyngitis": [
+            "Streptococcal pharyngitis"
+        ],
+        "Pemphigus vulgaris": [
+            "Pemphigus vulgaris"
+        ],
+        "Bullous pemphigoid": [
+            "Bullous pemphigoid"
+        ],
+        "Glomerulonephritis": [
+            "Glomerulonephritis"
+        ],
+        "Volume overload": [
+            "Volume overload"
+        ],
+        "Job's syndrome": [
+            "Job's syndrome"
+        ],
+        "Star  tick": [
+            "Star  tick"
+        ],
+        "Rash from ppi": [
+            "Rash from ppi"
+        ],
+        "Dental caries": [
+            "Dental caries"
+        ],
+        "Mast cell mediated angioedema": [
+            "Mast cell mediated angioedema"
+        ],
+        "tick fever": [
+            "tick fever"
+        ],
+        "Urticaria secondary to infection": [
+            "Urticaria secondary to infection"
+        ],
+        "Thrombosis": [
+            "Thrombosis"
+        ],
+        "Contact dermatitis due to meat": [
+            "Contact dermatitis due to meat"
+        ],
+        "Poison sumac poisoning": [
+            "Poison sumac poisoning"
+        ],
+        "Allergic drug reaction": [
+            "Allergic drug reaction"
+        ],
+        "Urticaria due to cold and heat": [
+            "Urticaria due to cold and heat"
+        ],
+        "Mosquito bite": [
+            "Mosquito bite"
+        ],
+        "Absence of tooth - acquired": [
+            "Absence of tooth - acquired"
+        ],
+        "Oral allergy syndrome": [
+            "Oral allergy syndrome"
+        ],
+        "Lactose intolerance": [
+            "Lactose intolerance"
+        ],
+        "Cellulitis of right external ear": [
+            "Cellulitis of right external ear"
+        ],
+        "Tick born": [
+            "Tick born"
+        ],
+        "Temporomandibular joint disorders": [
+            "Temporomandibular joint disorders"
+        ],
+        "Strep pyogenes": [
+            "Strep pyogenes"
+        ],
+        "Hypersensitivity disorder mediated by immune complex": [
+            "Hypersensitivity disorder mediated by immune complex"
+        ],
+        "Poison ivy poisoning": [
+            "Poison ivy poisoning"
+        ],
+        "Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere": [
+            "Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere"
+        ],
+        "Typhus fever": [
+            "Typhus fever"
+        ],
+        "Spirochetal infection, unspecified": [
+            "Spirochetal infection, unspecified"
+        ],
+        "Parotiditis": [
+            "Parotiditis"
+        ],
+        "Tick bite causing meat allergy": [
+            "Tick bite causing meat allergy"
+        ],
+        "Acute interstitial pneumonitis": [
+            "Acute interstitial pneumonitis"
+        ],
+        "Edema": [
+            "Edema"
+        ],
+        "Insect sting": [
+            "Insect sting"
+        ],
+        "Esophageal cancer": [
+            "Esophageal cancer"
+        ],
+        "Arthropod": [
+            "Arthropod"
+        ],
+        "On examination - allergic rash": [
+            "On examination - allergic rash"
+        ],
+        "HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps": [
+            "HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps"
+        ],
+        "Alpha-gal sensitization": [
+            "Alpha-gal sensitization"
+        ],
+        "Medication induced edema": [
+            "Medication induced edema"
+        ],
+        "Post-streptococcal glomerulonephritis": [
+            "Post-streptococcal glomerulonephritis"
+        ],
+        "Infection by Ascaris lumbricoides": [
+            "Infection by Ascaris lumbricoides"
+        ],
+        "Anaphalaxis": [
+            "Anaphalaxis"
+        ],
+        "Familial urticaria": [
+            "Familial urticaria"
+        ],
+        "Choking due to food in larynx": [
+            "Choking due to food in larynx"
+        ],
+        "Alpha-gal hypersensitivity": [
+            "Alpha-gal hypersensitivity"
+        ],
+        "Preorbital cellulitis": [
+            "Preorbital cellulitis"
+        ],
+        "Minimal change nephrotic syndrome": [
+            "Minimal change nephrotic syndrome"
+        ],
+        "Alpha gal allergy due to tick bite": [
+            "Alpha gal allergy due to tick bite"
+        ],
+        "Venocaval compression": [
+            "Venocaval compression"
+        ],
+        "Discoid lupus erythematosus": [
+            "Discoid lupus erythematosus"
+        ],
+        "Erythema migrans": [
+            "Erythema migrans"
+        ],
+        "Staphylococcal infection, unspecified site": [
+            "Staphylococcal infection, unspecified site"
+        ],
+        "Nonvenomous insect bite of lip without infection": [
+            "Nonvenomous insect bite of lip without infection"
+        ],
+        "Infected tooth socket": [
+            "Infected tooth socket"
+        ],
+        "ABPA - Allergic bronchopulmonary aspergillosis": [
+            "ABPA - Allergic bronchopulmonary aspergillosis"
+        ]
+    }
+}

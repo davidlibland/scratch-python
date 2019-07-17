@@ -1,0 +1,2584 @@
+{
+    "no-dx_all-official": {
+        "Toxic synovitis": [
+            "Transient synovitis",
+            "Toxic synovitis"
+        ],
+        "Fracture": [
+            "Fracture"
+        ],
+        "Child abuse": [
+            "Child abuse"
+        ],
+        "Osteomyelitis": [
+            "Osteomyelitis"
+        ],
+        "Septic arthritis": [
+            "Septic arthritis"
+        ],
+        "Discitis of lumbar region": [
+            "Discitis of lumbar region"
+        ],
+        "Sacroiliitis, not elsewhere classified": [
+            "Sacroiliitis, not elsewhere classified"
+        ],
+        "Acute pain due to trauma": [
+            "Acute pain due to trauma"
+        ],
+        "Fractire": [
+            "Fractire"
+        ],
+        "Sarcoma": [
+            "sarcoma"
+        ],
+        "Non-accidental injury to child": [
+            "Non-accidental injury to child"
+        ],
+        "toddlers fracture": [
+            "toddlers fracture"
+        ],
+        "tibial fracture": [
+            "tibial fracture"
+        ],
+        "Osteosarcoma": [
+            "Osteosarcoma of bone",
+            "Osteosarcoma"
+        ],
+        "Broken bone": [
+            "Broken bone"
+        ],
+        "Pathological fracture, tibia and fibula": [
+            "Pathological fracture, tibia and fibula"
+        ],
+        "Large cell Ewing sarcoma of bone": [
+            "Large cell Ewing sarcoma of bone"
+        ],
+        "Pathological fracture, femur and pelvis": [
+            "Pathological fracture, femur and pelvis"
+        ],
+        "femoral head dislocation": [
+            "femoral head dislocation"
+        ],
+        "fracture tibia": [
+            "fracture tibia"
+        ],
+        "Developmental dysplasia of the hip": [
+            "Congenital hip dysplasia",
+            "Developmental dysplasia of the hip",
+            "Congenital dysplasia of the hip"
+        ],
+        "Osteogenesis imperfecta": [
+            "Osteogenesis imperfecta",
+            "OI - Osteogenesis imperfecta"
+        ],
+        "Fracture of lower limb": [
+            "Leg fracture",
+            "Fracture of bone of lower limb",
+            "Fracture of leg"
+        ],
+        "Femur fracture": [
+            "Femur fracture"
+        ],
+        "Septic joint": [
+            "Septic joint"
+        ],
+        "Avascular necrosis of the capital femoral epiphysis": [
+            "Legg-Calve-Perthes disease",
+            "Perthes disease",
+            "Perthes disease - osteochondritis of the femoral head"
+        ],
+        "Psoas abscess": [
+            "Psoas abscess"
+        ],
+        "Acute appendicitis": [
+            "Acute appendicitis"
+        ],
+        "Reactive arthritis": [
+            "Reactive arthritis"
+        ],
+        "Slipped upper femoral epiphysis": [
+            "SUFE - Slipped upper femoral epiphysis",
+            "Slipped femoral epiphysis"
+        ],
+        "Pathologic fracture": [
+            "Pathologic fracture"
+        ],
+        "Acute lymphoblastic leukemia": [
+            "Acute lymphoblastic leukemia"
+        ],
+        "Trauma": [
+            "trauma"
+        ],
+        "Arthritis": [
+            "arthritis"
+        ],
+        "Tibia fracture": [
+            "Tibia fracture"
+        ],
+        "Rhabdosarcoma": [
+            "Rhabdosarcoma"
+        ],
+        "Slipped upper femoral epiphysis (nontraumatic)": [
+            "Slipped upper femoral epiphysis (nontraumatic)"
+        ],
+        "Stress fracture": [
+            "Stress fracture"
+        ],
+        "Open left tibial fracture": [
+            "Open left tibial fracture"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Joint dislocation": [
+            "Joint dislocation"
+        ],
+        "Joint injury": [
+            "Joint injury"
+        ],
+        "Knee injury": [
+            "Knee injury"
+        ],
+        "Sprain radial collateral ligament": [
+            "Sprain radial collateral ligament"
+        ],
+        "Toddler fracture": [
+            "Toddler fracture"
+        ],
+        "Fever": [
+            "Fever"
+        ],
+        "Sickle cell disease": [
+            "Sickle cell disease"
+        ],
+        "Juvenile arthritis": [
+            "Juvenile arthritis"
+        ],
+        "Frscture left tibia": [
+            "Frscture left tibia"
+        ],
+        "Tumour": [
+            "Tumour"
+        ],
+        "Accidental fracture": [
+            "Accidental fracture"
+        ],
+        "Kawasaki disease": [
+            "Kawasaki disease"
+        ],
+        "Haemolytic uraemic syndrome of childhood": [
+            "Haemolytic uraemic syndrome of childhood"
+        ],
+        "Leukemia": [
+            "Leukaemia",
+            "Leukemia"
+        ],
+        "Tubial fracture": [
+            "Tubial fracture"
+        ],
+        "Suspected child abuse and neglect": [
+            "Physical injury due to physical abuse",
+            "Suspected child abuse and neglect"
+        ],
+        "Toddler fracture tibia": [
+            "Toddler fracture tibia"
+        ],
+        "Lower extremity fracture": [
+            "Lower extremity fracture"
+        ],
+        "Dislocation of lower extremity": [
+            "Dislocation of lower extremity"
+        ],
+        "Closed fracture of left tibial spine": [
+            "Closed fracture of left tibial spine"
+        ],
+        "Non accidental trauma": [
+            "Spiral fracture femur",
+            "Non accidental trauma"
+        ],
+        "Psoas muscle abscess": [
+            "Psoas muscle abscess"
+        ],
+        "Left tibial spiral fracture": [
+            "Left tibial spiral fracture"
+        ],
+        "Irritable hip": [
+            "Irritable hip"
+        ],
+        "Pain in foot and toes": [
+            "Pain in foot and toes"
+        ],
+        "Myositis": [
+            "Myositis"
+        ],
+        "Nat": [
+            "Nat"
+        ],
+        "Fracture femur": [
+            "Fracture femur"
+        ],
+        "Ewing sarcoma of bone": [
+            "Ewing sarcoma of bone"
+        ],
+        "Unicameral bone cyst": [
+            "Unicameral bone cyst"
+        ],
+        "Osteoblastoma of bone": [
+            "Osteoblastoma of bone"
+        ],
+        "Osteomalacia": [
+            "Osteomalacia"
+        ],
+        "Paget's disease of bone": [
+            "Pagets disease of bone"
+        ],
+        "Osteochondroma": [
+            "Osteochondroma"
+        ],
+        "GTCT - Giant cell tumor of bone": [
+            "GTCT - Giant cell tumor of bone"
+        ],
+        "Aneurysmal bone cyst": [
+            "Aneurysmal Bone Cyst"
+        ],
+        "Closed fracture proximal tibia, lateral condyle (plateau)": [
+            "Closed fracture proximal tibia, lateral condyle (plateau)"
+        ],
+        "Juvenile idiopathic arthritis": [
+            "Juvenile idiopathic arthritis"
+        ],
+        "Hip displacement": [
+            "Hip displacement"
+        ],
+        "Left Tibial fracture": [
+            "Left Tibial fracture"
+        ],
+        "Deep vein thrombosis": [
+            "Deep vein thrombosis"
+        ],
+        "Hip fracture": [
+            "Hip fracture"
+        ],
+        "Closed fracture of upper end of tibia AND fibula": [
+            "Closed fracture of upper end of tibia AND fibula"
+        ],
+        "Closed tibia fracture": [
+            "Closed tibia fracture"
+        ],
+        "Congenital dislocation of hip": [
+            "CDH - Congenital dislocation of the hip",
+            "Developmental dislocation of hip"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], left leg": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], left leg"
+        ],
+        "Rickets, active": [
+            "Rickets, active"
+        ],
+        "Vitamin D deficiency": [
+            "Vitamin D deficiency"
+        ],
+        "Supracondylar fracture femur": [
+            "Supracondylar fracture femur"
+        ],
+        "Benign bone tumor": [
+            "Benign bone tumor"
+        ],
+        "Late effect of child abuse": [
+            "Late effect of child abuse"
+        ],
+        "Virosis": [
+            "Virosis"
+        ],
+        "Bone tumor": [
+            "Bone tumor"
+        ],
+        "Closed fracture of tibia AND fibula": [
+            "Closed fracture of tibia AND fibula"
+        ],
+        "Recurrent dislocation of joint": [
+            "Recurrent dislocation of joint"
+        ],
+        "Hip dysplasia": [
+            "Hip dysplasia"
+        ],
+        "Pain in knee": [
+            "Pain in knee"
+        ],
+        "Traumatic fractue": [
+            "Traumatic fractue"
+        ],
+        "Non-accidental injury": [
+            "Non-accidental injury"
+        ],
+        "Fracture of tibia AND fibula": [
+            "Fracture of tibia AND fibula"
+        ],
+        "Fracture of bone of hip region": [
+            "Fracture of bone of hip region"
+        ],
+        "Hip septic arthritis": [
+            "Hip septic arthritis"
+        ],
+        "Fracture of tibia": [
+            "Fracture of tibia"
+        ],
+        "Abuse": [
+            "Abuse"
+        ],
+        "Ankle sprain": [
+            "Ankle sprain"
+        ],
+        "Dislocation": [
+            "Dislocation"
+        ],
+        "Septic arthritis of costotransverse joint": [
+            "Septic arthritis of costotransverse joint"
+        ],
+        "Hip dislocation": [
+            "Hip dislocation"
+        ],
+        "Knee dislocation": [
+            "Knee dislocation"
+        ],
+        "Ehlers-Danlos syndrome": [
+            "Ehlers-Danlos syndrome"
+        ],
+        "Lumbago with sciatica": [
+            "Lumbago with sciatica"
+        ],
+        "Concussion injury of cerebrum": [
+            "Concussion injury of cerebrum"
+        ],
+        "Scurvy": [
+            "Scurvy"
+        ],
+        "Dysplasia": [
+            "Dysplasia"
+        ],
+        "Infectious": [
+            "Infectious"
+        ],
+        "Pathological dislocation of left hip, not elsewhere classified": [
+            "Pathological dislocation of left hip, not elsewhere classified"
+        ],
+        "Sprain of medial ligament of ankle joint": [
+            "Sprain of medial ligament of ankle joint"
+        ],
+        "Recurrent dislocation, right hip": [
+            "Recurrent dislocation, right hip"
+        ],
+        "Anterior shin splints": [
+            "Anterior shin splints"
+        ],
+        "Tibial spiral fracture": [
+            "Tibial spiral fracture"
+        ],
+        "Viral tenosynovitis": [
+            "Viral tenosynovitis"
+        ],
+        "Avascular necrosis of bone of hip": [
+            "Avascular necrosis of bone of hip"
+        ],
+        "Acute leukemia of unspecified cell type": [
+            "Acute leukemia of unspecified cell type"
+        ],
+        "Injury": [
+            "Injury"
+        ],
+        "Direct infection of hip in infectious and parasitic diseases classified elsewhere": [
+            "Direct infection of hip in infectious and parasitic diseases classified elsewhere"
+        ],
+        "Hip dyslpasia": [
+            "Hip dyslpasia"
+        ],
+        "Haemarthrosis": [
+            "Haemarthrosis"
+        ],
+        "Spiral fracture": [
+            "Spiral fracture"
+        ],
+        "Closed left tibial fracture": [
+            "Closed left tibial fracture"
+        ],
+        "displasia of hip": [
+            "displasia of hip"
+        ],
+        "sinovitis": [
+            "sinovitis"
+        ],
+        "Muscular dystrophy": [
+            "Muscular dystrophy"
+        ],
+        "Soft tissue injury": [
+            "Soft tissue injury"
+        ],
+        "Fracture abuse": [
+            "Fracture abuse"
+        ],
+        "Bacterial arthritis of patellofemoral joint": [
+            "Bacterial arthritis of patellofemoral joint"
+        ],
+        "Pyogenic bacterial arthritis of hip": [
+            "Pyogenic bacterial arthritis of hip"
+        ],
+        "Other specified disorders of bone density and structure, ankle and foot": [
+            "Other specified disorders of bone density and structure, ankle and foot"
+        ],
+        "Paralysis": [
+            "Paralysis"
+        ],
+        "Greenstick fracture of distal radius": [
+            "Greenstick fracture of distal radius"
+        ],
+        "Bone contusion": [
+            "Bone contusion"
+        ],
+        "Closed fracture of epiphyseal plate of proximal tibia": [
+            "Closed fracture of epiphyseal plate of proximal tibia"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes]": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes]"
+        ],
+        "Unilateral osteoarthritis resulting from hip dysplasia, left hip": [
+            "Unilateral osteoarthritis resulting from hip dysplasia, left hip"
+        ],
+        "Bone cancer": [
+            "Bone cancer"
+        ],
+        "Ligament sprain": [
+            "Ligament sprain"
+        ],
+        "Muscle strain": [
+            "Muscle strain"
+        ],
+        "Fractured leg": [
+            "Fractured leg"
+        ],
+        "Osteopenic rickets": [
+            "Osteopenic rickets"
+        ],
+        "Accidental injury": [
+            "Accidental injury"
+        ],
+        "Rickets": [
+            "Rickets"
+        ],
+        "Femoral dislocation": [
+            "Femoral dislocation"
+        ],
+        "Unilateral osteoarthritis resulting from hip dysplasia": [
+            "Unilateral osteoarthritis resulting from hip dysplasia"
+        ],
+        "Tibail fracture": [
+            "Tibail fracture"
+        ],
+        "Closed distal physis fracture of left tibia": [
+            "Closed distal physis fracture of left tibia"
+        ],
+        "Closed fracture tibia": [
+            "Closed fracture tibia"
+        ],
+        "Closed fracture fibula, neck": [
+            "Closed fracture fibula, neck"
+        ],
+        "Osteonecrosis": [
+            "Osteonecrosis"
+        ],
+        "Patellar dislocation": [
+            "Patellar dislocation"
+        ],
+        "Pathological fracture, left foot": [
+            "Pathological fracture, left foot"
+        ],
+        "Femoral fracture": [
+            "Femoral fracture"
+        ],
+        "Non-accidental injury to adult": [
+            "Non-accidental injury to adult"
+        ],
+        "Stress fracture of femoral shaft": [
+            "Stress fracture of femoral shaft"
+        ],
+        "Arthritis of left hip": [
+            "Arthritis of left hip"
+        ],
+        "Fracture of left tibia": [
+            "Fracture of left tibia"
+        ],
+        "Rheumatoid arthritis": [
+            "Rheumatoid arthritis"
+        ],
+        "Hemarthrosis": [
+            "Hemarthrosis"
+        ],
+        "Developmental hip dysplasia": [
+            "Developmental hip dysplasia"
+        ],
+        "Avascular necrosis of femoral condyle": [
+            "Avascular necrosis of femoral condyle"
+        ],
+        "Osteochondrosis of tibial tubercle [Osgood-Schlatter]": [
+            "Osteochondrosis of tibial tubercle [Osgood-Schlatter]"
+        ],
+        "AVN - Avascular necrosis of bone": [
+            "AVN - Avascular necrosis of bone"
+        ],
+        "Contusion of lower limb": [
+            "Contusion of lower limb"
+        ],
+        "Knee effusion": [
+            "Knee effusion"
+        ],
+        "Slipped capital femoral epiphysis": [
+            "Slipped capital femoral epiphysis"
+        ],
+        "Osteoid osteoma": [
+            "Osteoid osteoma"
+        ],
+        "Facture": [
+            "Facture"
+        ],
+        "Contusion": [
+            "Contusion"
+        ],
+        "Infected joint": [
+            "Infected joint"
+        ],
+        "Septic hip": [
+            "Septic hip"
+        ],
+        "Dislocation of hip": [
+            "Dislocation of hip"
+        ],
+        "Osteochondral defect of distal tibia": [
+            "Osteochondral defect of distal tibia"
+        ],
+        "Pain in ankle and joints of foot": [
+            "Pain in ankle and joints of foot"
+        ],
+        "Hemophilia": [
+            "Hemophilia"
+        ],
+        "Acute meniscal tear, lateral": [
+            "Acute meniscal tear, lateral"
+        ],
+        "Chondrosarcoma of bone": [
+            "Chondrosarcoma of bone"
+        ],
+        "Cerebral palsy": [
+            "Cerebral palsy"
+        ],
+        "Pathological fracture due to osteoporosis": [
+            "Pathological fracture due to osteoporosis"
+        ],
+        "DMD - Duchenne muscular dystrophy": [
+            "DMD - Duchenne muscular dystrophy"
+        ],
+        "BMD - Becker muscular dystrophy": [
+            "BMD - Becker muscular dystrophy"
+        ],
+        "Obesity": [
+            "Obesity"
+        ],
+        "Gaucher disease": [
+            "Gaucher disease"
+        ],
+        "greenstick fracture": [
+            "greenstick fracture"
+        ],
+        "hair tournequet": [
+            "hair tournequet"
+        ],
+        "Shingles": [
+            "Shingles"
+        ],
+        "Familial hypophosphatemic osteomalacia": [
+            "Familial hypophosphatemic osteomalacia"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], unspecified leg": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], unspecified leg"
+        ],
+        "Cellulitis": [
+            "Cellulitis"
+        ],
+        "Dislocation AND/OR displacement of joint, not due to injury": [
+            "Dislocation AND/OR displacement of joint, not due to injury"
+        ],
+        "tibial fracture due to trauma": [
+            "tibial fracture due to trauma"
+        ],
+        "Internal derangement of knee": [
+            "Internal derangement of knee"
+        ],
+        "Femoral neck fracture": [
+            "Femoral neck fracture"
+        ],
+        "Closed fracture of tibia or fibula, shaft": [
+            "Closed fracture of tibia or fibula, shaft"
+        ],
+        "SCAN": [
+            "SCAN"
+        ],
+        "NAT - Non-accidental trauma": [
+            "NAT - Non-accidental trauma"
+        ],
+        "Concern for non accidental trauma": [
+            "Concern for non accidental trauma"
+        ]
+    },
+    "0.5-dx_all-official": {
+        "Toxic synovitis": [
+            "Transient synovitis",
+            "Toxic synovitis",
+            "Viral tenosynovitis",
+            "sinovitis"
+        ],
+        "Non-accidental injury to child": [
+            "Fracture",
+            "Non-accidental injury to child",
+            "toddlers fracture",
+            "tibial fracture",
+            "Pathological fracture, tibia and fibula",
+            "Leg fracture",
+            "Femur fracture",
+            "Pathologic fracture",
+            "Tibia fracture",
+            "Stress fracture",
+            "Open left tibial fracture",
+            "Toddler fracture",
+            "Tubial fracture",
+            "Toddler fracture tibia",
+            "Lower extremity fracture",
+            "Spiral fracture femur",
+            "Left tibial spiral fracture",
+            "Left Tibial fracture",
+            "Hip fracture",
+            "Closed fracture of tibia AND fibula",
+            "Fracture of bone of lower limb",
+            "Traumatic fractue",
+            "Fracture of bone of hip region",
+            "Fracture of tibia",
+            "Tibial spiral fracture",
+            "Spiral fracture",
+            "Closed left tibial fracture",
+            "Non accidental trauma",
+            "Closed fracture of epiphyseal plate of proximal tibia",
+            "Accidental injury",
+            "Tibail fracture",
+            "Closed fracture tibia",
+            "Closed fracture fibula, neck",
+            "Femoral fracture",
+            "Fracture of left tibia",
+            "Facture",
+            "Fracture of leg",
+            "tibial fracture due to trauma",
+            "Femoral neck fracture",
+            "Closed fracture of tibia or fibula, shaft"
+        ],
+        "Child abuse": [
+            "Child abuse",
+            "Late effect of child abuse"
+        ],
+        "Osteomyelitis": [
+            "Osteomyelitis",
+            "Osteonecrosis"
+        ],
+        "Reactive arthritis": [
+            "Septic arthritis",
+            "Septic joint",
+            "Reactive arthritis",
+            "arthritis",
+            "Juvenile idiopathic arthritis",
+            "Hip septic arthritis",
+            "Septic arthritis of costotransverse joint"
+        ],
+        "Discitis of lumbar region": [
+            "Discitis of lumbar region"
+        ],
+        "Sacroiliitis, not elsewhere classified": [
+            "Sacroiliitis, not elsewhere classified"
+        ],
+        "Acute pain due to trauma": [
+            "Acute pain due to trauma"
+        ],
+        "Fractire": [
+            "Fractire"
+        ],
+        "Sarcoma": [
+            "sarcoma"
+        ],
+        "Osteosarcoma": [
+            "Osteosarcoma of bone",
+            "Osteosarcoma",
+            "Ewing sarcoma of bone"
+        ],
+        "Broken bone": [
+            "Broken bone"
+        ],
+        "Large cell Ewing sarcoma of bone": [
+            "Large cell Ewing sarcoma of bone"
+        ],
+        "Pathological fracture, femur and pelvis": [
+            "Pathological fracture, femur and pelvis"
+        ],
+        "femoral head dislocation": [
+            "femoral head dislocation"
+        ],
+        "fracture tibia": [
+            "fracture tibia"
+        ],
+        "Developmental dysplasia of the hip": [
+            "Congenital hip dysplasia",
+            "Developmental dysplasia of the hip",
+            "Hip dysplasia",
+            "Congenital dysplasia of the hip"
+        ],
+        "Osteogenesis imperfecta": [
+            "Osteogenesis imperfecta",
+            "OI - Osteogenesis imperfecta"
+        ],
+        "Avascular necrosis of the capital femoral epiphysis": [
+            "Legg-Calve-Perthes disease",
+            "Perthes disease",
+            "Perthes disease - osteochondritis of the femoral head"
+        ],
+        "Psoas abscess": [
+            "Psoas abscess"
+        ],
+        "Acute appendicitis": [
+            "Acute appendicitis"
+        ],
+        "Slipped upper femoral epiphysis": [
+            "SUFE - Slipped upper femoral epiphysis",
+            "Slipped femoral epiphysis"
+        ],
+        "Acute lymphoblastic leukemia": [
+            "Acute lymphoblastic leukemia"
+        ],
+        "Trauma": [
+            "trauma"
+        ],
+        "Rhabdosarcoma": [
+            "Rhabdosarcoma"
+        ],
+        "Slipped upper femoral epiphysis (nontraumatic)": [
+            "Slipped upper femoral epiphysis (nontraumatic)"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Joint dislocation": [
+            "Joint dislocation"
+        ],
+        "Joint injury": [
+            "Joint injury"
+        ],
+        "Knee injury": [
+            "Knee injury"
+        ],
+        "Sprain radial collateral ligament": [
+            "Sprain radial collateral ligament"
+        ],
+        "Fever": [
+            "Fever"
+        ],
+        "Sickle cell disease": [
+            "Sickle cell disease"
+        ],
+        "Juvenile arthritis": [
+            "Juvenile arthritis"
+        ],
+        "Frscture left tibia": [
+            "Frscture left tibia"
+        ],
+        "Tumour": [
+            "Tumour"
+        ],
+        "Accidental fracture": [
+            "Accidental fracture"
+        ],
+        "Kawasaki disease": [
+            "Kawasaki disease"
+        ],
+        "Haemolytic uraemic syndrome of childhood": [
+            "Haemolytic uraemic syndrome of childhood"
+        ],
+        "Leukemia": [
+            "Leukaemia",
+            "Leukemia"
+        ],
+        "Suspected child abuse and neglect": [
+            "Physical injury due to physical abuse",
+            "Suspected child abuse and neglect"
+        ],
+        "Dislocation of lower extremity": [
+            "Dislocation of lower extremity"
+        ],
+        "Closed fracture of left tibial spine": [
+            "Closed fracture of left tibial spine"
+        ],
+        "Psoas muscle abscess": [
+            "Psoas muscle abscess"
+        ],
+        "Irritable hip": [
+            "Irritable hip"
+        ],
+        "Pain in foot and toes": [
+            "Pain in foot and toes"
+        ],
+        "Myositis": [
+            "Myositis"
+        ],
+        "Nat": [
+            "Nat"
+        ],
+        "Fracture femur": [
+            "Fracture femur"
+        ],
+        "Unicameral bone cyst": [
+            "Unicameral bone cyst"
+        ],
+        "Osteoblastoma of bone": [
+            "Osteoblastoma of bone"
+        ],
+        "Osteomalacia": [
+            "Osteomalacia"
+        ],
+        "Paget's disease of bone": [
+            "Pagets disease of bone"
+        ],
+        "Osteochondroma": [
+            "Osteochondroma"
+        ],
+        "GTCT - Giant cell tumor of bone": [
+            "GTCT - Giant cell tumor of bone"
+        ],
+        "Aneurysmal bone cyst": [
+            "Aneurysmal Bone Cyst"
+        ],
+        "Closed fracture proximal tibia, lateral condyle (plateau)": [
+            "Closed fracture proximal tibia, lateral condyle (plateau)"
+        ],
+        "Hip displacement": [
+            "Hip displacement"
+        ],
+        "Deep vein thrombosis": [
+            "Deep vein thrombosis"
+        ],
+        "Closed fracture of upper end of tibia AND fibula": [
+            "Closed fracture of upper end of tibia AND fibula"
+        ],
+        "Closed tibia fracture": [
+            "Closed tibia fracture"
+        ],
+        "Congenital dislocation of hip": [
+            "CDH - Congenital dislocation of the hip",
+            "Developmental dislocation of hip"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], left leg": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], left leg"
+        ],
+        "Rickets, active": [
+            "Rickets, active"
+        ],
+        "Vitamin D deficiency": [
+            "Vitamin D deficiency"
+        ],
+        "Supracondylar fracture femur": [
+            "Supracondylar fracture femur"
+        ],
+        "Benign bone tumor": [
+            "Benign bone tumor"
+        ],
+        "Virosis": [
+            "Virosis"
+        ],
+        "Bone tumor": [
+            "Bone tumor"
+        ],
+        "Recurrent dislocation of joint": [
+            "Recurrent dislocation of joint"
+        ],
+        "Pain in knee": [
+            "Pain in knee"
+        ],
+        "Non-accidental injury": [
+            "Non-accidental injury"
+        ],
+        "Fracture of tibia AND fibula": [
+            "Fracture of tibia AND fibula"
+        ],
+        "Abuse": [
+            "Abuse"
+        ],
+        "Ankle sprain": [
+            "Ankle sprain"
+        ],
+        "Dislocation": [
+            "Dislocation"
+        ],
+        "Hip dislocation": [
+            "Hip dislocation"
+        ],
+        "Knee dislocation": [
+            "Knee dislocation"
+        ],
+        "Ehlers-Danlos syndrome": [
+            "Ehlers-Danlos syndrome"
+        ],
+        "Lumbago with sciatica": [
+            "Lumbago with sciatica"
+        ],
+        "Concussion injury of cerebrum": [
+            "Concussion injury of cerebrum"
+        ],
+        "Scurvy": [
+            "Scurvy"
+        ],
+        "Dysplasia": [
+            "Dysplasia"
+        ],
+        "Infectious": [
+            "Infectious"
+        ],
+        "Pathological dislocation of left hip, not elsewhere classified": [
+            "Pathological dislocation of left hip, not elsewhere classified"
+        ],
+        "Sprain of medial ligament of ankle joint": [
+            "Sprain of medial ligament of ankle joint"
+        ],
+        "Recurrent dislocation, right hip": [
+            "Recurrent dislocation, right hip"
+        ],
+        "Anterior shin splints": [
+            "Anterior shin splints"
+        ],
+        "Avascular necrosis of bone of hip": [
+            "Avascular necrosis of bone of hip"
+        ],
+        "Acute leukemia of unspecified cell type": [
+            "Acute leukemia of unspecified cell type"
+        ],
+        "Injury": [
+            "Injury"
+        ],
+        "Direct infection of hip in infectious and parasitic diseases classified elsewhere": [
+            "Direct infection of hip in infectious and parasitic diseases classified elsewhere"
+        ],
+        "Hip dyslpasia": [
+            "Hip dyslpasia"
+        ],
+        "Haemarthrosis": [
+            "Haemarthrosis"
+        ],
+        "displasia of hip": [
+            "displasia of hip"
+        ],
+        "Muscular dystrophy": [
+            "Muscular dystrophy"
+        ],
+        "Soft tissue injury": [
+            "Soft tissue injury"
+        ],
+        "Fracture abuse": [
+            "Fracture abuse"
+        ],
+        "Bacterial arthritis of patellofemoral joint": [
+            "Bacterial arthritis of patellofemoral joint"
+        ],
+        "Pyogenic bacterial arthritis of hip": [
+            "Pyogenic bacterial arthritis of hip"
+        ],
+        "Other specified disorders of bone density and structure, ankle and foot": [
+            "Other specified disorders of bone density and structure, ankle and foot"
+        ],
+        "Paralysis": [
+            "Paralysis"
+        ],
+        "Greenstick fracture of distal radius": [
+            "Greenstick fracture of distal radius"
+        ],
+        "Bone contusion": [
+            "Bone contusion"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes]": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes]"
+        ],
+        "Unilateral osteoarthritis resulting from hip dysplasia, left hip": [
+            "Unilateral osteoarthritis resulting from hip dysplasia, left hip"
+        ],
+        "Bone cancer": [
+            "Bone cancer"
+        ],
+        "Ligament sprain": [
+            "Ligament sprain"
+        ],
+        "Muscle strain": [
+            "Muscle strain"
+        ],
+        "Fractured leg": [
+            "Fractured leg"
+        ],
+        "Osteopenic rickets": [
+            "Osteopenic rickets"
+        ],
+        "Rickets": [
+            "Rickets"
+        ],
+        "Femoral dislocation": [
+            "Femoral dislocation"
+        ],
+        "Unilateral osteoarthritis resulting from hip dysplasia": [
+            "Unilateral osteoarthritis resulting from hip dysplasia"
+        ],
+        "Closed distal physis fracture of left tibia": [
+            "Closed distal physis fracture of left tibia"
+        ],
+        "Patellar dislocation": [
+            "Patellar dislocation"
+        ],
+        "Pathological fracture, left foot": [
+            "Pathological fracture, left foot"
+        ],
+        "Non-accidental injury to adult": [
+            "Non-accidental injury to adult"
+        ],
+        "Stress fracture of femoral shaft": [
+            "Stress fracture of femoral shaft"
+        ],
+        "Arthritis of left hip": [
+            "Arthritis of left hip"
+        ],
+        "Rheumatoid arthritis": [
+            "Rheumatoid arthritis"
+        ],
+        "Hemarthrosis": [
+            "Hemarthrosis"
+        ],
+        "Developmental hip dysplasia": [
+            "Developmental hip dysplasia"
+        ],
+        "Avascular necrosis of femoral condyle": [
+            "Avascular necrosis of femoral condyle"
+        ],
+        "Osteochondrosis of tibial tubercle [Osgood-Schlatter]": [
+            "Osteochondrosis of tibial tubercle [Osgood-Schlatter]"
+        ],
+        "AVN - Avascular necrosis of bone": [
+            "AVN - Avascular necrosis of bone"
+        ],
+        "Contusion of lower limb": [
+            "Contusion of lower limb"
+        ],
+        "Knee effusion": [
+            "Knee effusion"
+        ],
+        "Slipped capital femoral epiphysis": [
+            "Slipped capital femoral epiphysis"
+        ],
+        "Osteoid osteoma": [
+            "Osteoid osteoma"
+        ],
+        "Contusion": [
+            "Contusion"
+        ],
+        "Infected joint": [
+            "Infected joint"
+        ],
+        "Septic hip": [
+            "Septic hip"
+        ],
+        "Dislocation of hip": [
+            "Dislocation of hip"
+        ],
+        "Osteochondral defect of distal tibia": [
+            "Osteochondral defect of distal tibia"
+        ],
+        "Pain in ankle and joints of foot": [
+            "Pain in ankle and joints of foot"
+        ],
+        "Hemophilia": [
+            "Hemophilia"
+        ],
+        "Acute meniscal tear, lateral": [
+            "Acute meniscal tear, lateral"
+        ],
+        "Chondrosarcoma of bone": [
+            "Chondrosarcoma of bone"
+        ],
+        "Cerebral palsy": [
+            "Cerebral palsy"
+        ],
+        "Pathological fracture due to osteoporosis": [
+            "Pathological fracture due to osteoporosis"
+        ],
+        "DMD - Duchenne muscular dystrophy": [
+            "DMD - Duchenne muscular dystrophy"
+        ],
+        "BMD - Becker muscular dystrophy": [
+            "BMD - Becker muscular dystrophy"
+        ],
+        "Obesity": [
+            "Obesity"
+        ],
+        "Gaucher disease": [
+            "Gaucher disease"
+        ],
+        "greenstick fracture": [
+            "greenstick fracture"
+        ],
+        "hair tournequet": [
+            "hair tournequet"
+        ],
+        "Shingles": [
+            "Shingles"
+        ],
+        "Familial hypophosphatemic osteomalacia": [
+            "Familial hypophosphatemic osteomalacia"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], unspecified leg": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], unspecified leg"
+        ],
+        "Cellulitis": [
+            "Cellulitis"
+        ],
+        "Dislocation AND/OR displacement of joint, not due to injury": [
+            "Dislocation AND/OR displacement of joint, not due to injury"
+        ],
+        "Internal derangement of knee": [
+            "Internal derangement of knee"
+        ],
+        "SCAN": [
+            "SCAN"
+        ],
+        "NAT - Non-accidental trauma": [
+            "NAT - Non-accidental trauma"
+        ],
+        "Concern for non accidental trauma": [
+            "Concern for non accidental trauma"
+        ]
+    },
+    "0.75-dx_all-official": {
+        "Toxic synovitis": [
+            "Transient synovitis",
+            "Toxic synovitis",
+            "Viral tenosynovitis",
+            "sinovitis"
+        ],
+        "Non-accidental injury to child": [
+            "Fracture",
+            "Non-accidental injury to child",
+            "toddlers fracture",
+            "tibial fracture",
+            "Pathological fracture, tibia and fibula",
+            "Leg fracture",
+            "Femur fracture",
+            "Pathologic fracture",
+            "Tibia fracture",
+            "Stress fracture",
+            "Open left tibial fracture",
+            "Toddler fracture",
+            "Tubial fracture",
+            "Toddler fracture tibia",
+            "Lower extremity fracture",
+            "Closed fracture of left tibial spine",
+            "Spiral fracture femur",
+            "Left tibial spiral fracture",
+            "Left Tibial fracture",
+            "Hip fracture",
+            "Closed fracture of tibia AND fibula",
+            "Fracture of bone of lower limb",
+            "Traumatic fractue",
+            "Fracture of tibia AND fibula",
+            "Fracture of bone of hip region",
+            "Fracture of tibia",
+            "Tibial spiral fracture",
+            "Injury",
+            "Spiral fracture",
+            "Closed left tibial fracture",
+            "Non accidental trauma",
+            "Closed fracture of epiphyseal plate of proximal tibia",
+            "Accidental injury",
+            "Tibail fracture",
+            "Closed fracture tibia",
+            "Closed fracture fibula, neck",
+            "Femoral fracture",
+            "Non-accidental injury to adult",
+            "Stress fracture of femoral shaft",
+            "Fracture of left tibia",
+            "Facture",
+            "Pathological fracture due to osteoporosis",
+            "Fracture of leg",
+            "tibial fracture due to trauma",
+            "Femoral neck fracture",
+            "Closed fracture of tibia or fibula, shaft"
+        ],
+        "Child abuse": [
+            "Child abuse",
+            "Late effect of child abuse",
+            "Abuse"
+        ],
+        "Osteomyelitis": [
+            "Osteomyelitis",
+            "Osteonecrosis"
+        ],
+        "Reactive arthritis": [
+            "Septic arthritis",
+            "Septic joint",
+            "Reactive arthritis",
+            "arthritis",
+            "Juvenile idiopathic arthritis",
+            "Hip septic arthritis",
+            "Septic arthritis of costotransverse joint"
+        ],
+        "Discitis of lumbar region": [
+            "Discitis of lumbar region"
+        ],
+        "Sacroiliitis, not elsewhere classified": [
+            "Sacroiliitis, not elsewhere classified"
+        ],
+        "Acute pain due to trauma": [
+            "Acute pain due to trauma"
+        ],
+        "Fractire": [
+            "Fractire"
+        ],
+        "Sarcoma": [
+            "sarcoma"
+        ],
+        "Osteosarcoma": [
+            "Osteosarcoma of bone",
+            "Osteosarcoma",
+            "Ewing sarcoma of bone"
+        ],
+        "Broken bone": [
+            "Broken bone"
+        ],
+        "Large cell Ewing sarcoma of bone": [
+            "Large cell Ewing sarcoma of bone"
+        ],
+        "Pathological fracture, femur and pelvis": [
+            "Pathological fracture, femur and pelvis"
+        ],
+        "femoral head dislocation": [
+            "femoral head dislocation"
+        ],
+        "fracture tibia": [
+            "fracture tibia"
+        ],
+        "Developmental dysplasia of the hip": [
+            "Congenital hip dysplasia",
+            "Developmental dysplasia of the hip",
+            "CDH - Congenital dislocation of the hip",
+            "Hip dysplasia",
+            "Hip dislocation",
+            "Developmental dislocation of hip",
+            "Congenital dysplasia of the hip",
+            "Developmental hip dysplasia",
+            "Dislocation of hip"
+        ],
+        "Osteogenesis imperfecta": [
+            "Osteogenesis imperfecta",
+            "OI - Osteogenesis imperfecta"
+        ],
+        "Avascular necrosis of the capital femoral epiphysis": [
+            "Legg-Calve-Perthes disease",
+            "Perthes disease",
+            "Perthes disease - osteochondritis of the femoral head"
+        ],
+        "Psoas abscess": [
+            "Psoas abscess"
+        ],
+        "Acute appendicitis": [
+            "Acute appendicitis"
+        ],
+        "Slipped upper femoral epiphysis (nontraumatic)": [
+            "SUFE - Slipped upper femoral epiphysis",
+            "Slipped upper femoral epiphysis (nontraumatic)",
+            "Slipped femoral epiphysis"
+        ],
+        "Leukemia": [
+            "Acute lymphoblastic leukemia",
+            "Leukaemia",
+            "Leukemia"
+        ],
+        "Trauma": [
+            "trauma"
+        ],
+        "Rhabdosarcoma": [
+            "Rhabdosarcoma"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Joint dislocation": [
+            "Joint dislocation"
+        ],
+        "Joint injury": [
+            "Joint injury"
+        ],
+        "Knee injury": [
+            "Knee injury"
+        ],
+        "Sprain radial collateral ligament": [
+            "Sprain radial collateral ligament"
+        ],
+        "Fever": [
+            "Fever"
+        ],
+        "Sickle cell disease": [
+            "Sickle cell disease"
+        ],
+        "Juvenile arthritis": [
+            "Juvenile arthritis"
+        ],
+        "Frscture left tibia": [
+            "Frscture left tibia"
+        ],
+        "Tumour": [
+            "Tumour"
+        ],
+        "Accidental fracture": [
+            "Accidental fracture"
+        ],
+        "Kawasaki disease": [
+            "Kawasaki disease"
+        ],
+        "Haemolytic uraemic syndrome of childhood": [
+            "Haemolytic uraemic syndrome of childhood"
+        ],
+        "Suspected child abuse and neglect": [
+            "Physical injury due to physical abuse",
+            "Suspected child abuse and neglect"
+        ],
+        "Dislocation of lower extremity": [
+            "Dislocation of lower extremity"
+        ],
+        "Psoas muscle abscess": [
+            "Psoas muscle abscess"
+        ],
+        "Irritable hip": [
+            "Irritable hip"
+        ],
+        "Pain in foot and toes": [
+            "Pain in foot and toes"
+        ],
+        "Myositis": [
+            "Myositis"
+        ],
+        "Nat": [
+            "Nat"
+        ],
+        "Fracture femur": [
+            "Fracture femur"
+        ],
+        "Unicameral bone cyst": [
+            "Unicameral bone cyst"
+        ],
+        "Osteoblastoma of bone": [
+            "Osteoblastoma of bone"
+        ],
+        "Osteomalacia": [
+            "Osteomalacia"
+        ],
+        "Paget's disease of bone": [
+            "Pagets disease of bone"
+        ],
+        "Osteochondroma": [
+            "Osteochondroma"
+        ],
+        "GTCT - Giant cell tumor of bone": [
+            "GTCT - Giant cell tumor of bone"
+        ],
+        "Aneurysmal bone cyst": [
+            "Aneurysmal Bone Cyst"
+        ],
+        "Closed fracture proximal tibia, lateral condyle (plateau)": [
+            "Closed fracture proximal tibia, lateral condyle (plateau)"
+        ],
+        "Hip displacement": [
+            "Hip displacement"
+        ],
+        "Deep vein thrombosis": [
+            "Deep vein thrombosis"
+        ],
+        "Closed fracture of upper end of tibia AND fibula": [
+            "Closed fracture of upper end of tibia AND fibula"
+        ],
+        "Closed tibia fracture": [
+            "Closed tibia fracture"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], left leg": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], left leg"
+        ],
+        "Rickets, active": [
+            "Rickets, active"
+        ],
+        "Vitamin D deficiency": [
+            "Vitamin D deficiency"
+        ],
+        "Supracondylar fracture femur": [
+            "Supracondylar fracture femur"
+        ],
+        "Benign bone tumor": [
+            "Benign bone tumor"
+        ],
+        "Virosis": [
+            "Virosis"
+        ],
+        "Bone tumor": [
+            "Bone tumor"
+        ],
+        "Recurrent dislocation of joint": [
+            "Recurrent dislocation of joint"
+        ],
+        "Pain in knee": [
+            "Pain in knee"
+        ],
+        "Non-accidental injury": [
+            "Non-accidental injury"
+        ],
+        "Ankle sprain": [
+            "Ankle sprain"
+        ],
+        "Dislocation": [
+            "Dislocation"
+        ],
+        "Knee dislocation": [
+            "Knee dislocation"
+        ],
+        "Ehlers-Danlos syndrome": [
+            "Ehlers-Danlos syndrome"
+        ],
+        "Lumbago with sciatica": [
+            "Lumbago with sciatica"
+        ],
+        "Concussion injury of cerebrum": [
+            "Concussion injury of cerebrum"
+        ],
+        "Scurvy": [
+            "Scurvy"
+        ],
+        "Dysplasia": [
+            "Dysplasia"
+        ],
+        "Infectious": [
+            "Infectious"
+        ],
+        "Pathological dislocation of left hip, not elsewhere classified": [
+            "Pathological dislocation of left hip, not elsewhere classified"
+        ],
+        "Sprain of medial ligament of ankle joint": [
+            "Sprain of medial ligament of ankle joint"
+        ],
+        "Recurrent dislocation, right hip": [
+            "Recurrent dislocation, right hip"
+        ],
+        "Anterior shin splints": [
+            "Anterior shin splints"
+        ],
+        "Avascular necrosis of bone of hip": [
+            "Avascular necrosis of bone of hip"
+        ],
+        "Acute leukemia of unspecified cell type": [
+            "Acute leukemia of unspecified cell type"
+        ],
+        "Direct infection of hip in infectious and parasitic diseases classified elsewhere": [
+            "Direct infection of hip in infectious and parasitic diseases classified elsewhere"
+        ],
+        "Hip dyslpasia": [
+            "Hip dyslpasia"
+        ],
+        "Haemarthrosis": [
+            "Haemarthrosis"
+        ],
+        "displasia of hip": [
+            "displasia of hip"
+        ],
+        "Muscular dystrophy": [
+            "Muscular dystrophy"
+        ],
+        "Soft tissue injury": [
+            "Soft tissue injury"
+        ],
+        "Fracture abuse": [
+            "Fracture abuse"
+        ],
+        "Bacterial arthritis of patellofemoral joint": [
+            "Bacterial arthritis of patellofemoral joint"
+        ],
+        "Pyogenic bacterial arthritis of hip": [
+            "Pyogenic bacterial arthritis of hip"
+        ],
+        "Other specified disorders of bone density and structure, ankle and foot": [
+            "Other specified disorders of bone density and structure, ankle and foot"
+        ],
+        "Paralysis": [
+            "Paralysis"
+        ],
+        "Greenstick fracture of distal radius": [
+            "Greenstick fracture of distal radius"
+        ],
+        "Bone contusion": [
+            "Bone contusion"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes]": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes]"
+        ],
+        "Unilateral osteoarthritis resulting from hip dysplasia, left hip": [
+            "Unilateral osteoarthritis resulting from hip dysplasia, left hip"
+        ],
+        "Bone cancer": [
+            "Bone cancer"
+        ],
+        "Ligament sprain": [
+            "Ligament sprain"
+        ],
+        "Muscle strain": [
+            "Muscle strain"
+        ],
+        "Fractured leg": [
+            "Fractured leg"
+        ],
+        "Osteopenic rickets": [
+            "Osteopenic rickets"
+        ],
+        "Rickets": [
+            "Rickets"
+        ],
+        "Femoral dislocation": [
+            "Femoral dislocation"
+        ],
+        "Unilateral osteoarthritis resulting from hip dysplasia": [
+            "Unilateral osteoarthritis resulting from hip dysplasia"
+        ],
+        "Closed distal physis fracture of left tibia": [
+            "Closed distal physis fracture of left tibia"
+        ],
+        "Patellar dislocation": [
+            "Patellar dislocation"
+        ],
+        "Pathological fracture, left foot": [
+            "Pathological fracture, left foot"
+        ],
+        "Arthritis of left hip": [
+            "Arthritis of left hip"
+        ],
+        "Rheumatoid arthritis": [
+            "Rheumatoid arthritis"
+        ],
+        "Hemarthrosis": [
+            "Hemarthrosis"
+        ],
+        "Avascular necrosis of femoral condyle": [
+            "Avascular necrosis of femoral condyle"
+        ],
+        "Osteochondrosis of tibial tubercle [Osgood-Schlatter]": [
+            "Osteochondrosis of tibial tubercle [Osgood-Schlatter]"
+        ],
+        "AVN - Avascular necrosis of bone": [
+            "AVN - Avascular necrosis of bone"
+        ],
+        "Contusion of lower limb": [
+            "Contusion of lower limb"
+        ],
+        "Knee effusion": [
+            "Knee effusion"
+        ],
+        "Slipped capital femoral epiphysis": [
+            "Slipped capital femoral epiphysis"
+        ],
+        "Osteoid osteoma": [
+            "Osteoid osteoma"
+        ],
+        "Contusion": [
+            "Contusion"
+        ],
+        "Infected joint": [
+            "Infected joint"
+        ],
+        "Septic hip": [
+            "Septic hip"
+        ],
+        "Osteochondral defect of distal tibia": [
+            "Osteochondral defect of distal tibia"
+        ],
+        "Pain in ankle and joints of foot": [
+            "Pain in ankle and joints of foot"
+        ],
+        "Hemophilia": [
+            "Hemophilia"
+        ],
+        "Acute meniscal tear, lateral": [
+            "Acute meniscal tear, lateral"
+        ],
+        "Chondrosarcoma of bone": [
+            "Chondrosarcoma of bone"
+        ],
+        "Cerebral palsy": [
+            "Cerebral palsy"
+        ],
+        "DMD - Duchenne muscular dystrophy": [
+            "DMD - Duchenne muscular dystrophy"
+        ],
+        "BMD - Becker muscular dystrophy": [
+            "BMD - Becker muscular dystrophy"
+        ],
+        "Obesity": [
+            "Obesity"
+        ],
+        "Gaucher disease": [
+            "Gaucher disease"
+        ],
+        "greenstick fracture": [
+            "greenstick fracture"
+        ],
+        "hair tournequet": [
+            "hair tournequet"
+        ],
+        "Shingles": [
+            "Shingles"
+        ],
+        "Familial hypophosphatemic osteomalacia": [
+            "Familial hypophosphatemic osteomalacia"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], unspecified leg": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], unspecified leg"
+        ],
+        "Cellulitis": [
+            "Cellulitis"
+        ],
+        "Dislocation AND/OR displacement of joint, not due to injury": [
+            "Dislocation AND/OR displacement of joint, not due to injury"
+        ],
+        "Internal derangement of knee": [
+            "Internal derangement of knee"
+        ],
+        "SCAN": [
+            "SCAN"
+        ],
+        "NAT - Non-accidental trauma": [
+            "NAT - Non-accidental trauma"
+        ],
+        "Concern for non accidental trauma": [
+            "Concern for non accidental trauma"
+        ]
+    },
+    "0.25-dx_0.5-official": {
+        "Non-accidental injury to child": [
+            "Transient synovitis",
+            "Fracture",
+            "Child abuse",
+            "Osteomyelitis",
+            "Septic arthritis",
+            "Acute pain due to trauma",
+            "Fractire",
+            "Non-accidental injury to child",
+            "toddlers fracture",
+            "tibial fracture",
+            "Toxic synovitis",
+            "Osteosarcoma of bone",
+            "Pathological fracture, tibia and fibula",
+            "Pathological fracture, femur and pelvis",
+            "fracture tibia",
+            "Congenital hip dysplasia",
+            "Osteogenesis imperfecta",
+            "Leg fracture",
+            "Femur fracture",
+            "Septic joint",
+            "Developmental dysplasia of the hip",
+            "Acute appendicitis",
+            "Reactive arthritis",
+            "Pathologic fracture",
+            "Acute lymphoblastic leukemia",
+            "trauma",
+            "arthritis",
+            "Tibia fracture",
+            "Rhabdosarcoma",
+            "Stress fracture",
+            "Open left tibial fracture",
+            "Osteosarcoma",
+            "Joint dislocation",
+            "Joint injury",
+            "Knee injury",
+            "Toddler fracture",
+            "Juvenile arthritis",
+            "Frscture left tibia",
+            "Accidental fracture",
+            "Leukaemia",
+            "Tubial fracture",
+            "Lower extremity fracture",
+            "Leukemia",
+            "Closed fracture of left tibial spine",
+            "Spiral fracture femur",
+            "Left tibial spiral fracture",
+            "Osteoblastoma of bone",
+            "OI - Osteogenesis imperfecta",
+            "Osteomalacia",
+            "Osteochondroma",
+            "GTCT - Giant cell tumor of bone",
+            "Closed fracture proximal tibia, lateral condyle (plateau)",
+            "Left Tibial fracture",
+            "Deep vein thrombosis",
+            "Hip fracture",
+            "Closed fracture of upper end of tibia AND fibula",
+            "CDH - Congenital dislocation of the hip",
+            "Rickets, active",
+            "Supracondylar fracture femur",
+            "Late effect of child abuse",
+            "Closed fracture of tibia AND fibula",
+            "Recurrent dislocation of joint",
+            "Fracture of bone of lower limb",
+            "Hip dysplasia",
+            "Traumatic fractue",
+            "Non-accidental injury",
+            "Fracture of tibia AND fibula",
+            "Fracture of bone of hip region",
+            "Fracture of tibia",
+            "Abuse",
+            "Septic arthritis of costotransverse joint",
+            "Hip dislocation",
+            "Ehlers-Danlos syndrome",
+            "Concussion injury of cerebrum",
+            "Dysplasia",
+            "Infectious",
+            "Recurrent dislocation, right hip",
+            "Tibial spiral fracture",
+            "Viral tenosynovitis",
+            "Injury",
+            "Developmental dislocation of hip",
+            "Direct infection of hip in infectious and parasitic diseases classified elsewhere",
+            "Spiral fracture",
+            "Closed left tibial fracture",
+            "sinovitis",
+            "Fracture abuse",
+            "Non accidental trauma",
+            "Congenital dysplasia of the hip",
+            "Greenstick fracture of distal radius",
+            "Closed fracture of epiphyseal plate of proximal tibia",
+            "Ligament sprain",
+            "Femoral dislocation",
+            "Tibail fracture",
+            "Closed distal physis fracture of left tibia",
+            "Closed fracture tibia",
+            "Closed fracture fibula, neck",
+            "Osteonecrosis",
+            "Pathological fracture, left foot",
+            "Femoral fracture",
+            "Non-accidental injury to adult",
+            "Arthritis of left hip",
+            "Fracture of left tibia",
+            "Contusion of lower limb",
+            "Pathological fracture due to osteoporosis",
+            "greenstick fracture",
+            "hair tournequet",
+            "Fracture of leg",
+            "tibial fracture due to trauma",
+            "Closed fracture of tibia or fibula, shaft",
+            "NAT - Non-accidental trauma",
+            "Concern for non accidental trauma"
+        ],
+        "Discitis of lumbar region": [
+            "Discitis of lumbar region"
+        ],
+        "Sacroiliitis, not elsewhere classified": [
+            "Sacroiliitis, not elsewhere classified"
+        ],
+        "Sarcoma": [
+            "sarcoma"
+        ],
+        "Broken bone": [
+            "Broken bone"
+        ],
+        "Large cell Ewing sarcoma of bone": [
+            "Large cell Ewing sarcoma of bone"
+        ],
+        "femoral head dislocation": [
+            "femoral head dislocation"
+        ],
+        "Avascular necrosis of the capital femoral epiphysis": [
+            "Legg-Calve-Perthes disease",
+            "Perthes disease",
+            "Perthes disease - osteochondritis of the femoral head",
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes]"
+        ],
+        "Psoas abscess": [
+            "Psoas abscess"
+        ],
+        "Slipped upper femoral epiphysis": [
+            "SUFE - Slipped upper femoral epiphysis",
+            "Slipped femoral epiphysis"
+        ],
+        "Slipped upper femoral epiphysis (nontraumatic)": [
+            "Slipped upper femoral epiphysis (nontraumatic)",
+            "Slipped capital femoral epiphysis"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Sprain radial collateral ligament": [
+            "Sprain radial collateral ligament"
+        ],
+        "Fever": [
+            "Fever"
+        ],
+        "Sickle cell disease": [
+            "Sickle cell disease"
+        ],
+        "Tumour": [
+            "Tumour"
+        ],
+        "Kawasaki disease": [
+            "Kawasaki disease"
+        ],
+        "Haemolytic uraemic syndrome of childhood": [
+            "Haemolytic uraemic syndrome of childhood"
+        ],
+        "Physical injury due to physical abuse": [
+            "Physical injury due to physical abuse"
+        ],
+        "Toddler fracture tibia": [
+            "Toddler fracture tibia"
+        ],
+        "Dislocation of lower extremity": [
+            "Dislocation of lower extremity"
+        ],
+        "Psoas muscle abscess": [
+            "Psoas muscle abscess"
+        ],
+        "Irritable hip": [
+            "Irritable hip"
+        ],
+        "Pain in foot and toes": [
+            "Pain in foot and toes"
+        ],
+        "Myositis": [
+            "Myositis"
+        ],
+        "Nat": [
+            "Nat"
+        ],
+        "Fracture femur": [
+            "Fracture femur"
+        ],
+        "Ewing sarcoma of bone": [
+            "Ewing sarcoma of bone"
+        ],
+        "Unicameral bone cyst": [
+            "Unicameral bone cyst"
+        ],
+        "Paget's disease of bone": [
+            "Pagets disease of bone"
+        ],
+        "Aneurysmal bone cyst": [
+            "Aneurysmal Bone Cyst"
+        ],
+        "Juvenile idiopathic arthritis": [
+            "Juvenile idiopathic arthritis"
+        ],
+        "Hip displacement": [
+            "Hip displacement"
+        ],
+        "Closed tibia fracture": [
+            "Closed tibia fracture"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], left leg": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], left leg"
+        ],
+        "Vitamin D deficiency": [
+            "Vitamin D deficiency"
+        ],
+        "Benign bone tumor": [
+            "Benign bone tumor"
+        ],
+        "Virosis": [
+            "Virosis"
+        ],
+        "Bone tumor": [
+            "Bone tumor"
+        ],
+        "Pain in knee": [
+            "Pain in knee"
+        ],
+        "Hip septic arthritis": [
+            "Hip septic arthritis"
+        ],
+        "Ankle sprain": [
+            "Ankle sprain"
+        ],
+        "Dislocation": [
+            "Dislocation"
+        ],
+        "Knee dislocation": [
+            "Knee dislocation"
+        ],
+        "Lumbago with sciatica": [
+            "Lumbago with sciatica"
+        ],
+        "Scurvy": [
+            "Scurvy"
+        ],
+        "Pathological dislocation of left hip, not elsewhere classified": [
+            "Pathological dislocation of left hip, not elsewhere classified"
+        ],
+        "Sprain of medial ligament of ankle joint": [
+            "Sprain of medial ligament of ankle joint"
+        ],
+        "Anterior shin splints": [
+            "Anterior shin splints"
+        ],
+        "Avascular necrosis of bone of hip": [
+            "Avascular necrosis of bone of hip"
+        ],
+        "Acute leukemia of unspecified cell type": [
+            "Acute leukemia of unspecified cell type"
+        ],
+        "Hip dyslpasia": [
+            "Hip dyslpasia"
+        ],
+        "Haemarthrosis": [
+            "Haemarthrosis"
+        ],
+        "displasia of hip": [
+            "displasia of hip"
+        ],
+        "Muscular dystrophy": [
+            "Muscular dystrophy"
+        ],
+        "Soft tissue injury": [
+            "Soft tissue injury"
+        ],
+        "Unilateral osteoarthritis resulting from hip dysplasia, left hip": [
+            "Bacterial arthritis of patellofemoral joint",
+            "Pyogenic bacterial arthritis of hip",
+            "Unilateral osteoarthritis resulting from hip dysplasia, left hip"
+        ],
+        "Other specified disorders of bone density and structure, ankle and foot": [
+            "Other specified disorders of bone density and structure, ankle and foot"
+        ],
+        "Paralysis": [
+            "Paralysis"
+        ],
+        "Bone contusion": [
+            "Bone contusion"
+        ],
+        "Bone cancer": [
+            "Bone cancer"
+        ],
+        "Muscle strain": [
+            "Muscle strain"
+        ],
+        "Fractured leg": [
+            "Fractured leg"
+        ],
+        "Osteopenic rickets": [
+            "Osteopenic rickets"
+        ],
+        "Accidental injury": [
+            "Accidental injury"
+        ],
+        "Rickets": [
+            "Rickets"
+        ],
+        "Unilateral osteoarthritis resulting from hip dysplasia": [
+            "Unilateral osteoarthritis resulting from hip dysplasia"
+        ],
+        "Patellar dislocation": [
+            "Patellar dislocation"
+        ],
+        "Stress fracture of femoral shaft": [
+            "Stress fracture of femoral shaft"
+        ],
+        "Rheumatoid arthritis": [
+            "Rheumatoid arthritis"
+        ],
+        "Hemarthrosis": [
+            "Hemarthrosis"
+        ],
+        "Developmental hip dysplasia": [
+            "Developmental hip dysplasia"
+        ],
+        "Avascular necrosis of femoral condyle": [
+            "Avascular necrosis of femoral condyle"
+        ],
+        "Osteochondrosis of tibial tubercle [Osgood-Schlatter]": [
+            "Osteochondrosis of tibial tubercle [Osgood-Schlatter]"
+        ],
+        "AVN - Avascular necrosis of bone": [
+            "AVN - Avascular necrosis of bone"
+        ],
+        "Knee effusion": [
+            "Knee effusion"
+        ],
+        "Osteoid osteoma": [
+            "Osteoid osteoma"
+        ],
+        "Facture": [
+            "Facture"
+        ],
+        "Contusion": [
+            "Contusion"
+        ],
+        "Infected joint": [
+            "Infected joint"
+        ],
+        "Septic hip": [
+            "Septic hip"
+        ],
+        "Dislocation of hip": [
+            "Dislocation of hip"
+        ],
+        "Osteochondral defect of distal tibia": [
+            "Osteochondral defect of distal tibia"
+        ],
+        "Pain in ankle and joints of foot": [
+            "Pain in ankle and joints of foot"
+        ],
+        "Hemophilia": [
+            "Hemophilia"
+        ],
+        "Acute meniscal tear, lateral": [
+            "Acute meniscal tear, lateral"
+        ],
+        "Chondrosarcoma of bone": [
+            "Chondrosarcoma of bone"
+        ],
+        "Cerebral palsy": [
+            "Cerebral palsy"
+        ],
+        "DMD - Duchenne muscular dystrophy": [
+            "DMD - Duchenne muscular dystrophy"
+        ],
+        "BMD - Becker muscular dystrophy": [
+            "BMD - Becker muscular dystrophy"
+        ],
+        "Obesity": [
+            "Obesity"
+        ],
+        "Gaucher disease": [
+            "Gaucher disease"
+        ],
+        "Shingles": [
+            "Shingles"
+        ],
+        "Familial hypophosphatemic osteomalacia": [
+            "Familial hypophosphatemic osteomalacia"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], unspecified leg": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], unspecified leg"
+        ],
+        "Cellulitis": [
+            "Cellulitis"
+        ],
+        "Dislocation AND/OR displacement of joint, not due to injury": [
+            "Dislocation AND/OR displacement of joint, not due to injury"
+        ],
+        "Internal derangement of knee": [
+            "Internal derangement of knee"
+        ],
+        "Femoral neck fracture": [
+            "Femoral neck fracture"
+        ],
+        "Suspected child abuse and neglect": [
+            "Suspected child abuse and neglect"
+        ],
+        "SCAN": [
+            "SCAN"
+        ]
+    },
+    "0.5-dx_0.5-official": {
+        "Toxic synovitis": [
+            "Transient synovitis",
+            "Toxic synovitis",
+            "Viral tenosynovitis",
+            "sinovitis"
+        ],
+        "Non-accidental injury to child": [
+            "Fracture",
+            "Non-accidental injury to child",
+            "toddlers fracture",
+            "tibial fracture",
+            "Pathological fracture, tibia and fibula",
+            "Leg fracture",
+            "Femur fracture",
+            "Pathologic fracture",
+            "Tibia fracture",
+            "Stress fracture",
+            "Open left tibial fracture",
+            "Toddler fracture",
+            "Accidental fracture",
+            "Tubial fracture",
+            "Lower extremity fracture",
+            "Spiral fracture femur",
+            "Left tibial spiral fracture",
+            "Left Tibial fracture",
+            "Hip fracture",
+            "Closed fracture of upper end of tibia AND fibula",
+            "Closed tibia fracture",
+            "Closed fracture of tibia AND fibula",
+            "Fracture of bone of lower limb",
+            "Non-accidental injury",
+            "Fracture of tibia AND fibula",
+            "Fracture of bone of hip region",
+            "Fracture of tibia",
+            "Tibial spiral fracture",
+            "Injury",
+            "Spiral fracture",
+            "Closed left tibial fracture",
+            "Non accidental trauma",
+            "Greenstick fracture of distal radius",
+            "Closed fracture of epiphyseal plate of proximal tibia",
+            "Fractured leg",
+            "Tibail fracture",
+            "Closed distal physis fracture of left tibia",
+            "Closed fracture tibia",
+            "Closed fracture fibula, neck",
+            "Femoral fracture",
+            "Non-accidental injury to adult",
+            "Fracture of left tibia",
+            "Facture",
+            "Pathological fracture due to osteoporosis",
+            "greenstick fracture",
+            "Fracture of leg",
+            "tibial fracture due to trauma",
+            "Femoral neck fracture",
+            "Closed fracture of tibia or fibula, shaft"
+        ],
+        "Child abuse": [
+            "Child abuse",
+            "Late effect of child abuse",
+            "Abuse"
+        ],
+        "Osteomyelitis": [
+            "Osteomyelitis",
+            "Osteonecrosis"
+        ],
+        "Reactive arthritis": [
+            "Septic arthritis",
+            "Septic joint",
+            "Reactive arthritis",
+            "arthritis",
+            "Juvenile idiopathic arthritis",
+            "Hip septic arthritis",
+            "Septic arthritis of costotransverse joint"
+        ],
+        "Discitis of lumbar region": [
+            "Discitis of lumbar region"
+        ],
+        "Sacroiliitis, not elsewhere classified": [
+            "Sacroiliitis, not elsewhere classified"
+        ],
+        "Trauma": [
+            "Acute pain due to trauma",
+            "trauma"
+        ],
+        "Fractire": [
+            "Fractire"
+        ],
+        "Osteosarcoma of bone": [
+            "sarcoma",
+            "Osteosarcoma of bone",
+            "Osteosarcoma"
+        ],
+        "Broken bone": [
+            "Broken bone"
+        ],
+        "Large cell Ewing sarcoma of bone": [
+            "Large cell Ewing sarcoma of bone"
+        ],
+        "Pathological fracture, femur and pelvis": [
+            "Pathological fracture, femur and pelvis"
+        ],
+        "femoral head dislocation": [
+            "femoral head dislocation"
+        ],
+        "fracture tibia": [
+            "fracture tibia"
+        ],
+        "Developmental dysplasia of the hip": [
+            "Congenital hip dysplasia",
+            "Developmental dysplasia of the hip",
+            "Hip dysplasia",
+            "Congenital dysplasia of the hip",
+            "Developmental hip dysplasia"
+        ],
+        "Osteogenesis imperfecta": [
+            "Osteogenesis imperfecta",
+            "OI - Osteogenesis imperfecta"
+        ],
+        "Avascular necrosis of the capital femoral epiphysis": [
+            "Legg-Calve-Perthes disease",
+            "Perthes disease",
+            "Perthes disease - osteochondritis of the femoral head"
+        ],
+        "Psoas abscess": [
+            "Psoas abscess"
+        ],
+        "Acute appendicitis": [
+            "Acute appendicitis"
+        ],
+        "Slipped upper femoral epiphysis (nontraumatic)": [
+            "SUFE - Slipped upper femoral epiphysis",
+            "Slipped upper femoral epiphysis (nontraumatic)",
+            "Slipped femoral epiphysis",
+            "Slipped capital femoral epiphysis"
+        ],
+        "Leukemia": [
+            "Acute lymphoblastic leukemia",
+            "Leukaemia",
+            "Leukemia"
+        ],
+        "Rhabdosarcoma": [
+            "Rhabdosarcoma"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Joint dislocation": [
+            "Joint dislocation"
+        ],
+        "Joint injury": [
+            "Joint injury"
+        ],
+        "Knee injury": [
+            "Knee injury"
+        ],
+        "Sprain radial collateral ligament": [
+            "Sprain radial collateral ligament"
+        ],
+        "Fever": [
+            "Fever"
+        ],
+        "Sickle cell disease": [
+            "Sickle cell disease"
+        ],
+        "Juvenile arthritis": [
+            "Juvenile arthritis"
+        ],
+        "Frscture left tibia": [
+            "Frscture left tibia"
+        ],
+        "Tumour": [
+            "Tumour"
+        ],
+        "Kawasaki disease": [
+            "Kawasaki disease"
+        ],
+        "Haemolytic uraemic syndrome of childhood": [
+            "Haemolytic uraemic syndrome of childhood"
+        ],
+        "Suspected child abuse and neglect": [
+            "Physical injury due to physical abuse",
+            "Suspected child abuse and neglect"
+        ],
+        "Toddler fracture tibia": [
+            "Toddler fracture tibia"
+        ],
+        "Dislocation of lower extremity": [
+            "Dislocation of lower extremity"
+        ],
+        "Closed fracture of left tibial spine": [
+            "Closed fracture of left tibial spine"
+        ],
+        "Psoas muscle abscess": [
+            "Psoas muscle abscess"
+        ],
+        "Irritable hip": [
+            "Irritable hip"
+        ],
+        "Pain in foot and toes": [
+            "Pain in foot and toes"
+        ],
+        "Myositis": [
+            "Myositis"
+        ],
+        "Nat": [
+            "Nat"
+        ],
+        "Fracture femur": [
+            "Fracture femur"
+        ],
+        "Ewing sarcoma of bone": [
+            "Ewing sarcoma of bone"
+        ],
+        "Unicameral bone cyst": [
+            "Unicameral bone cyst"
+        ],
+        "Osteoblastoma of bone": [
+            "Osteoblastoma of bone"
+        ],
+        "Osteomalacia": [
+            "Osteomalacia"
+        ],
+        "Paget's disease of bone": [
+            "Pagets disease of bone"
+        ],
+        "Osteochondroma": [
+            "Osteochondroma"
+        ],
+        "GTCT - Giant cell tumor of bone": [
+            "GTCT - Giant cell tumor of bone"
+        ],
+        "Aneurysmal bone cyst": [
+            "Aneurysmal Bone Cyst"
+        ],
+        "Closed fracture proximal tibia, lateral condyle (plateau)": [
+            "Closed fracture proximal tibia, lateral condyle (plateau)"
+        ],
+        "Hip displacement": [
+            "Hip displacement"
+        ],
+        "Deep vein thrombosis": [
+            "Deep vein thrombosis"
+        ],
+        "Hip dislocation": [
+            "CDH - Congenital dislocation of the hip",
+            "Recurrent dislocation of joint",
+            "Dislocation",
+            "Hip dislocation",
+            "Developmental dislocation of hip",
+            "Dislocation of hip"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], left leg": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], left leg"
+        ],
+        "Rickets, active": [
+            "Rickets, active"
+        ],
+        "Vitamin D deficiency": [
+            "Vitamin D deficiency"
+        ],
+        "Supracondylar fracture femur": [
+            "Supracondylar fracture femur"
+        ],
+        "Benign bone tumor": [
+            "Benign bone tumor"
+        ],
+        "Virosis": [
+            "Virosis"
+        ],
+        "Bone tumor": [
+            "Bone tumor"
+        ],
+        "Pain in knee": [
+            "Pain in knee"
+        ],
+        "Traumatic fractue": [
+            "Traumatic fractue"
+        ],
+        "Ankle sprain": [
+            "Ankle sprain"
+        ],
+        "Knee dislocation": [
+            "Knee dislocation"
+        ],
+        "Ehlers-Danlos syndrome": [
+            "Ehlers-Danlos syndrome"
+        ],
+        "Lumbago with sciatica": [
+            "Lumbago with sciatica"
+        ],
+        "Concussion injury of cerebrum": [
+            "Concussion injury of cerebrum"
+        ],
+        "Scurvy": [
+            "Scurvy"
+        ],
+        "Dysplasia": [
+            "Dysplasia"
+        ],
+        "Infectious": [
+            "Infectious"
+        ],
+        "Pathological dislocation of left hip, not elsewhere classified": [
+            "Pathological dislocation of left hip, not elsewhere classified"
+        ],
+        "Sprain of medial ligament of ankle joint": [
+            "Sprain of medial ligament of ankle joint"
+        ],
+        "Recurrent dislocation, right hip": [
+            "Recurrent dislocation, right hip"
+        ],
+        "Anterior shin splints": [
+            "Anterior shin splints"
+        ],
+        "Avascular necrosis of bone of hip": [
+            "Avascular necrosis of bone of hip"
+        ],
+        "Acute leukemia of unspecified cell type": [
+            "Acute leukemia of unspecified cell type"
+        ],
+        "Direct infection of hip in infectious and parasitic diseases classified elsewhere": [
+            "Direct infection of hip in infectious and parasitic diseases classified elsewhere"
+        ],
+        "Hip dyslpasia": [
+            "Hip dyslpasia"
+        ],
+        "Haemarthrosis": [
+            "Haemarthrosis"
+        ],
+        "displasia of hip": [
+            "displasia of hip"
+        ],
+        "Muscular dystrophy": [
+            "Muscular dystrophy"
+        ],
+        "Soft tissue injury": [
+            "Soft tissue injury"
+        ],
+        "Fracture abuse": [
+            "Fracture abuse"
+        ],
+        "Bacterial arthritis of patellofemoral joint": [
+            "Bacterial arthritis of patellofemoral joint"
+        ],
+        "Pyogenic bacterial arthritis of hip": [
+            "Pyogenic bacterial arthritis of hip"
+        ],
+        "Other specified disorders of bone density and structure, ankle and foot": [
+            "Other specified disorders of bone density and structure, ankle and foot"
+        ],
+        "Paralysis": [
+            "Paralysis"
+        ],
+        "Bone contusion": [
+            "Bone contusion"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes]": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes]"
+        ],
+        "Unilateral osteoarthritis resulting from hip dysplasia, left hip": [
+            "Unilateral osteoarthritis resulting from hip dysplasia, left hip"
+        ],
+        "Bone cancer": [
+            "Bone cancer"
+        ],
+        "Ligament sprain": [
+            "Ligament sprain"
+        ],
+        "Muscle strain": [
+            "Muscle strain"
+        ],
+        "Osteopenic rickets": [
+            "Osteopenic rickets"
+        ],
+        "Accidental injury": [
+            "Accidental injury"
+        ],
+        "Rickets": [
+            "Rickets"
+        ],
+        "Femoral dislocation": [
+            "Femoral dislocation"
+        ],
+        "Unilateral osteoarthritis resulting from hip dysplasia": [
+            "Unilateral osteoarthritis resulting from hip dysplasia"
+        ],
+        "Patellar dislocation": [
+            "Patellar dislocation"
+        ],
+        "Pathological fracture, left foot": [
+            "Pathological fracture, left foot"
+        ],
+        "Stress fracture of femoral shaft": [
+            "Stress fracture of femoral shaft"
+        ],
+        "Arthritis of left hip": [
+            "Arthritis of left hip"
+        ],
+        "Rheumatoid arthritis": [
+            "Rheumatoid arthritis"
+        ],
+        "Hemarthrosis": [
+            "Hemarthrosis"
+        ],
+        "Avascular necrosis of femoral condyle": [
+            "Avascular necrosis of femoral condyle"
+        ],
+        "Osteochondrosis of tibial tubercle [Osgood-Schlatter]": [
+            "Osteochondrosis of tibial tubercle [Osgood-Schlatter]"
+        ],
+        "AVN - Avascular necrosis of bone": [
+            "AVN - Avascular necrosis of bone"
+        ],
+        "Contusion of lower limb": [
+            "Contusion of lower limb"
+        ],
+        "Knee effusion": [
+            "Knee effusion"
+        ],
+        "Osteoid osteoma": [
+            "Osteoid osteoma"
+        ],
+        "Contusion": [
+            "Contusion"
+        ],
+        "Infected joint": [
+            "Infected joint"
+        ],
+        "Septic hip": [
+            "Septic hip"
+        ],
+        "Osteochondral defect of distal tibia": [
+            "Osteochondral defect of distal tibia"
+        ],
+        "Pain in ankle and joints of foot": [
+            "Pain in ankle and joints of foot"
+        ],
+        "Hemophilia": [
+            "Hemophilia"
+        ],
+        "Acute meniscal tear, lateral": [
+            "Acute meniscal tear, lateral"
+        ],
+        "Chondrosarcoma of bone": [
+            "Chondrosarcoma of bone"
+        ],
+        "Cerebral palsy": [
+            "Cerebral palsy"
+        ],
+        "DMD - Duchenne muscular dystrophy": [
+            "DMD - Duchenne muscular dystrophy"
+        ],
+        "BMD - Becker muscular dystrophy": [
+            "BMD - Becker muscular dystrophy"
+        ],
+        "Obesity": [
+            "Obesity"
+        ],
+        "Gaucher disease": [
+            "Gaucher disease"
+        ],
+        "hair tournequet": [
+            "hair tournequet"
+        ],
+        "Shingles": [
+            "Shingles"
+        ],
+        "Familial hypophosphatemic osteomalacia": [
+            "Familial hypophosphatemic osteomalacia"
+        ],
+        "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], unspecified leg": [
+            "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], unspecified leg"
+        ],
+        "Cellulitis": [
+            "Cellulitis"
+        ],
+        "Dislocation AND/OR displacement of joint, not due to injury": [
+            "Dislocation AND/OR displacement of joint, not due to injury"
+        ],
+        "Internal derangement of knee": [
+            "Internal derangement of knee"
+        ],
+        "SCAN": [
+            "SCAN"
+        ],
+        "NAT - Non-accidental trauma": [
+            "NAT - Non-accidental trauma"
+        ],
+        "Concern for non accidental trauma": [
+            "Concern for non accidental trauma"
+        ]
+    }
+}

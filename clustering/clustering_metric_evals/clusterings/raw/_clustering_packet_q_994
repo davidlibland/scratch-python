@@ -1,0 +1,280 @@
+{
+    "no-dx_all-official": {
+        "NEC - Necrotizing enterocolitis": [
+            "NEC - Necrotizing enterocolitis"
+        ],
+        "Crohn's disease": [
+            "Crohn's disease"
+        ],
+        "Gastric varices": [
+            "Gastric varices"
+        ],
+        "Peptic ulcer disease": [
+            "Peptic ulcer disease"
+        ],
+        "Aspirin induced bleeding": [
+            "Aspirin induced bleeding"
+        ],
+        "Stomach cancer": [
+            "Stomach cancer"
+        ],
+        "Colon cancer": [
+            "Colon cancer"
+        ],
+        "Ischemic colitis": [
+            "Acute ischemic colitis",
+            "Ischemic bowel disease",
+            "Transient ischemic colitis",
+            "Ischemic colitis",
+            "Colonic ischemia",
+            "Ischemic colon",
+            "Mesenteric ischemia"
+        ],
+        "Inflammatory diarrhea": [
+            "Inflammatory diarrhea"
+        ],
+        "Inflammatory bowel disease": [
+            "IBD - Inflammatory bowel disease",
+            "Inflammatory Bowel Disease"
+        ],
+        "Clostridium difficile colitis": [
+            "Clostridium difficile colitis"
+        ],
+        "Ulcerative colitis": [
+            "Ulcerative colitis"
+        ],
+        "Volvulus": [
+            "Volvulus"
+        ],
+        "Gastric ulcer": [
+            "Gastric ulcer"
+        ],
+        "Proctitis": [
+            "Proctitis"
+        ],
+        "Diverticulitis of large intestine": [
+            "Diverticulitis of large intestine"
+        ],
+        "Infectious gastroenteritis and colitis": [
+            "Infectious gastroenteritis and colitis"
+        ],
+        "Hemorrhoids": [
+            "Hemorrhoids"
+        ],
+        "Diverticulitis": [
+            "Diverticulitis"
+        ],
+        "Colitis": [
+            "Colitis"
+        ],
+        "Haemorrhoids": [
+            "Haemorrhoids"
+        ],
+        "Gastric malignancy": [
+            "Gastric malignancy"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Esophagitis": [
+            "Esophagitis"
+        ],
+        "Acute pancreatitis": [
+            "Acute pancreatitis"
+        ],
+        "Diverticular disease of intestine": [
+            "Diverticular disease of intestine"
+        ],
+        "Aortointestinal fistula": [
+            "Aortointestinal fistula"
+        ],
+        "Irritable bowel syndrome": [
+            "Irritable bowel syndrome"
+        ]
+    },
+    "0.5-dx_all-official": {
+        "NEC - Necrotizing enterocolitis": [
+            "NEC - Necrotizing enterocolitis"
+        ],
+        "Crohn's disease": [
+            "Crohn's disease"
+        ],
+        "Gastric ulcer": [
+            "Gastric varices",
+            "Gastric ulcer",
+            "Gastric malignancy"
+        ],
+        "Ulcerative colitis": [
+            "Peptic ulcer disease",
+            "Acute ischemic colitis",
+            "Inflammatory diarrhea",
+            "IBD - Inflammatory bowel disease",
+            "Clostridium difficile colitis",
+            "Ulcerative colitis",
+            "Ischemic bowel disease",
+            "Proctitis",
+            "Infectious gastroenteritis and colitis",
+            "Colitis",
+            "Transient ischemic colitis",
+            "Inflammatory Bowel Disease",
+            "Ischemic colitis",
+            "Colonic ischemia",
+            "Ischemic colon",
+            "Mesenteric ischemia"
+        ],
+        "Aspirin induced bleeding": [
+            "Aspirin induced bleeding"
+        ],
+        "Stomach cancer": [
+            "Stomach cancer"
+        ],
+        "Colon cancer": [
+            "Colon cancer"
+        ],
+        "Volvulus": [
+            "Volvulus"
+        ],
+        "Diverticulitis of large intestine": [
+            "Diverticulitis of large intestine",
+            "Diverticulitis",
+            "Diverticular disease of intestine"
+        ],
+        "Hemorrhoids": [
+            "Hemorrhoids",
+            "Haemorrhoids"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Esophagitis": [
+            "Esophagitis"
+        ],
+        "Acute pancreatitis": [
+            "Acute pancreatitis"
+        ],
+        "Aortointestinal fistula": [
+            "Aortointestinal fistula"
+        ],
+        "Irritable bowel syndrome": [
+            "Irritable bowel syndrome"
+        ]
+    },
+    "0.25-dx_0.5-official": {
+        "Ulcerative colitis": [
+            "NEC - Necrotizing enterocolitis",
+            "Crohn's disease",
+            "Gastric varices",
+            "Peptic ulcer disease",
+            "Aspirin induced bleeding",
+            "Stomach cancer",
+            "Colon cancer",
+            "Acute ischemic colitis",
+            "Inflammatory diarrhea",
+            "IBD - Inflammatory bowel disease",
+            "Clostridium difficile colitis",
+            "Ulcerative colitis",
+            "Ischemic bowel disease",
+            "Gastric ulcer",
+            "Proctitis",
+            "Diverticulitis of large intestine",
+            "Infectious gastroenteritis and colitis",
+            "Hemorrhoids",
+            "Diverticulitis",
+            "Colitis",
+            "Transient ischemic colitis",
+            "Haemorrhoids",
+            "Gastric malignancy",
+            "Esophagitis",
+            "Acute pancreatitis",
+            "Inflammatory Bowel Disease",
+            "Diverticular disease of intestine",
+            "Irritable bowel syndrome",
+            "Ischemic colitis",
+            "Colonic ischemia",
+            "Ischemic colon",
+            "Mesenteric ischemia"
+        ],
+        "Volvulus": [
+            "Volvulus"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Aortointestinal fistula": [
+            "Aortointestinal fistula"
+        ]
+    },
+    "0.75-dx_0.5-official": {
+        "NEC - Necrotizing enterocolitis": [
+            "NEC - Necrotizing enterocolitis"
+        ],
+        "Crohn's disease": [
+            "Crohn's disease"
+        ],
+        "Gastric ulcer": [
+            "Gastric varices",
+            "Gastric ulcer",
+            "Gastric malignancy"
+        ],
+        "Ulcerative colitis": [
+            "Peptic ulcer disease",
+            "Acute ischemic colitis",
+            "Ulcerative colitis",
+            "Ischemic bowel disease",
+            "Infectious gastroenteritis and colitis",
+            "Colitis",
+            "Transient ischemic colitis",
+            "Ischemic colitis",
+            "Colonic ischemia",
+            "Ischemic colon",
+            "Mesenteric ischemia"
+        ],
+        "Aspirin induced bleeding": [
+            "Aspirin induced bleeding"
+        ],
+        "Stomach cancer": [
+            "Stomach cancer"
+        ],
+        "Colon cancer": [
+            "Colon cancer"
+        ],
+        "Inflammatory bowel disease": [
+            "Inflammatory diarrhea",
+            "IBD - Inflammatory bowel disease",
+            "Inflammatory Bowel Disease"
+        ],
+        "Clostridium difficile colitis": [
+            "Clostridium difficile colitis"
+        ],
+        "Volvulus": [
+            "Volvulus"
+        ],
+        "Proctitis": [
+            "Proctitis"
+        ],
+        "Diverticulitis of large intestine": [
+            "Diverticulitis of large intestine",
+            "Diverticulitis",
+            "Diverticular disease of intestine"
+        ],
+        "Hemorrhoids": [
+            "Hemorrhoids",
+            "Haemorrhoids"
+        ],
+        "Myocardial infarction": [
+            "Myocardial infarction"
+        ],
+        "Esophagitis": [
+            "Esophagitis"
+        ],
+        "Acute pancreatitis": [
+            "Acute pancreatitis"
+        ],
+        "Aortointestinal fistula": [
+            "Aortointestinal fistula"
+        ],
+        "Irritable bowel syndrome": [
+            "Irritable bowel syndrome"
+        ]
+    }
+}

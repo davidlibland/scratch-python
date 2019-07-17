@@ -1,0 +1,2499 @@
+{
+    "no-dx_all-official": {
+        "Cytomegaloviral disease, unspecified": [
+            "Cytomegaloviral disease, unspecified"
+        ],
+        "Infective endocarditis": [
+            "Infective endocarditis"
+        ],
+        "Hantavirus pulmonary syndrome": [
+            "Hantavirus pulmonary syndrome"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Meningococcemia, unspecified": [
+            "Meningococcemia, unspecified"
+        ],
+        "Infectious mononucleosis": [
+            "Infectious mononucleosis"
+        ],
+        "Thrombocytopenia": [
+            "Thrombocytopenia"
+        ],
+        "Hemolytic anemia": [
+            "Hemolytic anemia"
+        ],
+        "Autoimmune thrombotic thrombocytopenic purpura": [
+            "Autoimmune thrombotic thrombocytopenic purpura (TTP)",
+            "Autoimmune thrombotic thrombocytopenic purpura"
+        ],
+        "Syphilis": [
+            "Syphilis"
+        ],
+        "Heparin induced thrombocytopenia (HIT)": [
+            "Heparin induced thrombocytopenia (HIT)"
+        ],
+        "Toxoplasmosis, other infections, rubella, cytomegalovirus, and herpes simplex virus (TORCH) syndrome": [
+            "Toxoplasmosis, other infections, rubella, cytomegalovirus, and herpes simplex virus (TORCH) syndrome"
+        ],
+        "Histiocytosis x, multisystemic": [
+            "Histiocytosis x, multisystemic"
+        ],
+        "Roseola infantum, unspecified": [
+            "Roseola infantum, unspecified"
+        ],
+        "Sepsis": [
+            "Sepsis"
+        ],
+        "ITP - Idiopathic thrombocytopenic purpura": [
+            "Immune thrombocytopenic purpura",
+            "ITP - Idiopathic thrombocytopenic purpura",
+            "Idiopathic thrombocytopenic purpura",
+            "Itp",
+            "Idiopathic immune thrombocytopenia"
+        ],
+        "Drug reaction AND/OR intoxication specific to newborn": [
+            "Drug reaction AND/OR intoxication specific to newborn"
+        ],
+        "Varicella": [
+            "Varicella"
+        ],
+        "Rocky Mountain spotted fever": [
+            "Rocky Mountain spotted fever"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "Immunrelated thrombopenia": [
+            "Immunrelated thrombopenia"
+        ],
+        "Congenital thrombocytopenia": [
+            "Congenital thrombocytopenia"
+        ],
+        "NEC - Necrotising enterocolitis": [
+            "NEC - Necrotising enterocolitis"
+        ],
+        "Meningococcal meningitis": [
+            "Meningococcal meningitis"
+        ],
+        "Sebastian platelet syndrom": [
+            "Sebastian platelet syndrom"
+        ],
+        "Bacterial sepsis of newborn": [
+            "Bacterial sepsis of newborn"
+        ],
+        "Maternal autoimmune thrombocytopenia": [
+            "Maternal autoimmune thrombocytopenia"
+        ],
+        "Qualitative platelet defects": [
+            "Qualitative platelet defects"
+        ],
+        "Listeriosis": [
+            "Listeriosis"
+        ],
+        "Hemolytic disease of newborn, unspecified": [
+            "Hemolytic disease of newborn, unspecified"
+        ],
+        "Rubeola scarlatinosa": [
+            "Rubeola scarlatinosa"
+        ],
+        "Fetal hydantoin syndrome": [
+            "Fetal hydantoin syndrome"
+        ],
+        "Warfarin effects on fetus": [
+            "Warfarin effects on fetus"
+        ],
+        "Collagen vascular disease nos": [
+            "Collagen vascular disease nos"
+        ],
+        "Defibrination syndrome": [
+            "DIC - Disseminated intravascular coagulation",
+            "DIC"
+        ],
+        "Deficiency of vitamin K": [
+            "Deficiency of vitamin K",
+            "Vitamin k deficiency"
+        ],
+        "Scarlet fever": [
+            "Scarlet fever"
+        ],
+        "Kawasaki's syndrome": [
+            "Kawasaki's syndrome"
+        ],
+        "Herpes simplex": [
+            "Herpes simplex"
+        ],
+        "Atopic dermatitis": [
+            "Atopic dermatitis"
+        ],
+        "Seborrheic dermatitis": [
+            "Seborrheic dermatitis"
+        ],
+        "Thalassemia": [
+            "Thalassemia"
+        ],
+        "Neonatal thrombocytopenia due to platelet alloimmunization": [
+            "Neonatal alloimmune thrombocytopenia",
+            "Neonatal thrombocytopenia due to platelet alloimmunization",
+            "ANT - Alloimmune neonatal thrombocytopenia",
+            "NAIT",
+            "Alloimmune neonatal thrombocytopenia",
+            "FNAIT"
+        ],
+        "Neonatal erythema toxicum": [
+            "Neonatal erythema toxicum"
+        ],
+        "Pityriasis versicolor": [
+            "Pityriasis versicolor"
+        ],
+        "Sturge-Weber disease": [
+            "Sturge-Weber disease"
+        ],
+        "Dermatitis": [
+            "Dermatitis"
+        ],
+        "Hemophilia": [
+            "Hemophilia"
+        ],
+        "Dengue hemorrhagic fever": [
+            "Dengue hemorrhagic fever"
+        ],
+        "Eczema herpeticum": [
+            "Eczema herpeticum"
+        ],
+        "MAHA - Microangiopathic hemolytic anemia": [
+            "MAHA - Microangiopathic hemolytic anemia"
+        ],
+        "Purpura and other hemorrhagic conditions": [
+            "Purpura and other hemorrhagic conditions"
+        ],
+        "Hereditary spherocytosis": [
+            "Hereditary spherocytosis"
+        ],
+        "Hemolytic disease of fetus OR newborn due to RhD isoimmunization": [
+            "Hemolytic disease of fetus OR newborn due to Rh isoimmunization",
+            "Rh isoimmunisation of the newborn",
+            "Haemolytic disease of fetus OR newborn due to RhD isoimmunisation"
+        ],
+        "Birth dermatitis": [
+            "Birth dermatitis"
+        ],
+        "Petechiae in fetus OR newborn": [
+            "Petechiae in fetus OR newborn"
+        ],
+        "HPA - Hemangiopericytoma": [
+            "HPA - Hemangiopericytoma"
+        ],
+        "Meningitis": [
+            "Meningitis"
+        ],
+        "CMV - Cytomegalovirus infection": [
+            "CMV - Cytomegalovirus infection"
+        ],
+        "Idiopathic urticaria": [
+            "Idiopathic urticaria"
+        ],
+        "Hormone rash": [
+            "Hormone rash"
+        ],
+        "Chlamydia infection": [
+            "Chlamydia infection"
+        ],
+        "Gonorrhea": [
+            "Gonorrhea"
+        ],
+        "Severe sepsis with acute organ dysfunction due to Group B streptococcus": [
+            "Severe sepsis with acute organ dysfunction due to Group B streptococcus"
+        ],
+        "Toxoplasmosis": [
+            "Toxoplasmosis",
+            "Infection by Toxoplasma gondii"
+        ],
+        "Rubella": [
+            "Rubella"
+        ],
+        "Cytomegaloviral (CMV) pneumonia": [
+            "Cytomegaloviral (CMV) pneumonia"
+        ],
+        "Vasculitis": [
+            "Vasculitis"
+        ],
+        "HSP - Henoch-Schonlein purpura": [
+            "Henoch-Schonlein purpura",
+            "HSP - Henoch-Schonlein purpura"
+        ],
+        "Infantile acute hemorrhagic edema": [
+            "Infantile acute hemorrhagic edema"
+        ],
+        "Hemolytic disease of fetus OR newborn due to isoimmunization": [
+            "EF - Erythroblastosis fetalis",
+            "HDN - Hemolytic disease of the newborn"
+        ],
+        "Blood coagulation disorder": [
+            "clotting disorder",
+            "Coagulopathy",
+            "Bleeding disorder"
+        ],
+        "Viral meningitis": [
+            "Viral meningitis"
+        ],
+        "Neonatal acne": [
+            "Neonatal acne",
+            "Acne neonatorum"
+        ],
+        "Mother antibodies to infant platelets": [
+            "Mother antibodies to infant platelets"
+        ],
+        "Radial aplasia-thrombocytopenia syndrome": [
+            "TAR - Thrombocytopenia with absent radius syndrome",
+            "Thrombocytopenia-absent radii syndrome"
+        ],
+        "Evans syndrome": [
+            "Evans syndrome"
+        ],
+        "Mother itp": [
+            "Mother itp"
+        ],
+        "Autoimmune thrombocytopenia": [
+            "Autoimmune thrombocytopenia"
+        ],
+        "Birth trauma": [
+            "Birth trauma"
+        ],
+        "Pre-eclampsia": [
+            "Pre-eclampsia"
+        ],
+        "Measles": [
+            "measles"
+        ],
+        "traumatic delivery": [
+            "traumatic delivery"
+        ],
+        "Splenic pancytopenia syndrome": [
+            "Splenic pancytopenia syndrome"
+        ],
+        "Superficial acne vulgaris": [
+            "Superficial acne vulgaris"
+        ],
+        "ETN - Erythema toxicum neonatorum": [
+            "ETN - Erythema toxicum neonatorum"
+        ],
+        "Scalded skin syndrome": [
+            "Scalded skin syndrome"
+        ],
+        "Acquired thrombotic thrombocytopenic purpura (TTP)": [
+            "Acquired thrombotic thrombocytopenic purpura (TTP)"
+        ],
+        "Autoimmune hepatitis": [
+            "Autoimmune hepatitis"
+        ],
+        "Viral hepatitis": [
+            "Viral hepatitis"
+        ],
+        "Congenital rubella syndrome": [
+            "Congenital rubella syndrome",
+            "Congenital rubella"
+        ],
+        "Contact dermatitis": [
+            "Contact dermatitis"
+        ],
+        "Allergic contact dermatitis": [
+            "Allergic contact dermatitis"
+        ],
+        "Allergic urticaria": [
+            "Allergic urticaria"
+        ],
+        "Streptococcal sepsis, unspecified": [
+            "Streptococcal sepsis, unspecified"
+        ],
+        "Hemolysis": [
+            "Hemolysis"
+        ],
+        "Congenital infectious disease": [
+            "Congenital infectious disease"
+        ],
+        "Thrombo": [
+            "Thrombo"
+        ],
+        "Neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia": [
+            "Neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia"
+        ],
+        "Herpes gestationis - delivered with postnatal complication": [
+            "Herpes gestationis - delivered with postnatal complication"
+        ],
+        "Congenital cytomegalovirus infection": [
+            "Congenital cytomegalovirus infection"
+        ],
+        "Congenital syphilis": [
+            "Congenital syphilis"
+        ],
+        "Haemophilia": [
+            "Haemophilia"
+        ],
+        "Spotted fever [tick-borne rickettsioses]": [
+            "Spotted fever [tick-borne rickettsioses]"
+        ],
+        "Rash and other nonspecific skin eruption": [
+            "Rash and other nonspecific skin eruption"
+        ],
+        "Congenital infection (TORCH)": [
+            "Congenital infection (TORCH)"
+        ],
+        "Group B streptococcal disease of the newborn": [
+            "Group B streptococcal disease of the newborn"
+        ],
+        "Glanzmann thromboasthenia": [
+            "Glanzmann thromboasthenia"
+        ],
+        "Bernard-Soulier syndrome": [
+            "Bernard-Soulier syndrome"
+        ],
+        "Hermansky Pudlak syndrome": [
+            "Hermansky Pudlak syndrome"
+        ],
+        "Neonatal thrombocytopenia due to isoimmunization": [
+            "Neonatal thrombocytopenia",
+            "Neonatal thrombocytopenia due to isoimmunization"
+        ],
+        "Thrombocytopenia due to sequestration": [
+            "Thrombocytopenia due to sequestration"
+        ],
+        "Streptococcal toxic shock syndrome": [
+            "Streptococcal toxic shock syndrome"
+        ],
+        "Ichthyosis linearis circumflexa": [
+            "Ichthyosis linearis circumflexa"
+        ],
+        "NAIT neonatal alloimmune thrombocytopenia": [
+            "NAIT neonatal alloimmune thrombocytopenia"
+        ],
+        "Acute idiopathic thrombocytopenic purpura": [
+            "Acute idiopathic thrombocytopenic purpura"
+        ],
+        "Nuchal cord": [
+            "Nuchal cord"
+        ],
+        "GBS meningitis": [
+            "GBS meningitis"
+        ],
+        "Cmv": [
+            "Cmv"
+        ],
+        "Durg induced thrombocytopenia": [
+            "Durg induced thrombocytopenia"
+        ],
+        "Thrombotic thrombocytopenic purpura": [
+            "TTP",
+            "TTP - Thrombotic thrombocytopenic purpura"
+        ],
+        "HUS - Haemolytic uraemic syndrome": [
+            "HUS - Haemolytic uraemic syndrome"
+        ],
+        "Gbs septicemia": [
+            "Gbs septicemia"
+        ],
+        "Hemotoma": [
+            "Hemotoma"
+        ],
+        "Post-transfusion thrombocytopenic purpura": [
+            "Post-transfusion thrombocytopenic purpura"
+        ],
+        "Early onset sepsis": [
+            "Early onset sepsis"
+        ],
+        "GBS bacteremia": [
+            "GBS bacteremia"
+        ],
+        "E. Coli bacteremia": [
+            "E. Coli bacteremia"
+        ],
+        "von Willebrand's disease": [
+            "Von Willebrand's disease"
+        ],
+        "Haemophila a": [
+            "Haemophila a"
+        ],
+        "Vit k def": [
+            "Vit k def"
+        ],
+        "Liver failure": [
+            "Liver failure"
+        ],
+        "Bone marrow failure syndrome": [
+            "Bone marrow failure syndrome"
+        ],
+        "Fanconi's anaemia": [
+            "Fanconi anemia",
+            "Fanconi pancytopenia syndrome"
+        ],
+        "Neonatal facial petechiae": [
+            "Neonatal facial petechiae"
+        ],
+        "Parvovirus infection, unspecified": [
+            "Parvovirus infection, unspecified"
+        ],
+        "Coombs positive haemolytic anaemia": [
+            "Coombs positive haemolytic anaemia"
+        ],
+        "Neonatal lupus erythematosus": [
+            "Neonatal lupus",
+            "Neonatal lupus erythematosus"
+        ],
+        "Congenital toxoplasmosis": [
+            "Congenital toxoplasmosis"
+        ],
+        "Purpura fulminans": [
+            "Purpura fulminans"
+        ],
+        "Transient neonatal pustular melanosis": [
+            "Transient neonatal pustular melanosis"
+        ],
+        "Babesiosis": [
+            "Babesiosis"
+        ],
+        "Ehrlichiosis": [
+            "Ehrlichiosis"
+        ],
+        "Duffy isoimmunisation of the newborn": [
+            "Duffy isoimmunisation of the newborn"
+        ],
+        "Haemorrhagic disease of the newborn due to factor II deficiency": [
+            "Haemorrhagic disease of the newborn due to factor II deficiency"
+        ],
+        "Congenital thrombocytopenic purpura": [
+            "Congenital thrombocytopenic purpura"
+        ],
+        "Neonatal petechiae": [
+            "Neonatal petechiae"
+        ],
+        "Thrombocytopenia due to extracorporeal circulation of blood": [
+            "Thrombocytopenia due to extracorporeal circulation of blood"
+        ],
+        "Erythema toxicum": [
+            "Erythema toxicum"
+        ],
+        "Strep": [
+            "Strep"
+        ],
+        "Intravascukar hemolysis": [
+            "Intravascukar hemolysis"
+        ],
+        "Maternal antiplatelet antibodies": [
+            "Maternal antiplatelet antibodies"
+        ],
+        "Hemangioma platelet consumption": [
+            "Hemangioma platelet consumption"
+        ],
+        "Neonatal ITP": [
+            "Neonatal ITP"
+        ],
+        "Neonatal thrombocytopenia associated with maternal idiopathic thrombocytopenic purpura": [
+            "Neonatal thrombocytopenia associated with maternal idiopathic thrombocytopenic purpura"
+        ],
+        "Anaemia due to ABO incompatibility in the newborn": [
+            "Anaemia due to ABO incompatibility in the newborn"
+        ],
+        "WAS - Wiskott-Aldrich syndrome": [
+            "WAS - Wiskott-Aldrich syndrome"
+        ],
+        "myelosuppression": [
+            "myelosuppression"
+        ],
+        "Immune thrombocytopenia": [
+            "Immune thrombocytopenia"
+        ],
+        "Acute lymphoblastic leukemia": [
+            "Acute lymphoblastic leukemia"
+        ],
+        "Vitamin D deficiency": [
+            "Vitamin D deficiency"
+        ],
+        "Group B streptococcus infection in mother complicating childbirth": [
+            "Group B streptococcus infection in mother complicating childbirth"
+        ],
+        "Malignancy": [
+            "Malignancy"
+        ],
+        "Asphyxia, in liveborn infant": [
+            "Asphyxia, in liveborn infant"
+        ],
+        "Sepsis with cutaneous manifestations": [
+            "Sepsis with cutaneous manifestations"
+        ],
+        "Roseola infantum (HHV 6)": [
+            "Roseola infantum (HHV 6)"
+        ],
+        "Newborn affected by maternal systemic lupus erythematosus": [
+            "Newborn affected by maternal systemic lupus erythematosus"
+        ],
+        "Traumatic birth": [
+            "Traumatic birth"
+        ],
+        "Maternal incompatibility": [
+            "Maternal incompatibility"
+        ],
+        "Newborn rash": [
+            "Newborn rash"
+        ],
+        "Thrombocytopaenia": [
+            "Thrombocytopaenia"
+        ],
+        "Acute meningococcemia": [
+            "Acute meningococcemia"
+        ],
+        "Congenital CMV": [
+            "Congenital CMV"
+        ],
+        "Herpesviral vesicular dermatitis": [
+            "Herpesviral vesicular dermatitis"
+        ],
+        "Hemorrhagic disease of newborn": [
+            "Hemorrhagic disease of newborn"
+        ],
+        "Pancytopenia": [
+            "Pancytopenia"
+        ],
+        "Missed vitamin k": [
+            "Missed vitamin k"
+        ],
+        "Haemorrhagic disease of the newborn": [
+            "Haemorrhagic disease of the newborn"
+        ],
+        "Lupus erythematosus": [
+            "Lupus erythematosus"
+        ]
+    },
+    "0.5-dx_all-official": {
+        "Cytomegaloviral disease, unspecified": [
+            "Cytomegaloviral disease, unspecified"
+        ],
+        "Infective endocarditis": [
+            "Infective endocarditis"
+        ],
+        "Hantavirus pulmonary syndrome": [
+            "Hantavirus pulmonary syndrome"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Meningococcemia, unspecified": [
+            "Meningococcemia, unspecified"
+        ],
+        "Infectious mononucleosis": [
+            "Infectious mononucleosis"
+        ],
+        "Immune thrombocytopenic purpura": [
+            "Thrombocytopenia",
+            "Autoimmune thrombotic thrombocytopenic purpura (TTP)",
+            "Heparin induced thrombocytopenia (HIT)",
+            "Immune thrombocytopenic purpura",
+            "Immunrelated thrombopenia",
+            "ITP - Idiopathic thrombocytopenic purpura",
+            "Congenital thrombocytopenia",
+            "Neonatal alloimmune thrombocytopenia",
+            "TAR - Thrombocytopenia with absent radius syndrome",
+            "Acquired thrombotic thrombocytopenic purpura (TTP)",
+            "Idiopathic thrombocytopenic purpura",
+            "Neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia",
+            "Neonatal thrombocytopenia due to platelet alloimmunization",
+            "ANT - Alloimmune neonatal thrombocytopenia",
+            "Neonatal thrombocytopenia",
+            "NAIT neonatal alloimmune thrombocytopenia",
+            "Neonatal thrombocytopenia due to isoimmunization",
+            "Acute idiopathic thrombocytopenic purpura",
+            "Durg induced thrombocytopenia",
+            "TTP",
+            "Post-transfusion thrombocytopenic purpura",
+            "NAIT",
+            "Itp",
+            "Congenital thrombocytopenic purpura",
+            "Alloimmune neonatal thrombocytopenia",
+            "Thrombocytopenia due to extracorporeal circulation of blood",
+            "Idiopathic immune thrombocytopenia",
+            "Thrombocytopenia-absent radii syndrome",
+            "Autoimmune thrombotic thrombocytopenic purpura",
+            "Neonatal thrombocytopenia associated with maternal idiopathic thrombocytopenic purpura",
+            "Immune thrombocytopenia",
+            "TTP - Thrombotic thrombocytopenic purpura",
+            "Thrombocytopaenia",
+            "FNAIT"
+        ],
+        "Hemolytic anemia": [
+            "Hemolytic anemia"
+        ],
+        "Syphilis": [
+            "Syphilis"
+        ],
+        "Rubella": [
+            "Toxoplasmosis, other infections, rubella, cytomegalovirus, and herpes simplex virus (TORCH) syndrome",
+            "Rubella"
+        ],
+        "Histiocytosis x, multisystemic": [
+            "Histiocytosis x, multisystemic"
+        ],
+        "Roseola infantum, unspecified": [
+            "Roseola infantum, unspecified"
+        ],
+        "Bacterial sepsis of newborn": [
+            "Sepsis",
+            "Bacterial sepsis of newborn",
+            "Early onset sepsis",
+            "Sepsis with cutaneous manifestations"
+        ],
+        "Drug reaction AND/OR intoxication specific to newborn": [
+            "Drug reaction AND/OR intoxication specific to newborn"
+        ],
+        "Varicella": [
+            "Varicella"
+        ],
+        "Rocky Mountain spotted fever": [
+            "Rocky Mountain spotted fever"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "NEC - Necrotising enterocolitis": [
+            "NEC - Necrotising enterocolitis"
+        ],
+        "Meningococcal meningitis": [
+            "Meningococcal meningitis",
+            "Meningitis"
+        ],
+        "Sebastian platelet syndrom": [
+            "Sebastian platelet syndrom"
+        ],
+        "Maternal autoimmune thrombocytopenia": [
+            "Maternal autoimmune thrombocytopenia"
+        ],
+        "Qualitative platelet defects": [
+            "Qualitative platelet defects"
+        ],
+        "Listeriosis": [
+            "Listeriosis"
+        ],
+        "Hemolytic disease of newborn, unspecified": [
+            "Hemolytic disease of newborn, unspecified"
+        ],
+        "Rubeola scarlatinosa": [
+            "Rubeola scarlatinosa"
+        ],
+        "Fetal hydantoin syndrome": [
+            "Fetal hydantoin syndrome"
+        ],
+        "Warfarin effects on fetus": [
+            "Warfarin effects on fetus"
+        ],
+        "Collagen vascular disease nos": [
+            "Collagen vascular disease nos"
+        ],
+        "Defibrination syndrome": [
+            "DIC - Disseminated intravascular coagulation",
+            "DIC"
+        ],
+        "Deficiency of vitamin K": [
+            "Deficiency of vitamin K",
+            "Vitamin k deficiency"
+        ],
+        "Scarlet fever": [
+            "Scarlet fever"
+        ],
+        "Kawasaki's syndrome": [
+            "Kawasaki's syndrome"
+        ],
+        "Herpes simplex": [
+            "Herpes simplex"
+        ],
+        "Atopic dermatitis": [
+            "Atopic dermatitis"
+        ],
+        "Seborrheic dermatitis": [
+            "Seborrheic dermatitis"
+        ],
+        "Thalassemia": [
+            "Thalassemia"
+        ],
+        "Neonatal erythema toxicum": [
+            "Neonatal erythema toxicum",
+            "ETN - Erythema toxicum neonatorum",
+            "Neonatal lupus",
+            "Neonatal ITP",
+            "Neonatal lupus erythematosus"
+        ],
+        "Pityriasis versicolor": [
+            "Pityriasis versicolor"
+        ],
+        "Sturge-Weber disease": [
+            "Sturge-Weber disease"
+        ],
+        "Contact dermatitis": [
+            "Dermatitis",
+            "Birth dermatitis",
+            "Contact dermatitis",
+            "Allergic contact dermatitis"
+        ],
+        "Hemophilia": [
+            "Hemophilia"
+        ],
+        "Dengue hemorrhagic fever": [
+            "Dengue hemorrhagic fever"
+        ],
+        "Eczema herpeticum": [
+            "Eczema herpeticum"
+        ],
+        "MAHA - Microangiopathic hemolytic anemia": [
+            "MAHA - Microangiopathic hemolytic anemia"
+        ],
+        "Purpura and other hemorrhagic conditions": [
+            "Purpura and other hemorrhagic conditions"
+        ],
+        "Hereditary spherocytosis": [
+            "Hereditary spherocytosis"
+        ],
+        "Hemolytic disease of fetus OR newborn due to RhD isoimmunization": [
+            "Hemolytic disease of fetus OR newborn due to Rh isoimmunization",
+            "Rh isoimmunisation of the newborn",
+            "Haemolytic disease of fetus OR newborn due to RhD isoimmunisation"
+        ],
+        "Petechiae in fetus OR newborn": [
+            "Petechiae in fetus OR newborn"
+        ],
+        "HPA - Hemangiopericytoma": [
+            "HPA - Hemangiopericytoma"
+        ],
+        "CMV - Cytomegalovirus infection": [
+            "CMV - Cytomegalovirus infection",
+            "Parvovirus infection, unspecified"
+        ],
+        "Idiopathic urticaria": [
+            "Idiopathic urticaria"
+        ],
+        "Hormone rash": [
+            "Hormone rash"
+        ],
+        "Chlamydia infection": [
+            "Chlamydia infection"
+        ],
+        "Gonorrhea": [
+            "Gonorrhea"
+        ],
+        "Severe sepsis with acute organ dysfunction due to Group B streptococcus": [
+            "Severe sepsis with acute organ dysfunction due to Group B streptococcus"
+        ],
+        "Toxoplasmosis": [
+            "Toxoplasmosis",
+            "Infection by Toxoplasma gondii"
+        ],
+        "Cytomegaloviral (CMV) pneumonia": [
+            "Cytomegaloviral (CMV) pneumonia"
+        ],
+        "Vasculitis": [
+            "Vasculitis"
+        ],
+        "HSP - Henoch-Schonlein purpura": [
+            "Henoch-Schonlein purpura",
+            "HSP - Henoch-Schonlein purpura"
+        ],
+        "Infantile acute hemorrhagic edema": [
+            "Infantile acute hemorrhagic edema"
+        ],
+        "Hemolytic disease of fetus OR newborn due to isoimmunization": [
+            "EF - Erythroblastosis fetalis",
+            "HDN - Hemolytic disease of the newborn"
+        ],
+        "Blood coagulation disorder": [
+            "clotting disorder",
+            "Coagulopathy",
+            "Bleeding disorder"
+        ],
+        "Viral meningitis": [
+            "Viral meningitis"
+        ],
+        "Neonatal acne": [
+            "Neonatal acne",
+            "Acne neonatorum"
+        ],
+        "Mother antibodies to infant platelets": [
+            "Mother antibodies to infant platelets"
+        ],
+        "Evans syndrome": [
+            "Evans syndrome"
+        ],
+        "Mother itp": [
+            "Mother itp"
+        ],
+        "Autoimmune thrombocytopenia": [
+            "Autoimmune thrombocytopenia"
+        ],
+        "Birth trauma": [
+            "Birth trauma"
+        ],
+        "Pre-eclampsia": [
+            "Pre-eclampsia"
+        ],
+        "Measles": [
+            "measles"
+        ],
+        "traumatic delivery": [
+            "traumatic delivery"
+        ],
+        "Splenic pancytopenia syndrome": [
+            "Splenic pancytopenia syndrome"
+        ],
+        "Superficial acne vulgaris": [
+            "Superficial acne vulgaris"
+        ],
+        "Scalded skin syndrome": [
+            "Scalded skin syndrome"
+        ],
+        "Autoimmune hepatitis": [
+            "Autoimmune hepatitis"
+        ],
+        "Viral hepatitis": [
+            "Viral hepatitis"
+        ],
+        "Congenital rubella syndrome": [
+            "Congenital rubella syndrome",
+            "Congenital rubella"
+        ],
+        "Allergic urticaria": [
+            "Allergic urticaria"
+        ],
+        "Streptococcal sepsis, unspecified": [
+            "Streptococcal sepsis, unspecified"
+        ],
+        "Hemolysis": [
+            "Hemolysis"
+        ],
+        "Congenital infectious disease": [
+            "Congenital infectious disease"
+        ],
+        "Thrombo": [
+            "Thrombo"
+        ],
+        "Herpes gestationis - delivered with postnatal complication": [
+            "Herpes gestationis - delivered with postnatal complication"
+        ],
+        "Congenital cytomegalovirus infection": [
+            "Congenital cytomegalovirus infection"
+        ],
+        "Congenital syphilis": [
+            "Congenital syphilis"
+        ],
+        "Haemophilia": [
+            "Haemophilia"
+        ],
+        "Spotted fever [tick-borne rickettsioses]": [
+            "Spotted fever [tick-borne rickettsioses]"
+        ],
+        "Rash and other nonspecific skin eruption": [
+            "Rash and other nonspecific skin eruption"
+        ],
+        "Congenital infection (TORCH)": [
+            "Congenital infection (TORCH)"
+        ],
+        "Group B streptococcal disease of the newborn": [
+            "Group B streptococcal disease of the newborn"
+        ],
+        "Glanzmann thromboasthenia": [
+            "Glanzmann thromboasthenia"
+        ],
+        "Bernard-Soulier syndrome": [
+            "Bernard-Soulier syndrome"
+        ],
+        "Hermansky Pudlak syndrome": [
+            "Hermansky Pudlak syndrome"
+        ],
+        "Thrombocytopenia due to sequestration": [
+            "Thrombocytopenia due to sequestration"
+        ],
+        "Streptococcal toxic shock syndrome": [
+            "Streptococcal toxic shock syndrome"
+        ],
+        "Ichthyosis linearis circumflexa": [
+            "Ichthyosis linearis circumflexa"
+        ],
+        "Nuchal cord": [
+            "Nuchal cord"
+        ],
+        "GBS meningitis": [
+            "GBS meningitis"
+        ],
+        "Cmv": [
+            "Cmv"
+        ],
+        "HUS - Haemolytic uraemic syndrome": [
+            "HUS - Haemolytic uraemic syndrome"
+        ],
+        "Gbs septicemia": [
+            "Gbs septicemia"
+        ],
+        "Hemotoma": [
+            "Hemotoma"
+        ],
+        "GBS bacteremia": [
+            "GBS bacteremia"
+        ],
+        "E. Coli bacteremia": [
+            "E. Coli bacteremia"
+        ],
+        "von Willebrand's disease": [
+            "Von Willebrand's disease"
+        ],
+        "Haemophila a": [
+            "Haemophila a"
+        ],
+        "Vit k def": [
+            "Vit k def"
+        ],
+        "Liver failure": [
+            "Liver failure"
+        ],
+        "Bone marrow failure syndrome": [
+            "Bone marrow failure syndrome"
+        ],
+        "Fanconi's anaemia": [
+            "Fanconi anemia",
+            "Fanconi pancytopenia syndrome"
+        ],
+        "Neonatal facial petechiae": [
+            "Neonatal facial petechiae"
+        ],
+        "Coombs positive haemolytic anaemia": [
+            "Coombs positive haemolytic anaemia"
+        ],
+        "Congenital toxoplasmosis": [
+            "Congenital toxoplasmosis"
+        ],
+        "Purpura fulminans": [
+            "Purpura fulminans"
+        ],
+        "Transient neonatal pustular melanosis": [
+            "Transient neonatal pustular melanosis"
+        ],
+        "Babesiosis": [
+            "Babesiosis"
+        ],
+        "Ehrlichiosis": [
+            "Ehrlichiosis"
+        ],
+        "Duffy isoimmunisation of the newborn": [
+            "Duffy isoimmunisation of the newborn"
+        ],
+        "Haemorrhagic disease of the newborn due to factor II deficiency": [
+            "Haemorrhagic disease of the newborn due to factor II deficiency"
+        ],
+        "Neonatal petechiae": [
+            "Neonatal petechiae"
+        ],
+        "Erythema toxicum": [
+            "Erythema toxicum"
+        ],
+        "Strep": [
+            "Strep"
+        ],
+        "Intravascukar hemolysis": [
+            "Intravascukar hemolysis"
+        ],
+        "Maternal antiplatelet antibodies": [
+            "Maternal antiplatelet antibodies"
+        ],
+        "Hemangioma platelet consumption": [
+            "Hemangioma platelet consumption"
+        ],
+        "Anaemia due to ABO incompatibility in the newborn": [
+            "Anaemia due to ABO incompatibility in the newborn"
+        ],
+        "WAS - Wiskott-Aldrich syndrome": [
+            "WAS - Wiskott-Aldrich syndrome"
+        ],
+        "myelosuppression": [
+            "myelosuppression"
+        ],
+        "Acute lymphoblastic leukemia": [
+            "Acute lymphoblastic leukemia"
+        ],
+        "Vitamin D deficiency": [
+            "Vitamin D deficiency"
+        ],
+        "Group B streptococcus infection in mother complicating childbirth": [
+            "Group B streptococcus infection in mother complicating childbirth"
+        ],
+        "Malignancy": [
+            "Malignancy"
+        ],
+        "Asphyxia, in liveborn infant": [
+            "Asphyxia, in liveborn infant"
+        ],
+        "Roseola infantum (HHV 6)": [
+            "Roseola infantum (HHV 6)"
+        ],
+        "Newborn affected by maternal systemic lupus erythematosus": [
+            "Newborn affected by maternal systemic lupus erythematosus"
+        ],
+        "Traumatic birth": [
+            "Traumatic birth"
+        ],
+        "Maternal incompatibility": [
+            "Maternal incompatibility"
+        ],
+        "Newborn rash": [
+            "Newborn rash"
+        ],
+        "Acute meningococcemia": [
+            "Acute meningococcemia"
+        ],
+        "Congenital CMV": [
+            "Congenital CMV"
+        ],
+        "Herpesviral vesicular dermatitis": [
+            "Herpesviral vesicular dermatitis"
+        ],
+        "Hemorrhagic disease of newborn": [
+            "Hemorrhagic disease of newborn"
+        ],
+        "Pancytopenia": [
+            "Pancytopenia"
+        ],
+        "Missed vitamin k": [
+            "Missed vitamin k"
+        ],
+        "Haemorrhagic disease of the newborn": [
+            "Haemorrhagic disease of the newborn"
+        ],
+        "Lupus erythematosus": [
+            "Lupus erythematosus"
+        ]
+    },
+    "0.75-dx_all-official": {
+        "Cytomegaloviral disease, unspecified": [
+            "Cytomegaloviral disease, unspecified"
+        ],
+        "Infective endocarditis": [
+            "Infective endocarditis"
+        ],
+        "Hantavirus pulmonary syndrome": [
+            "Hantavirus pulmonary syndrome"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Meningococcemia, unspecified": [
+            "Meningococcemia, unspecified"
+        ],
+        "Infectious mononucleosis": [
+            "Infectious mononucleosis"
+        ],
+        "Immune thrombocytopenic purpura": [
+            "Thrombocytopenia",
+            "Autoimmune thrombotic thrombocytopenic purpura (TTP)",
+            "Heparin induced thrombocytopenia (HIT)",
+            "Immune thrombocytopenic purpura",
+            "Immunrelated thrombopenia",
+            "ITP - Idiopathic thrombocytopenic purpura",
+            "Congenital thrombocytopenia",
+            "Neonatal alloimmune thrombocytopenia",
+            "TAR - Thrombocytopenia with absent radius syndrome",
+            "Autoimmune thrombocytopenia",
+            "Acquired thrombotic thrombocytopenic purpura (TTP)",
+            "Idiopathic thrombocytopenic purpura",
+            "Neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia",
+            "Neonatal thrombocytopenia due to platelet alloimmunization",
+            "ANT - Alloimmune neonatal thrombocytopenia",
+            "Neonatal thrombocytopenia",
+            "NAIT neonatal alloimmune thrombocytopenia",
+            "Neonatal thrombocytopenia due to isoimmunization",
+            "Acute idiopathic thrombocytopenic purpura",
+            "Durg induced thrombocytopenia",
+            "TTP",
+            "Post-transfusion thrombocytopenic purpura",
+            "NAIT",
+            "Itp",
+            "Congenital thrombocytopenic purpura",
+            "Alloimmune neonatal thrombocytopenia",
+            "Thrombocytopenia due to extracorporeal circulation of blood",
+            "Idiopathic immune thrombocytopenia",
+            "Thrombocytopenia-absent radii syndrome",
+            "Autoimmune thrombotic thrombocytopenic purpura",
+            "Neonatal thrombocytopenia associated with maternal idiopathic thrombocytopenic purpura",
+            "Immune thrombocytopenia",
+            "TTP - Thrombotic thrombocytopenic purpura",
+            "Thrombocytopaenia",
+            "FNAIT"
+        ],
+        "Hemolytic anemia": [
+            "Hemolytic anemia"
+        ],
+        "Syphilis": [
+            "Syphilis"
+        ],
+        "Rubella": [
+            "Toxoplasmosis, other infections, rubella, cytomegalovirus, and herpes simplex virus (TORCH) syndrome",
+            "Rubella"
+        ],
+        "Histiocytosis x, multisystemic": [
+            "Histiocytosis x, multisystemic"
+        ],
+        "Roseola infantum, unspecified": [
+            "Roseola infantum, unspecified"
+        ],
+        "Bacterial sepsis of newborn": [
+            "Sepsis",
+            "Bacterial sepsis of newborn",
+            "Early onset sepsis",
+            "Sepsis with cutaneous manifestations"
+        ],
+        "Drug reaction AND/OR intoxication specific to newborn": [
+            "Drug reaction AND/OR intoxication specific to newborn"
+        ],
+        "Varicella": [
+            "Varicella"
+        ],
+        "Rocky Mountain spotted fever": [
+            "Rocky Mountain spotted fever"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "NEC - Necrotising enterocolitis": [
+            "NEC - Necrotising enterocolitis"
+        ],
+        "Meningococcal meningitis": [
+            "Meningococcal meningitis",
+            "Meningitis"
+        ],
+        "Sebastian platelet syndrom": [
+            "Sebastian platelet syndrom"
+        ],
+        "Maternal autoimmune thrombocytopenia": [
+            "Maternal autoimmune thrombocytopenia"
+        ],
+        "Qualitative platelet defects": [
+            "Qualitative platelet defects"
+        ],
+        "Listeriosis": [
+            "Listeriosis"
+        ],
+        "Hemolytic disease of newborn, unspecified": [
+            "Hemolytic disease of newborn, unspecified"
+        ],
+        "Rubeola scarlatinosa": [
+            "Rubeola scarlatinosa"
+        ],
+        "Fetal hydantoin syndrome": [
+            "Fetal hydantoin syndrome"
+        ],
+        "Warfarin effects on fetus": [
+            "Warfarin effects on fetus"
+        ],
+        "Collagen vascular disease nos": [
+            "Collagen vascular disease nos"
+        ],
+        "Defibrination syndrome": [
+            "DIC - Disseminated intravascular coagulation",
+            "DIC"
+        ],
+        "Deficiency of vitamin K": [
+            "Deficiency of vitamin K",
+            "Vitamin k deficiency"
+        ],
+        "Scarlet fever": [
+            "Scarlet fever"
+        ],
+        "Kawasaki's syndrome": [
+            "Kawasaki's syndrome"
+        ],
+        "Herpes simplex": [
+            "Herpes simplex"
+        ],
+        "Atopic dermatitis": [
+            "Atopic dermatitis"
+        ],
+        "Seborrheic dermatitis": [
+            "Seborrheic dermatitis"
+        ],
+        "Thalassemia": [
+            "Thalassemia"
+        ],
+        "Neonatal erythema toxicum": [
+            "Neonatal erythema toxicum",
+            "ETN - Erythema toxicum neonatorum",
+            "Neonatal lupus",
+            "Neonatal ITP",
+            "Neonatal lupus erythematosus"
+        ],
+        "Pityriasis versicolor": [
+            "Pityriasis versicolor"
+        ],
+        "Sturge-Weber disease": [
+            "Sturge-Weber disease"
+        ],
+        "Contact dermatitis": [
+            "Dermatitis",
+            "Birth dermatitis",
+            "Contact dermatitis",
+            "Allergic contact dermatitis"
+        ],
+        "Hemophilia": [
+            "Hemophilia"
+        ],
+        "Dengue hemorrhagic fever": [
+            "Dengue hemorrhagic fever"
+        ],
+        "Eczema herpeticum": [
+            "Eczema herpeticum"
+        ],
+        "MAHA - Microangiopathic hemolytic anemia": [
+            "MAHA - Microangiopathic hemolytic anemia"
+        ],
+        "Purpura and other hemorrhagic conditions": [
+            "Purpura and other hemorrhagic conditions"
+        ],
+        "Hereditary spherocytosis": [
+            "Hereditary spherocytosis"
+        ],
+        "Hemolytic disease of fetus OR newborn due to RhD isoimmunization": [
+            "Hemolytic disease of fetus OR newborn due to Rh isoimmunization",
+            "Rh isoimmunisation of the newborn",
+            "Haemolytic disease of fetus OR newborn due to RhD isoimmunisation"
+        ],
+        "Petechiae in fetus OR newborn": [
+            "Petechiae in fetus OR newborn"
+        ],
+        "HPA - Hemangiopericytoma": [
+            "HPA - Hemangiopericytoma"
+        ],
+        "CMV - Cytomegalovirus infection": [
+            "CMV - Cytomegalovirus infection",
+            "Parvovirus infection, unspecified"
+        ],
+        "Idiopathic urticaria": [
+            "Idiopathic urticaria"
+        ],
+        "Hormone rash": [
+            "Hormone rash"
+        ],
+        "Chlamydia infection": [
+            "Chlamydia infection"
+        ],
+        "Gonorrhea": [
+            "Gonorrhea"
+        ],
+        "Severe sepsis with acute organ dysfunction due to Group B streptococcus": [
+            "Severe sepsis with acute organ dysfunction due to Group B streptococcus"
+        ],
+        "Toxoplasmosis": [
+            "Toxoplasmosis",
+            "Infection by Toxoplasma gondii"
+        ],
+        "Cytomegaloviral (CMV) pneumonia": [
+            "Cytomegaloviral (CMV) pneumonia"
+        ],
+        "Vasculitis": [
+            "Vasculitis"
+        ],
+        "HSP - Henoch-Schonlein purpura": [
+            "Henoch-Schonlein purpura",
+            "HSP - Henoch-Schonlein purpura"
+        ],
+        "Infantile acute hemorrhagic edema": [
+            "Infantile acute hemorrhagic edema"
+        ],
+        "Hemolytic disease of fetus OR newborn due to isoimmunization": [
+            "EF - Erythroblastosis fetalis",
+            "HDN - Hemolytic disease of the newborn"
+        ],
+        "Blood coagulation disorder": [
+            "clotting disorder",
+            "Coagulopathy",
+            "Bleeding disorder"
+        ],
+        "Viral meningitis": [
+            "Viral meningitis"
+        ],
+        "Neonatal acne": [
+            "Neonatal acne",
+            "Acne neonatorum"
+        ],
+        "Mother antibodies to infant platelets": [
+            "Mother antibodies to infant platelets"
+        ],
+        "Evans syndrome": [
+            "Evans syndrome"
+        ],
+        "Mother itp": [
+            "Mother itp"
+        ],
+        "Birth trauma": [
+            "Birth trauma"
+        ],
+        "Pre-eclampsia": [
+            "Pre-eclampsia"
+        ],
+        "Measles": [
+            "measles"
+        ],
+        "traumatic delivery": [
+            "traumatic delivery"
+        ],
+        "Splenic pancytopenia syndrome": [
+            "Splenic pancytopenia syndrome"
+        ],
+        "Superficial acne vulgaris": [
+            "Superficial acne vulgaris"
+        ],
+        "Scalded skin syndrome": [
+            "Scalded skin syndrome"
+        ],
+        "Autoimmune hepatitis": [
+            "Autoimmune hepatitis"
+        ],
+        "Viral hepatitis": [
+            "Viral hepatitis"
+        ],
+        "Congenital rubella syndrome": [
+            "Congenital rubella syndrome",
+            "Congenital rubella"
+        ],
+        "Allergic urticaria": [
+            "Allergic urticaria"
+        ],
+        "Streptococcal sepsis, unspecified": [
+            "Streptococcal sepsis, unspecified"
+        ],
+        "Hemolysis": [
+            "Hemolysis"
+        ],
+        "Congenital infectious disease": [
+            "Congenital infectious disease"
+        ],
+        "Thrombo": [
+            "Thrombo"
+        ],
+        "Herpes gestationis - delivered with postnatal complication": [
+            "Herpes gestationis - delivered with postnatal complication"
+        ],
+        "Congenital cytomegalovirus infection": [
+            "Congenital cytomegalovirus infection"
+        ],
+        "Congenital syphilis": [
+            "Congenital syphilis"
+        ],
+        "Haemophilia": [
+            "Haemophilia"
+        ],
+        "Spotted fever [tick-borne rickettsioses]": [
+            "Spotted fever [tick-borne rickettsioses]"
+        ],
+        "Rash and other nonspecific skin eruption": [
+            "Rash and other nonspecific skin eruption"
+        ],
+        "Congenital infection (TORCH)": [
+            "Congenital infection (TORCH)"
+        ],
+        "Group B streptococcal disease of the newborn": [
+            "Group B streptococcal disease of the newborn"
+        ],
+        "Glanzmann thromboasthenia": [
+            "Glanzmann thromboasthenia"
+        ],
+        "Bernard-Soulier syndrome": [
+            "Bernard-Soulier syndrome"
+        ],
+        "Hermansky Pudlak syndrome": [
+            "Hermansky Pudlak syndrome"
+        ],
+        "Thrombocytopenia due to sequestration": [
+            "Thrombocytopenia due to sequestration"
+        ],
+        "Streptococcal toxic shock syndrome": [
+            "Streptococcal toxic shock syndrome"
+        ],
+        "Ichthyosis linearis circumflexa": [
+            "Ichthyosis linearis circumflexa"
+        ],
+        "Nuchal cord": [
+            "Nuchal cord"
+        ],
+        "GBS meningitis": [
+            "GBS meningitis"
+        ],
+        "Cmv": [
+            "Cmv"
+        ],
+        "HUS - Haemolytic uraemic syndrome": [
+            "HUS - Haemolytic uraemic syndrome"
+        ],
+        "Gbs septicemia": [
+            "Gbs septicemia"
+        ],
+        "Hemotoma": [
+            "Hemotoma"
+        ],
+        "GBS bacteremia": [
+            "GBS bacteremia"
+        ],
+        "E. Coli bacteremia": [
+            "E. Coli bacteremia"
+        ],
+        "von Willebrand's disease": [
+            "Von Willebrand's disease"
+        ],
+        "Haemophila a": [
+            "Haemophila a"
+        ],
+        "Vit k def": [
+            "Vit k def"
+        ],
+        "Liver failure": [
+            "Liver failure"
+        ],
+        "Bone marrow failure syndrome": [
+            "Bone marrow failure syndrome"
+        ],
+        "Fanconi's anaemia": [
+            "Fanconi anemia",
+            "Fanconi pancytopenia syndrome"
+        ],
+        "Neonatal facial petechiae": [
+            "Neonatal facial petechiae"
+        ],
+        "Coombs positive haemolytic anaemia": [
+            "Coombs positive haemolytic anaemia"
+        ],
+        "Congenital toxoplasmosis": [
+            "Congenital toxoplasmosis"
+        ],
+        "Purpura fulminans": [
+            "Purpura fulminans"
+        ],
+        "Transient neonatal pustular melanosis": [
+            "Transient neonatal pustular melanosis"
+        ],
+        "Babesiosis": [
+            "Babesiosis"
+        ],
+        "Ehrlichiosis": [
+            "Ehrlichiosis"
+        ],
+        "Duffy isoimmunisation of the newborn": [
+            "Duffy isoimmunisation of the newborn"
+        ],
+        "Haemorrhagic disease of the newborn due to factor II deficiency": [
+            "Haemorrhagic disease of the newborn due to factor II deficiency"
+        ],
+        "Neonatal petechiae": [
+            "Neonatal petechiae"
+        ],
+        "Erythema toxicum": [
+            "Erythema toxicum"
+        ],
+        "Strep": [
+            "Strep"
+        ],
+        "Intravascukar hemolysis": [
+            "Intravascukar hemolysis"
+        ],
+        "Maternal antiplatelet antibodies": [
+            "Maternal antiplatelet antibodies"
+        ],
+        "Hemangioma platelet consumption": [
+            "Hemangioma platelet consumption"
+        ],
+        "Anaemia due to ABO incompatibility in the newborn": [
+            "Anaemia due to ABO incompatibility in the newborn"
+        ],
+        "WAS - Wiskott-Aldrich syndrome": [
+            "WAS - Wiskott-Aldrich syndrome"
+        ],
+        "myelosuppression": [
+            "myelosuppression"
+        ],
+        "Acute lymphoblastic leukemia": [
+            "Acute lymphoblastic leukemia"
+        ],
+        "Vitamin D deficiency": [
+            "Vitamin D deficiency"
+        ],
+        "Group B streptococcus infection in mother complicating childbirth": [
+            "Group B streptococcus infection in mother complicating childbirth"
+        ],
+        "Malignancy": [
+            "Malignancy"
+        ],
+        "Asphyxia, in liveborn infant": [
+            "Asphyxia, in liveborn infant"
+        ],
+        "Roseola infantum (HHV 6)": [
+            "Roseola infantum (HHV 6)"
+        ],
+        "Newborn affected by maternal systemic lupus erythematosus": [
+            "Newborn affected by maternal systemic lupus erythematosus"
+        ],
+        "Traumatic birth": [
+            "Traumatic birth"
+        ],
+        "Maternal incompatibility": [
+            "Maternal incompatibility"
+        ],
+        "Newborn rash": [
+            "Newborn rash"
+        ],
+        "Acute meningococcemia": [
+            "Acute meningococcemia"
+        ],
+        "Congenital CMV": [
+            "Congenital CMV"
+        ],
+        "Herpesviral vesicular dermatitis": [
+            "Herpesviral vesicular dermatitis"
+        ],
+        "Hemorrhagic disease of newborn": [
+            "Hemorrhagic disease of newborn"
+        ],
+        "Pancytopenia": [
+            "Pancytopenia"
+        ],
+        "Missed vitamin k": [
+            "Missed vitamin k"
+        ],
+        "Haemorrhagic disease of the newborn": [
+            "Haemorrhagic disease of the newborn"
+        ],
+        "Lupus erythematosus": [
+            "Lupus erythematosus"
+        ]
+    },
+    "0.25-dx_0.5-official": {
+        "Cytomegaloviral disease, unspecified": [
+            "Cytomegaloviral disease, unspecified"
+        ],
+        "Infective endocarditis": [
+            "Infective endocarditis"
+        ],
+        "Hantavirus pulmonary syndrome": [
+            "Hantavirus pulmonary syndrome",
+            "HUS - Haemolytic uraemic syndrome"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Meningococcemia, unspecified": [
+            "Meningococcemia, unspecified",
+            "GBS meningitis"
+        ],
+        "Infectious mononucleosis": [
+            "Infectious mononucleosis"
+        ],
+        "Immune thrombocytopenic purpura": [
+            "Thrombocytopenia",
+            "Autoimmune thrombotic thrombocytopenic purpura (TTP)",
+            "Heparin induced thrombocytopenia (HIT)",
+            "Sepsis",
+            "Immune thrombocytopenic purpura",
+            "Immunrelated thrombopenia",
+            "ITP - Idiopathic thrombocytopenic purpura",
+            "Congenital thrombocytopenia",
+            "Bacterial sepsis of newborn",
+            "Maternal autoimmune thrombocytopenia",
+            "Hemolytic disease of newborn, unspecified",
+            "Fetal hydantoin syndrome",
+            "Neonatal alloimmune thrombocytopenia",
+            "Neonatal erythema toxicum",
+            "Petechiae in fetus OR newborn",
+            "Henoch-Schonlein purpura",
+            "TAR - Thrombocytopenia with absent radius syndrome",
+            "Autoimmune thrombocytopenia",
+            "measles",
+            "HSP - Henoch-Schonlein purpura",
+            "Splenic pancytopenia syndrome",
+            "Scalded skin syndrome",
+            "Acquired thrombotic thrombocytopenic purpura (TTP)",
+            "Congenital rubella syndrome",
+            "Streptococcal sepsis, unspecified",
+            "Congenital infectious disease",
+            "Thrombo",
+            "Idiopathic thrombocytopenic purpura",
+            "Neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia",
+            "Congenital cytomegalovirus infection",
+            "Congenital syphilis",
+            "Congenital rubella",
+            "Neonatal thrombocytopenia due to platelet alloimmunization",
+            "Congenital infection (TORCH)",
+            "ANT - Alloimmune neonatal thrombocytopenia",
+            "Glanzmann thromboasthenia",
+            "Bernard-Soulier syndrome",
+            "Hermansky Pudlak syndrome",
+            "Neonatal thrombocytopenia",
+            "Thrombocytopenia due to sequestration",
+            "NAIT neonatal alloimmune thrombocytopenia",
+            "Neonatal thrombocytopenia due to isoimmunization",
+            "Acute idiopathic thrombocytopenic purpura",
+            "Durg induced thrombocytopenia",
+            "TTP",
+            "Hemotoma",
+            "Post-transfusion thrombocytopenic purpura",
+            "Early onset sepsis",
+            "NAIT",
+            "Itp",
+            "Fanconi anemia",
+            "Neonatal facial petechiae",
+            "Neonatal lupus",
+            "Congenital toxoplasmosis",
+            "Congenital thrombocytopenic purpura",
+            "Neonatal petechiae",
+            "Alloimmune neonatal thrombocytopenia",
+            "Thrombocytopenia due to extracorporeal circulation of blood",
+            "Erythema toxicum",
+            "Idiopathic immune thrombocytopenia",
+            "Neonatal ITP",
+            "Thrombocytopenia-absent radii syndrome",
+            "Autoimmune thrombotic thrombocytopenic purpura",
+            "Neonatal thrombocytopenia associated with maternal idiopathic thrombocytopenic purpura",
+            "Immune thrombocytopenia",
+            "Neonatal lupus erythematosus",
+            "TTP - Thrombotic thrombocytopenic purpura",
+            "Thrombocytopaenia",
+            "Fanconi pancytopenia syndrome",
+            "Pancytopenia",
+            "Lupus erythematosus"
+        ],
+        "Hemolytic anemia": [
+            "Hemolytic anemia"
+        ],
+        "Syphilis": [
+            "Syphilis"
+        ],
+        "Rubella": [
+            "Toxoplasmosis, other infections, rubella, cytomegalovirus, and herpes simplex virus (TORCH) syndrome",
+            "Rubella"
+        ],
+        "Histiocytosis x, multisystemic": [
+            "Histiocytosis x, multisystemic"
+        ],
+        "Roseola infantum, unspecified": [
+            "Roseola infantum, unspecified"
+        ],
+        "Drug reaction AND/OR intoxication specific to newborn": [
+            "Drug reaction AND/OR intoxication specific to newborn"
+        ],
+        "Varicella": [
+            "Varicella"
+        ],
+        "Rocky Mountain spotted fever": [
+            "Rocky Mountain spotted fever"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "NEC - Necrotising enterocolitis": [
+            "NEC - Necrotising enterocolitis"
+        ],
+        "Meningococcal meningitis": [
+            "Meningococcal meningitis"
+        ],
+        "Sebastian platelet syndrom": [
+            "Sebastian platelet syndrom"
+        ],
+        "Qualitative platelet defects": [
+            "Qualitative platelet defects"
+        ],
+        "Listeriosis": [
+            "Listeriosis"
+        ],
+        "Rubeola scarlatinosa": [
+            "Rubeola scarlatinosa"
+        ],
+        "Warfarin effects on fetus": [
+            "Warfarin effects on fetus"
+        ],
+        "von Willebrand's disease": [
+            "Collagen vascular disease nos",
+            "Von Willebrand's disease"
+        ],
+        "Defibrination syndrome": [
+            "DIC - Disseminated intravascular coagulation",
+            "DIC",
+            "Intravascukar hemolysis"
+        ],
+        "Deficiency of vitamin K": [
+            "Deficiency of vitamin K",
+            "Vitamin k deficiency"
+        ],
+        "Scarlet fever": [
+            "Scarlet fever"
+        ],
+        "Kawasaki's syndrome": [
+            "Kawasaki's syndrome"
+        ],
+        "Herpes simplex": [
+            "Herpes simplex"
+        ],
+        "Atopic dermatitis": [
+            "Atopic dermatitis"
+        ],
+        "Seborrheic dermatitis": [
+            "Seborrheic dermatitis"
+        ],
+        "Thalassemia": [
+            "Thalassemia"
+        ],
+        "Pityriasis versicolor": [
+            "Pityriasis versicolor"
+        ],
+        "Sturge-Weber disease": [
+            "Sturge-Weber disease"
+        ],
+        "Contact dermatitis": [
+            "Dermatitis",
+            "Birth dermatitis",
+            "Contact dermatitis",
+            "Allergic contact dermatitis"
+        ],
+        "Hemophilia": [
+            "Hemophilia"
+        ],
+        "Dengue hemorrhagic fever": [
+            "Dengue hemorrhagic fever",
+            "Haemorrhagic disease of the newborn"
+        ],
+        "Eczema herpeticum": [
+            "Eczema herpeticum"
+        ],
+        "MAHA - Microangiopathic hemolytic anemia": [
+            "MAHA - Microangiopathic hemolytic anemia"
+        ],
+        "Purpura and other hemorrhagic conditions": [
+            "Purpura and other hemorrhagic conditions"
+        ],
+        "Hereditary spherocytosis": [
+            "Hereditary spherocytosis"
+        ],
+        "Hemolytic disease of fetus OR newborn due to RhD isoimmunization": [
+            "Hemolytic disease of fetus OR newborn due to Rh isoimmunization",
+            "Group B streptococcal disease of the newborn",
+            "Rh isoimmunisation of the newborn",
+            "Haemolytic disease of fetus OR newborn due to RhD isoimmunisation"
+        ],
+        "HPA - Hemangiopericytoma": [
+            "HPA - Hemangiopericytoma"
+        ],
+        "Meningitis": [
+            "Meningitis"
+        ],
+        "CMV - Cytomegalovirus infection": [
+            "CMV - Cytomegalovirus infection",
+            "Parvovirus infection, unspecified"
+        ],
+        "Idiopathic urticaria": [
+            "Idiopathic urticaria"
+        ],
+        "Hormone rash": [
+            "Hormone rash"
+        ],
+        "Chlamydia infection": [
+            "Chlamydia infection"
+        ],
+        "Gonorrhea": [
+            "Gonorrhea"
+        ],
+        "Severe sepsis with acute organ dysfunction due to Group B streptococcus": [
+            "Severe sepsis with acute organ dysfunction due to Group B streptococcus"
+        ],
+        "Toxoplasmosis": [
+            "Toxoplasmosis",
+            "Infection by Toxoplasma gondii"
+        ],
+        "Cytomegaloviral (CMV) pneumonia": [
+            "Cytomegaloviral (CMV) pneumonia"
+        ],
+        "Vasculitis": [
+            "Vasculitis"
+        ],
+        "Infantile acute hemorrhagic edema": [
+            "Infantile acute hemorrhagic edema"
+        ],
+        "Hemolytic disease of fetus OR newborn due to isoimmunization": [
+            "EF - Erythroblastosis fetalis",
+            "HDN - Hemolytic disease of the newborn"
+        ],
+        "Blood coagulation disorder": [
+            "clotting disorder",
+            "Coagulopathy",
+            "Bleeding disorder"
+        ],
+        "Viral meningitis": [
+            "Viral meningitis"
+        ],
+        "Neonatal acne": [
+            "Neonatal acne",
+            "Acne neonatorum"
+        ],
+        "Mother antibodies to infant platelets": [
+            "Mother antibodies to infant platelets"
+        ],
+        "Evans syndrome": [
+            "Evans syndrome"
+        ],
+        "Mother itp": [
+            "Mother itp"
+        ],
+        "Birth trauma": [
+            "Birth trauma"
+        ],
+        "Pre-eclampsia": [
+            "Pre-eclampsia"
+        ],
+        "traumatic delivery": [
+            "traumatic delivery"
+        ],
+        "Superficial acne vulgaris": [
+            "Superficial acne vulgaris"
+        ],
+        "ETN - Erythema toxicum neonatorum": [
+            "ETN - Erythema toxicum neonatorum"
+        ],
+        "Autoimmune hepatitis": [
+            "Autoimmune hepatitis"
+        ],
+        "Viral hepatitis": [
+            "Viral hepatitis"
+        ],
+        "Allergic urticaria": [
+            "Allergic urticaria"
+        ],
+        "Hemolysis": [
+            "Hemolysis"
+        ],
+        "Herpes gestationis - delivered with postnatal complication": [
+            "Herpes gestationis - delivered with postnatal complication"
+        ],
+        "Haemophilia": [
+            "Haemophilia"
+        ],
+        "Spotted fever [tick-borne rickettsioses]": [
+            "Spotted fever [tick-borne rickettsioses]"
+        ],
+        "Rash and other nonspecific skin eruption": [
+            "Rash and other nonspecific skin eruption"
+        ],
+        "Streptococcal toxic shock syndrome": [
+            "Streptococcal toxic shock syndrome"
+        ],
+        "Ichthyosis linearis circumflexa": [
+            "Ichthyosis linearis circumflexa"
+        ],
+        "Nuchal cord": [
+            "Nuchal cord"
+        ],
+        "Cmv": [
+            "Cmv"
+        ],
+        "Gbs septicemia": [
+            "Gbs septicemia"
+        ],
+        "GBS bacteremia": [
+            "GBS bacteremia"
+        ],
+        "E. Coli bacteremia": [
+            "E. Coli bacteremia"
+        ],
+        "Haemophila a": [
+            "Haemophila a"
+        ],
+        "Vit k def": [
+            "Vit k def"
+        ],
+        "Liver failure": [
+            "Liver failure"
+        ],
+        "Bone marrow failure syndrome": [
+            "Bone marrow failure syndrome"
+        ],
+        "Coombs positive haemolytic anaemia": [
+            "Coombs positive haemolytic anaemia"
+        ],
+        "Purpura fulminans": [
+            "Purpura fulminans"
+        ],
+        "Transient neonatal pustular melanosis": [
+            "Transient neonatal pustular melanosis"
+        ],
+        "Babesiosis": [
+            "Babesiosis"
+        ],
+        "Ehrlichiosis": [
+            "Ehrlichiosis"
+        ],
+        "Duffy isoimmunisation of the newborn": [
+            "Duffy isoimmunisation of the newborn"
+        ],
+        "Haemorrhagic disease of the newborn due to factor II deficiency": [
+            "Haemorrhagic disease of the newborn due to factor II deficiency"
+        ],
+        "Strep": [
+            "Strep"
+        ],
+        "Maternal antiplatelet antibodies": [
+            "Maternal antiplatelet antibodies"
+        ],
+        "Hemangioma platelet consumption": [
+            "Hemangioma platelet consumption"
+        ],
+        "Anaemia due to ABO incompatibility in the newborn": [
+            "Anaemia due to ABO incompatibility in the newborn"
+        ],
+        "WAS - Wiskott-Aldrich syndrome": [
+            "WAS - Wiskott-Aldrich syndrome"
+        ],
+        "myelosuppression": [
+            "myelosuppression"
+        ],
+        "Acute lymphoblastic leukemia": [
+            "Acute lymphoblastic leukemia"
+        ],
+        "Vitamin D deficiency": [
+            "Vitamin D deficiency"
+        ],
+        "Group B streptococcus infection in mother complicating childbirth": [
+            "Group B streptococcus infection in mother complicating childbirth"
+        ],
+        "Malignancy": [
+            "Malignancy"
+        ],
+        "Asphyxia, in liveborn infant": [
+            "Asphyxia, in liveborn infant"
+        ],
+        "Sepsis with cutaneous manifestations": [
+            "Sepsis with cutaneous manifestations"
+        ],
+        "Roseola infantum (HHV 6)": [
+            "Roseola infantum (HHV 6)"
+        ],
+        "Newborn affected by maternal systemic lupus erythematosus": [
+            "Newborn affected by maternal systemic lupus erythematosus"
+        ],
+        "Traumatic birth": [
+            "Traumatic birth"
+        ],
+        "Maternal incompatibility": [
+            "Maternal incompatibility"
+        ],
+        "Newborn rash": [
+            "Newborn rash"
+        ],
+        "FNAIT": [
+            "FNAIT"
+        ],
+        "Acute meningococcemia": [
+            "Acute meningococcemia"
+        ],
+        "Congenital CMV": [
+            "Congenital CMV"
+        ],
+        "Herpesviral vesicular dermatitis": [
+            "Herpesviral vesicular dermatitis"
+        ],
+        "Hemorrhagic disease of newborn": [
+            "Hemorrhagic disease of newborn"
+        ],
+        "Missed vitamin k": [
+            "Missed vitamin k"
+        ]
+    },
+    "0.5-dx_0.5-official": {
+        "CMV - Cytomegalovirus infection": [
+            "Cytomegaloviral disease, unspecified",
+            "CMV - Cytomegalovirus infection",
+            "Parvovirus infection, unspecified"
+        ],
+        "Infective endocarditis": [
+            "Infective endocarditis"
+        ],
+        "Hantavirus pulmonary syndrome": [
+            "Hantavirus pulmonary syndrome"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Meningococcemia, unspecified": [
+            "Meningococcemia, unspecified"
+        ],
+        "Infectious mononucleosis": [
+            "Infectious mononucleosis"
+        ],
+        "Immune thrombocytopenic purpura": [
+            "Thrombocytopenia",
+            "Autoimmune thrombotic thrombocytopenic purpura (TTP)",
+            "Heparin induced thrombocytopenia (HIT)",
+            "Immune thrombocytopenic purpura",
+            "Immunrelated thrombopenia",
+            "ITP - Idiopathic thrombocytopenic purpura",
+            "Congenital thrombocytopenia",
+            "Maternal autoimmune thrombocytopenia",
+            "Neonatal alloimmune thrombocytopenia",
+            "TAR - Thrombocytopenia with absent radius syndrome",
+            "Autoimmune thrombocytopenia",
+            "Acquired thrombotic thrombocytopenic purpura (TTP)",
+            "Idiopathic thrombocytopenic purpura",
+            "Neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia",
+            "Neonatal thrombocytopenia due to platelet alloimmunization",
+            "ANT - Alloimmune neonatal thrombocytopenia",
+            "Neonatal thrombocytopenia",
+            "NAIT neonatal alloimmune thrombocytopenia",
+            "Neonatal thrombocytopenia due to isoimmunization",
+            "Acute idiopathic thrombocytopenic purpura",
+            "Durg induced thrombocytopenia",
+            "TTP",
+            "Post-transfusion thrombocytopenic purpura",
+            "NAIT",
+            "Itp",
+            "Congenital thrombocytopenic purpura",
+            "Alloimmune neonatal thrombocytopenia",
+            "Thrombocytopenia due to extracorporeal circulation of blood",
+            "Idiopathic immune thrombocytopenia",
+            "Thrombocytopenia-absent radii syndrome",
+            "Autoimmune thrombotic thrombocytopenic purpura",
+            "Neonatal thrombocytopenia associated with maternal idiopathic thrombocytopenic purpura",
+            "Immune thrombocytopenia",
+            "TTP - Thrombotic thrombocytopenic purpura",
+            "Thrombocytopaenia"
+        ],
+        "Hemolytic anemia": [
+            "Hemolytic anemia"
+        ],
+        "Syphilis": [
+            "Syphilis",
+            "Congenital syphilis"
+        ],
+        "Herpes simplex": [
+            "Toxoplasmosis, other infections, rubella, cytomegalovirus, and herpes simplex virus (TORCH) syndrome",
+            "Herpes simplex"
+        ],
+        "Histiocytosis x, multisystemic": [
+            "Histiocytosis x, multisystemic"
+        ],
+        "Roseola infantum, unspecified": [
+            "Roseola infantum, unspecified"
+        ],
+        "Bacterial sepsis of newborn": [
+            "Sepsis",
+            "Bacterial sepsis of newborn",
+            "Sepsis with cutaneous manifestations"
+        ],
+        "Drug reaction AND/OR intoxication specific to newborn": [
+            "Drug reaction AND/OR intoxication specific to newborn"
+        ],
+        "Varicella": [
+            "Varicella"
+        ],
+        "Rocky Mountain spotted fever": [
+            "Rocky Mountain spotted fever"
+        ],
+        "Human immunodeficiency virus disease": [
+            "Human immunodeficiency virus disease"
+        ],
+        "NEC - Necrotising enterocolitis": [
+            "NEC - Necrotising enterocolitis"
+        ],
+        "Meningococcal meningitis": [
+            "Meningococcal meningitis",
+            "Viral meningitis",
+            "GBS meningitis"
+        ],
+        "Sebastian platelet syndrom": [
+            "Sebastian platelet syndrom"
+        ],
+        "Qualitative platelet defects": [
+            "Qualitative platelet defects"
+        ],
+        "Listeriosis": [
+            "Listeriosis"
+        ],
+        "Hemolytic disease of newborn, unspecified": [
+            "Hemolytic disease of newborn, unspecified",
+            "Group B streptococcal disease of the newborn"
+        ],
+        "Rubeola scarlatinosa": [
+            "Rubeola scarlatinosa"
+        ],
+        "Fetal hydantoin syndrome": [
+            "Fetal hydantoin syndrome"
+        ],
+        "Warfarin effects on fetus": [
+            "Warfarin effects on fetus"
+        ],
+        "Collagen vascular disease nos": [
+            "Collagen vascular disease nos"
+        ],
+        "Defibrination syndrome": [
+            "DIC - Disseminated intravascular coagulation",
+            "DIC"
+        ],
+        "Deficiency of vitamin K": [
+            "Deficiency of vitamin K",
+            "Vitamin k deficiency"
+        ],
+        "Scarlet fever": [
+            "Scarlet fever"
+        ],
+        "Kawasaki's syndrome": [
+            "Kawasaki's syndrome"
+        ],
+        "Atopic dermatitis": [
+            "Atopic dermatitis"
+        ],
+        "Seborrheic dermatitis": [
+            "Seborrheic dermatitis"
+        ],
+        "Thalassemia": [
+            "Thalassemia"
+        ],
+        "Neonatal erythema toxicum": [
+            "Neonatal erythema toxicum",
+            "ETN - Erythema toxicum neonatorum",
+            "Neonatal lupus",
+            "Neonatal lupus erythematosus"
+        ],
+        "Pityriasis versicolor": [
+            "Pityriasis versicolor"
+        ],
+        "Sturge-Weber disease": [
+            "Sturge-Weber disease"
+        ],
+        "Dermatitis": [
+            "Dermatitis"
+        ],
+        "Hemophilia": [
+            "Hemophilia",
+            "Haemophilia"
+        ],
+        "Dengue hemorrhagic fever": [
+            "Dengue hemorrhagic fever"
+        ],
+        "Eczema herpeticum": [
+            "Eczema herpeticum"
+        ],
+        "MAHA - Microangiopathic hemolytic anemia": [
+            "MAHA - Microangiopathic hemolytic anemia"
+        ],
+        "Purpura and other hemorrhagic conditions": [
+            "Purpura and other hemorrhagic conditions"
+        ],
+        "Hereditary spherocytosis": [
+            "Hereditary spherocytosis"
+        ],
+        "Hemolytic disease of fetus OR newborn due to RhD isoimmunization": [
+            "Hemolytic disease of fetus OR newborn due to Rh isoimmunization",
+            "Rh isoimmunisation of the newborn",
+            "Haemolytic disease of fetus OR newborn due to RhD isoimmunisation"
+        ],
+        "Contact dermatitis": [
+            "Birth dermatitis",
+            "Contact dermatitis"
+        ],
+        "Petechiae in fetus OR newborn": [
+            "Petechiae in fetus OR newborn"
+        ],
+        "HPA - Hemangiopericytoma": [
+            "HPA - Hemangiopericytoma"
+        ],
+        "Meningitis": [
+            "Meningitis"
+        ],
+        "Idiopathic urticaria": [
+            "Idiopathic urticaria"
+        ],
+        "Hormone rash": [
+            "Hormone rash"
+        ],
+        "Chlamydia infection": [
+            "Chlamydia infection"
+        ],
+        "Gonorrhea": [
+            "Gonorrhea"
+        ],
+        "Severe sepsis with acute organ dysfunction due to Group B streptococcus": [
+            "Severe sepsis with acute organ dysfunction due to Group B streptococcus"
+        ],
+        "Toxoplasmosis": [
+            "Toxoplasmosis",
+            "Infection by Toxoplasma gondii"
+        ],
+        "Congenital rubella syndrome": [
+            "Rubella",
+            "Congenital rubella syndrome",
+            "Congenital rubella"
+        ],
+        "Cytomegaloviral (CMV) pneumonia": [
+            "Cytomegaloviral (CMV) pneumonia"
+        ],
+        "Vasculitis": [
+            "Vasculitis"
+        ],
+        "HSP - Henoch-Schonlein purpura": [
+            "Henoch-Schonlein purpura",
+            "HSP - Henoch-Schonlein purpura"
+        ],
+        "Infantile acute hemorrhagic edema": [
+            "Infantile acute hemorrhagic edema"
+        ],
+        "Hemolytic disease of fetus OR newborn due to isoimmunization": [
+            "EF - Erythroblastosis fetalis",
+            "HDN - Hemolytic disease of the newborn"
+        ],
+        "Blood coagulation disorder": [
+            "clotting disorder",
+            "Coagulopathy",
+            "Bleeding disorder"
+        ],
+        "Neonatal acne": [
+            "Neonatal acne",
+            "Acne neonatorum"
+        ],
+        "Mother antibodies to infant platelets": [
+            "Mother antibodies to infant platelets"
+        ],
+        "Evans syndrome": [
+            "Evans syndrome"
+        ],
+        "Mother itp": [
+            "Mother itp"
+        ],
+        "Birth trauma": [
+            "Birth trauma"
+        ],
+        "Pre-eclampsia": [
+            "Pre-eclampsia"
+        ],
+        "Measles": [
+            "measles"
+        ],
+        "traumatic delivery": [
+            "traumatic delivery"
+        ],
+        "Splenic pancytopenia syndrome": [
+            "Splenic pancytopenia syndrome"
+        ],
+        "Superficial acne vulgaris": [
+            "Superficial acne vulgaris"
+        ],
+        "Scalded skin syndrome": [
+            "Scalded skin syndrome"
+        ],
+        "Autoimmune hepatitis": [
+            "Autoimmune hepatitis"
+        ],
+        "Viral hepatitis": [
+            "Viral hepatitis"
+        ],
+        "Allergic contact dermatitis": [
+            "Allergic contact dermatitis"
+        ],
+        "Allergic urticaria": [
+            "Allergic urticaria"
+        ],
+        "Streptococcal sepsis, unspecified": [
+            "Streptococcal sepsis, unspecified"
+        ],
+        "Hemolysis": [
+            "Hemolysis"
+        ],
+        "Congenital infectious disease": [
+            "Congenital infectious disease"
+        ],
+        "Thrombo": [
+            "Thrombo"
+        ],
+        "Herpes gestationis - delivered with postnatal complication": [
+            "Herpes gestationis - delivered with postnatal complication"
+        ],
+        "Congenital cytomegalovirus infection": [
+            "Congenital cytomegalovirus infection"
+        ],
+        "Spotted fever [tick-borne rickettsioses]": [
+            "Spotted fever [tick-borne rickettsioses]"
+        ],
+        "Rash and other nonspecific skin eruption": [
+            "Rash and other nonspecific skin eruption"
+        ],
+        "Congenital infection (TORCH)": [
+            "Congenital infection (TORCH)"
+        ],
+        "Glanzmann thromboasthenia": [
+            "Glanzmann thromboasthenia"
+        ],
+        "Bernard-Soulier syndrome": [
+            "Bernard-Soulier syndrome"
+        ],
+        "Hermansky Pudlak syndrome": [
+            "Hermansky Pudlak syndrome"
+        ],
+        "Thrombocytopenia due to sequestration": [
+            "Thrombocytopenia due to sequestration"
+        ],
+        "Streptococcal toxic shock syndrome": [
+            "Streptococcal toxic shock syndrome"
+        ],
+        "Ichthyosis linearis circumflexa": [
+            "Ichthyosis linearis circumflexa"
+        ],
+        "Nuchal cord": [
+            "Nuchal cord"
+        ],
+        "Cmv": [
+            "Cmv"
+        ],
+        "HUS - Haemolytic uraemic syndrome": [
+            "HUS - Haemolytic uraemic syndrome"
+        ],
+        "Gbs septicemia": [
+            "Gbs septicemia"
+        ],
+        "Hemotoma": [
+            "Hemotoma"
+        ],
+        "Early onset sepsis": [
+            "Early onset sepsis"
+        ],
+        "GBS bacteremia": [
+            "GBS bacteremia"
+        ],
+        "E. Coli bacteremia": [
+            "E. Coli bacteremia"
+        ],
+        "von Willebrand's disease": [
+            "Von Willebrand's disease"
+        ],
+        "Haemophila a": [
+            "Haemophila a"
+        ],
+        "Vit k def": [
+            "Vit k def"
+        ],
+        "Liver failure": [
+            "Liver failure"
+        ],
+        "Bone marrow failure syndrome": [
+            "Bone marrow failure syndrome"
+        ],
+        "Fanconi's anaemia": [
+            "Fanconi anemia",
+            "Fanconi pancytopenia syndrome"
+        ],
+        "Neonatal facial petechiae": [
+            "Neonatal facial petechiae"
+        ],
+        "Coombs positive haemolytic anaemia": [
+            "Coombs positive haemolytic anaemia"
+        ],
+        "Congenital toxoplasmosis": [
+            "Congenital toxoplasmosis"
+        ],
+        "Purpura fulminans": [
+            "Purpura fulminans"
+        ],
+        "Transient neonatal pustular melanosis": [
+            "Transient neonatal pustular melanosis"
+        ],
+        "Babesiosis": [
+            "Babesiosis"
+        ],
+        "Ehrlichiosis": [
+            "Ehrlichiosis"
+        ],
+        "Duffy isoimmunisation of the newborn": [
+            "Duffy isoimmunisation of the newborn"
+        ],
+        "Haemorrhagic disease of the newborn due to factor II deficiency": [
+            "Haemorrhagic disease of the newborn due to factor II deficiency"
+        ],
+        "Neonatal petechiae": [
+            "Neonatal petechiae"
+        ],
+        "Erythema toxicum": [
+            "Erythema toxicum"
+        ],
+        "Strep": [
+            "Strep"
+        ],
+        "Intravascukar hemolysis": [
+            "Intravascukar hemolysis"
+        ],
+        "Maternal antiplatelet antibodies": [
+            "Maternal antiplatelet antibodies"
+        ],
+        "Hemangioma platelet consumption": [
+            "Hemangioma platelet consumption"
+        ],
+        "Neonatal ITP": [
+            "Neonatal ITP"
+        ],
+        "Anaemia due to ABO incompatibility in the newborn": [
+            "Anaemia due to ABO incompatibility in the newborn"
+        ],
+        "WAS - Wiskott-Aldrich syndrome": [
+            "WAS - Wiskott-Aldrich syndrome"
+        ],
+        "myelosuppression": [
+            "myelosuppression"
+        ],
+        "Acute lymphoblastic leukemia": [
+            "Acute lymphoblastic leukemia"
+        ],
+        "Vitamin D deficiency": [
+            "Vitamin D deficiency"
+        ],
+        "Group B streptococcus infection in mother complicating childbirth": [
+            "Group B streptococcus infection in mother complicating childbirth"
+        ],
+        "Malignancy": [
+            "Malignancy"
+        ],
+        "Asphyxia, in liveborn infant": [
+            "Asphyxia, in liveborn infant"
+        ],
+        "Roseola infantum (HHV 6)": [
+            "Roseola infantum (HHV 6)"
+        ],
+        "Newborn affected by maternal systemic lupus erythematosus": [
+            "Newborn affected by maternal systemic lupus erythematosus"
+        ],
+        "Traumatic birth": [
+            "Traumatic birth"
+        ],
+        "Maternal incompatibility": [
+            "Maternal incompatibility"
+        ],
+        "Newborn rash": [
+            "Newborn rash"
+        ],
+        "FNAIT": [
+            "FNAIT"
+        ],
+        "Acute meningococcemia": [
+            "Acute meningococcemia"
+        ],
+        "Congenital CMV": [
+            "Congenital CMV"
+        ],
+        "Herpesviral vesicular dermatitis": [
+            "Herpesviral vesicular dermatitis"
+        ],
+        "Hemorrhagic disease of newborn": [
+            "Hemorrhagic disease of newborn"
+        ],
+        "Pancytopenia": [
+            "Pancytopenia"
+        ],
+        "Missed vitamin k": [
+            "Missed vitamin k"
+        ],
+        "Haemorrhagic disease of the newborn": [
+            "Haemorrhagic disease of the newborn"
+        ],
+        "Lupus erythematosus": [
+            "Lupus erythematosus"
+        ]
+    }
+}

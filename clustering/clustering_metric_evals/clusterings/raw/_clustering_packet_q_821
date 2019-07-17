@@ -1,0 +1,125 @@
+{
+    "no-dx_all-official": {
+        "Tick-borne viral meningoencephalitis": [
+            "Tick-borne viral meningoencephalitis"
+        ],
+        "Sepsis": [
+            "Sepsis"
+        ],
+        "Myositis": [
+            "Myositis"
+        ],
+        "Lyme disease": [
+            "Lyme disease"
+        ],
+        "Pneumonia": [
+            "Pneumonia"
+        ],
+        "Tick typhus due to Rickettsia conorii": [
+            "Tick typhus due to Rickettsia conorii"
+        ],
+        "Influenza": [
+            "Influenza"
+        ],
+        "Cytomegaloviral (CMV) pneumonia": [
+            "Cytomegaloviral (CMV) pneumonia"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Rhabdomyolysis": [
+            "Rhabdomyolysis"
+        ],
+        "Community acquired pneumonia": [
+            "Community-acquired pneumonia"
+        ],
+        "Colorado tick fever": [
+            "Colorado tick fever"
+        ],
+        "Pyelonephritis": [
+            "Pyelonephritis"
+        ],
+        "Rocky Mountain spotted fever": [
+            "Rocky mountain spotted fever"
+        ],
+        "Anaplasmosis": [
+            "Anaplasmosis"
+        ]
+    },
+    "0.5-dx_all-official": {
+        "Tick-borne viral meningoencephalitis": [
+            "Tick-borne viral meningoencephalitis"
+        ],
+        "Sepsis": [
+            "Sepsis"
+        ],
+        "Myositis": [
+            "Myositis"
+        ],
+        "Lyme disease": [
+            "Lyme disease"
+        ],
+        "Pneumonia": [
+            "Pneumonia",
+            "Cytomegaloviral (CMV) pneumonia",
+            "Community-acquired pneumonia"
+        ],
+        "Tick typhus due to Rickettsia conorii": [
+            "Tick typhus due to Rickettsia conorii"
+        ],
+        "Influenza": [
+            "Influenza"
+        ],
+        "Leukemia": [
+            "Leukemia"
+        ],
+        "Rhabdomyolysis": [
+            "Rhabdomyolysis"
+        ],
+        "Colorado tick fever": [
+            "Colorado tick fever"
+        ],
+        "Pyelonephritis": [
+            "Pyelonephritis"
+        ],
+        "Rocky Mountain spotted fever": [
+            "Rocky mountain spotted fever"
+        ],
+        "Anaplasmosis": [
+            "Anaplasmosis"
+        ]
+    },
+    "0.25-dx_0.5-official": {
+        "Pneumonia": [
+            "Tick-borne viral meningoencephalitis",
+            "Pneumonia",
+            "Cytomegaloviral (CMV) pneumonia",
+            "Leukemia",
+            "Community-acquired pneumonia"
+        ],
+        "Sepsis": [
+            "Sepsis"
+        ],
+        "Rhabdomyolysis": [
+            "Myositis",
+            "Rhabdomyolysis",
+            "Pyelonephritis",
+            "Anaplasmosis"
+        ],
+        "Lyme disease": [
+            "Lyme disease"
+        ],
+        "Tick typhus due to Rickettsia conorii": [
+            "Tick typhus due to Rickettsia conorii"
+        ],
+        "Influenza": [
+            "Influenza"
+        ],
+        "Colorado tick fever": [
+            "Colorado tick fever"
+        ],
+        "Rocky Mountain spotted fever": [
+            "Rocky mountain spotted fever"
+        ]
+    }
+}

@@ -1,0 +1,258 @@
+{
+    "no-dx_all-official": {
+        "Chagas' disease": [
+            "Chagas disease"
+        ],
+        "Acute hepatitis A": [
+            "Acute hepatitis A"
+        ],
+        "Cholecystitis": [
+            "Cholecystitis"
+        ],
+        "Viral hepatitis": [
+            "Viral hepatitis"
+        ],
+        "Hematoma": [
+            "Hematoma"
+        ],
+        "Hemolytic anemia": [
+            "Hemolytic anemia"
+        ],
+        "WD - Wilson's disease": [
+            "WD - Wilson's disease"
+        ],
+        "Alpha-1-antitrypsin deficiency": [
+            "Alpha-1-antitrypsin deficiency"
+        ],
+        "PSC - Primary sclerosing cholangitis": [
+            "PSC - Primary sclerosing cholangitis"
+        ],
+        "Acetaminophen adverse reaction": [
+            "Acetaminophen adverse reaction"
+        ],
+        "Schistosomiasis - bilharziasis": [
+            "Schistosomiasis - bilharziasis"
+        ],
+        "Biliary obstruction": [
+            "Biliary obstruction"
+        ],
+        "McArdle's disease": [
+            "McArdle's disease"
+        ],
+        "Myocarditis": [
+            "Myocarditis"
+        ],
+        "Chronic pericarditis with effusion": [
+            "Chronic pericarditis with effusion"
+        ],
+        "Atrial myxoma with lentigines": [
+            "Atrial myxoma with lentigines"
+        ],
+        "PHT - Pulmonary hypertension": [
+            "PHT - Pulmonary hypertension"
+        ],
+        "Heart failure": [
+            "Heart failure"
+        ],
+        "Gilbert syndrome": [
+            "Gilbert syndrome"
+        ],
+        "Restrictive cardiomyopathy": [
+            "Restrictive cardiomyopathy",
+            "Idiopathic restrictive cardiomyopathy"
+        ],
+        "Congestive heart failure": [
+            "Congestive heart failure"
+        ],
+        "Congestive hepatopathy": [
+            "Congestive hepatopathy"
+        ],
+        "Liver congestion": [
+            "Liver congestion"
+        ]
+    },
+    "0.5-dx_all-official": {
+        "McArdle's disease": [
+            "Chagas disease",
+            "McArdle's disease"
+        ],
+        "Viral hepatitis": [
+            "Acute hepatitis A",
+            "Viral hepatitis"
+        ],
+        "Cholecystitis": [
+            "Cholecystitis"
+        ],
+        "Hematoma": [
+            "Hematoma"
+        ],
+        "Hemolytic anemia": [
+            "Hemolytic anemia"
+        ],
+        "WD - Wilson's disease": [
+            "WD - Wilson's disease"
+        ],
+        "Alpha-1-antitrypsin deficiency": [
+            "Alpha-1-antitrypsin deficiency"
+        ],
+        "PSC - Primary sclerosing cholangitis": [
+            "PSC - Primary sclerosing cholangitis"
+        ],
+        "Acetaminophen adverse reaction": [
+            "Acetaminophen adverse reaction"
+        ],
+        "Schistosomiasis - bilharziasis": [
+            "Schistosomiasis - bilharziasis"
+        ],
+        "Biliary obstruction": [
+            "Biliary obstruction"
+        ],
+        "Myocarditis": [
+            "Myocarditis"
+        ],
+        "Chronic pericarditis with effusion": [
+            "Chronic pericarditis with effusion"
+        ],
+        "Atrial myxoma with lentigines": [
+            "Atrial myxoma with lentigines"
+        ],
+        "PHT - Pulmonary hypertension": [
+            "PHT - Pulmonary hypertension"
+        ],
+        "Heart failure": [
+            "Heart failure",
+            "Congestive heart failure"
+        ],
+        "Gilbert syndrome": [
+            "Gilbert syndrome"
+        ],
+        "Restrictive cardiomyopathy": [
+            "Restrictive cardiomyopathy",
+            "Idiopathic restrictive cardiomyopathy"
+        ],
+        "Congestive hepatopathy": [
+            "Congestive hepatopathy"
+        ],
+        "Liver congestion": [
+            "Liver congestion"
+        ]
+    },
+    "0.25-dx_0.5-official": {
+        "WD - Wilson's disease": [
+            "Chagas disease",
+            "WD - Wilson's disease",
+            "McArdle's disease"
+        ],
+        "Viral hepatitis": [
+            "Acute hepatitis A",
+            "Cholecystitis",
+            "Viral hepatitis",
+            "Hematoma",
+            "Hemolytic anemia",
+            "Myocarditis",
+            "Atrial myxoma with lentigines",
+            "Heart failure",
+            "Congestive heart failure",
+            "Congestive hepatopathy"
+        ],
+        "Alpha-1-antitrypsin deficiency": [
+            "Alpha-1-antitrypsin deficiency"
+        ],
+        "PSC - Primary sclerosing cholangitis": [
+            "PSC - Primary sclerosing cholangitis"
+        ],
+        "Acetaminophen adverse reaction": [
+            "Acetaminophen adverse reaction"
+        ],
+        "Schistosomiasis - bilharziasis": [
+            "Schistosomiasis - bilharziasis"
+        ],
+        "Liver congestion": [
+            "Biliary obstruction",
+            "Liver congestion"
+        ],
+        "Chronic pericarditis with effusion": [
+            "Chronic pericarditis with effusion"
+        ],
+        "PHT - Pulmonary hypertension": [
+            "PHT - Pulmonary hypertension"
+        ],
+        "Gilbert syndrome": [
+            "Gilbert syndrome"
+        ],
+        "Restrictive cardiomyopathy": [
+            "Restrictive cardiomyopathy"
+        ],
+        "Idiopathic restrictive cardiomyopathy": [
+            "Idiopathic restrictive cardiomyopathy"
+        ]
+    },
+    "0.5-dx_0.5-official": {
+        "McArdle's disease": [
+            "Chagas disease",
+            "McArdle's disease"
+        ],
+        "Viral hepatitis": [
+            "Acute hepatitis A",
+            "Viral hepatitis"
+        ],
+        "Cholecystitis": [
+            "Cholecystitis"
+        ],
+        "Hematoma": [
+            "Hematoma"
+        ],
+        "Hemolytic anemia": [
+            "Hemolytic anemia"
+        ],
+        "WD - Wilson's disease": [
+            "WD - Wilson's disease"
+        ],
+        "Alpha-1-antitrypsin deficiency": [
+            "Alpha-1-antitrypsin deficiency"
+        ],
+        "PSC - Primary sclerosing cholangitis": [
+            "PSC - Primary sclerosing cholangitis"
+        ],
+        "Acetaminophen adverse reaction": [
+            "Acetaminophen adverse reaction"
+        ],
+        "Schistosomiasis - bilharziasis": [
+            "Schistosomiasis - bilharziasis"
+        ],
+        "Biliary obstruction": [
+            "Biliary obstruction"
+        ],
+        "Myocarditis": [
+            "Myocarditis"
+        ],
+        "Chronic pericarditis with effusion": [
+            "Chronic pericarditis with effusion"
+        ],
+        "Atrial myxoma with lentigines": [
+            "Atrial myxoma with lentigines"
+        ],
+        "PHT - Pulmonary hypertension": [
+            "PHT - Pulmonary hypertension"
+        ],
+        "Heart failure": [
+            "Heart failure",
+            "Congestive heart failure"
+        ],
+        "Gilbert syndrome": [
+            "Gilbert syndrome"
+        ],
+        "Restrictive cardiomyopathy": [
+            "Restrictive cardiomyopathy"
+        ],
+        "Idiopathic restrictive cardiomyopathy": [
+            "Idiopathic restrictive cardiomyopathy"
+        ],
+        "Congestive hepatopathy": [
+            "Congestive hepatopathy"
+        ],
+        "Liver congestion": [
+            "Liver congestion"
+        ]
+    }
+}
