@@ -1,0 +1,1324 @@
+
+% Default to the notebook output style
+
+    
+
+
+% Inherit from the specified cell style.
+
+
+
+
+    
+\documentclass[11pt]{article}
+
+    
+    
+    \usepackage[T1]{fontenc}
+    % Nicer default font (+ math font) than Computer Modern for most use cases
+    \usepackage{mathpazo}
+
+    % Basic figure setup, for now with no caption control since it's done
+    % automatically by Pandoc (which extracts ![](path) syntax from Markdown).
+    \usepackage{graphicx}
+    % We will generate all images so they have a width \maxwidth. This means
+    % that they will get their normal width if they fit onto the page, but
+    % are scaled down if they would overflow the margins.
+    \makeatletter
+    \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth
+    \else\Gin@nat@width\fi}
+    \makeatother
+    \let\Oldincludegraphics\includegraphics
+    % Set max figure width to be 80% of text width, for now hardcoded.
+    \renewcommand{\includegraphics}[1]{\Oldincludegraphics[width=.8\maxwidth]{#1}}
+    % Ensure that by default, figures have no caption (until we provide a
+    % proper Figure object with a Caption API and a way to capture that
+    % in the conversion process - todo).
+    \usepackage{caption}
+    \DeclareCaptionLabelFormat{nolabel}{}
+    \captionsetup{labelformat=nolabel}
+
+    \usepackage{adjustbox} % Used to constrain images to a maximum size 
+    \usepackage{xcolor} % Allow colors to be defined
+    \usepackage{enumerate} % Needed for markdown enumerations to work
+    \usepackage{geometry} % Used to adjust the document margins
+    \usepackage{amsmath} % Equations
+    \usepackage{amssymb} % Equations
+    \usepackage{textcomp} % defines textquotesingle
+    % Hack from http://tex.stackexchange.com/a/47451/13684:
+    \AtBeginDocument{%
+        \def\PYZsq{\textquotesingle}% Upright quotes in Pygmentized code
+    }
+    \usepackage{upquote} % Upright quotes for verbatim code
+    \usepackage{eurosym} % defines \euro
+    \usepackage[mathletters]{ucs} % Extended unicode (utf-8) support
+    \usepackage[utf8x]{inputenc} % Allow utf-8 characters in the tex document
+    \usepackage{fancyvrb} % verbatim replacement that allows latex
+    \usepackage{grffile} % extends the file name processing of package graphics 
+                         % to support a larger range 
+    % The hyperref package gives us a pdf with properly built
+    % internal navigation ('pdf bookmarks' for the table of contents,
+    % internal cross-reference links, web links for URLs, etc.)
+    \usepackage{hyperref}
+    \usepackage{longtable} % longtable support required by pandoc >1.10
+    \usepackage{booktabs}  % table support for pandoc > 1.12.2
+    \usepackage[inline]{enumitem} % IRkernel/repr support (it uses the enumerate* environment)
+    \usepackage[normalem]{ulem} % ulem is needed to support strikethroughs (\sout)
+                                % normalem makes italics be italics, not underlines
+    
+
+    
+    
+    % Colors for the hyperref package
+    \definecolor{urlcolor}{rgb}{0,.145,.698}
+    \definecolor{linkcolor}{rgb}{.71,0.21,0.01}
+    \definecolor{citecolor}{rgb}{.12,.54,.11}
+
+    % ANSI colors
+    \definecolor{ansi-black}{HTML}{3E424D}
+    \definecolor{ansi-black-intense}{HTML}{282C36}
+    \definecolor{ansi-red}{HTML}{E75C58}
+    \definecolor{ansi-red-intense}{HTML}{B22B31}
+    \definecolor{ansi-green}{HTML}{00A250}
+    \definecolor{ansi-green-intense}{HTML}{007427}
+    \definecolor{ansi-yellow}{HTML}{DDB62B}
+    \definecolor{ansi-yellow-intense}{HTML}{B27D12}
+    \definecolor{ansi-blue}{HTML}{208FFB}
+    \definecolor{ansi-blue-intense}{HTML}{0065CA}
+    \definecolor{ansi-magenta}{HTML}{D160C4}
+    \definecolor{ansi-magenta-intense}{HTML}{A03196}
+    \definecolor{ansi-cyan}{HTML}{60C6C8}
+    \definecolor{ansi-cyan-intense}{HTML}{258F8F}
+    \definecolor{ansi-white}{HTML}{C5C1B4}
+    \definecolor{ansi-white-intense}{HTML}{A1A6B2}
+
+    % commands and environments needed by pandoc snippets
+    % extracted from the output of `pandoc -s`
+    \providecommand{\tightlist}{%
+      \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+    % Add ',fontsize=\small' for more characters per line
+    \newenvironment{Shaded}{}{}
+    \newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{{#1}}}}
+    \newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{{#1}}}
+    \newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{{#1}}}}
+    \newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{{#1}}}
+    \newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{{#1}}}}
+    \newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{{#1}}}
+    \newcommand{\RegionMarkerTok}[1]{{#1}}
+    \newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{{#1}}}}
+    \newcommand{\NormalTok}[1]{{#1}}
+    
+    % Additional commands for more recent versions of Pandoc
+    \newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{{#1}}}
+    \newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{{#1}}}
+    \newcommand{\ImportTok}[1]{{#1}}
+    \newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{{#1}}}}
+    \newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    \newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    \newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{{#1}}}
+    \newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{{#1}}}}
+    \newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{{#1}}}
+    \newcommand{\BuiltInTok}[1]{{#1}}
+    \newcommand{\ExtensionTok}[1]{{#1}}
+    \newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{{#1}}}
+    \newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{{#1}}}
+    \newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    \newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    
+    
+    % Define a nice break command that doesn't care if a line doesn't already
+    % exist.
+    \def\br{\hspace*{\fill} \\* }
+    % Math Jax compatability definitions
+    \def\gt{>}
+    \def\lt{<}
+    % Document parameters
+    \title{SaddlePointsAndSDG}
+    
+    
+    
+
+    % Pygments definitions
+    
+\makeatletter
+\def\PY@reset{\let\PY@it=\relax \let\PY@bf=\relax%
+    \let\PY@ul=\relax \let\PY@tc=\relax%
+    \let\PY@bc=\relax \let\PY@ff=\relax}
+\def\PY@tok#1{\csname PY@tok@#1\endcsname}
+\def\PY@toks#1+{\ifx\relax#1\empty\else%
+    \PY@tok{#1}\expandafter\PY@toks\fi}
+\def\PY@do#1{\PY@bc{\PY@tc{\PY@ul{%
+    \PY@it{\PY@bf{\PY@ff{#1}}}}}}}
+\def\PY#1#2{\PY@reset\PY@toks#1+\relax+\PY@do{#2}}
+
+\expandafter\def\csname PY@tok@w\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.73,0.73}{##1}}}
+\expandafter\def\csname PY@tok@c\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@cp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.74,0.48,0.00}{##1}}}
+\expandafter\def\csname PY@tok@k\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@kp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@kt\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.69,0.00,0.25}{##1}}}
+\expandafter\def\csname PY@tok@o\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@ow\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.67,0.13,1.00}{##1}}}
+\expandafter\def\csname PY@tok@nb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nf\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@nc\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@nn\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@ne\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.82,0.25,0.23}{##1}}}
+\expandafter\def\csname PY@tok@nv\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@no\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.53,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nl\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.63,0.63,0.00}{##1}}}
+\expandafter\def\csname PY@tok@ni\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.60,0.60,0.60}{##1}}}
+\expandafter\def\csname PY@tok@na\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.49,0.56,0.16}{##1}}}
+\expandafter\def\csname PY@tok@nt\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nd\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.67,0.13,1.00}{##1}}}
+\expandafter\def\csname PY@tok@s\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sd\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@si\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.53}{##1}}}
+\expandafter\def\csname PY@tok@se\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sr\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.53}{##1}}}
+\expandafter\def\csname PY@tok@ss\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@sx\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@m\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@gh\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@gu\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.50,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@gd\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.63,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.63,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gr\endcsname{\def\PY@tc##1{\textcolor[rgb]{1.00,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@ge\endcsname{\let\PY@it=\textit}
+\expandafter\def\csname PY@tok@gs\endcsname{\let\PY@bf=\textbf}
+\expandafter\def\csname PY@tok@gp\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@go\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.53,0.53,0.53}{##1}}}
+\expandafter\def\csname PY@tok@gt\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.27,0.87}{##1}}}
+\expandafter\def\csname PY@tok@err\endcsname{\def\PY@bc##1{\setlength{\fboxsep}{0pt}\fcolorbox[rgb]{1.00,0.00,0.00}{1,1,1}{\strut ##1}}}
+\expandafter\def\csname PY@tok@kc\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@kd\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@kn\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@kr\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@bp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@fm\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@vc\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@vg\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@vi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@vm\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@sa\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sc\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@dl\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@s2\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sh\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@s1\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@mb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@mf\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@mh\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@mi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@il\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@mo\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@ch\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@cm\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@cpf\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@c1\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@cs\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+
+\def\PYZbs{\char`\\}
+\def\PYZus{\char`\_}
+\def\PYZob{\char`\{}
+\def\PYZcb{\char`\}}
+\def\PYZca{\char`\^}
+\def\PYZam{\char`\&}
+\def\PYZlt{\char`\<}
+\def\PYZgt{\char`\>}
+\def\PYZsh{\char`\#}
+\def\PYZpc{\char`\%}
+\def\PYZdl{\char`\$}
+\def\PYZhy{\char`\-}
+\def\PYZsq{\char`\'}
+\def\PYZdq{\char`\"}
+\def\PYZti{\char`\~}
+% for compatibility with earlier versions
+\def\PYZat{@}
+\def\PYZlb{[}
+\def\PYZrb{]}
+\makeatother
+
+
+    % Exact colors from NB
+    \definecolor{incolor}{rgb}{0.0, 0.0, 0.5}
+    \definecolor{outcolor}{rgb}{0.545, 0.0, 0.0}
+
+
+
+    
+    % Prevent overflowing lines due to hard-to-break entities
+    \sloppy 
+    % Setup hyperref package
+    \hypersetup{
+      breaklinks=true,  % so long urls are correctly broken across lines
+      colorlinks=true,
+      urlcolor=urlcolor,
+      linkcolor=linkcolor,
+      citecolor=citecolor,
+      }
+    % Slightly bigger margins than the latex defaults
+    
+    \geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+    
+    
+
+    \begin{document}
+    
+    
+    \maketitle
+    
+    
+
+    
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}1}]:} \PY{k+kn}{from} \PY{n+nn}{dataclasses} \PY{k}{import} \PY{n}{dataclass}
+        \PY{k+kn}{from} \PY{n+nn}{typing} \PY{k}{import} \PY{n}{Callable}
+        \PY{k+kn}{from} \PY{n+nn}{numbers} \PY{k}{import} \PY{n}{Number}
+        \PY{k+kn}{import} \PY{n+nn}{numpy} \PY{k}{as} \PY{n+nn}{np}
+        \PY{k+kn}{import} \PY{n+nn}{scipy}
+        \PY{k+kn}{from} \PY{n+nn}{scipy}\PY{n+nn}{.}\PY{n+nn}{stats} \PY{k}{import} \PY{n}{invgamma}\PY{p}{,} \PY{n}{binom}\PY{p}{,} \PY{n}{lognorm}
+        \PY{k+kn}{from} \PY{n+nn}{itertools} \PY{k}{import} \PY{n}{count}\PY{p}{,} \PY{n}{repeat}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}2}]:} \PY{o}{\PYZpc{}}\PY{k}{matplotlib} notebook
+        \PY{k+kn}{from} \PY{n+nn}{mpl\PYZus{}toolkits}\PY{n+nn}{.}\PY{n+nn}{mplot3d} \PY{k}{import} \PY{n}{Axes3D}
+        \PY{k+kn}{import} \PY{n+nn}{matplotlib}\PY{n+nn}{.}\PY{n+nn}{pyplot} \PY{k}{as} \PY{n+nn}{plt}
+        \PY{k+kn}{from} \PY{n+nn}{ipywidgets} \PY{k}{import} \PY{n}{IntSlider}\PY{p}{,} \PY{n}{interact}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}3}]:} \PY{k}{def} \PY{n+nf}{is\PYZus{}numeric}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{p}{:}
+            \PY{k}{if} \PY{n+nb}{isinstance}\PY{p}{(}\PY{n}{x}\PY{p}{,} \PY{n}{Number}\PY{p}{)}\PY{p}{:}
+                \PY{k}{return} \PY{k+kc}{True}
+            \PY{k}{if} \PY{n+nb}{isinstance}\PY{p}{(}\PY{n}{x}\PY{p}{,} \PY{n}{np}\PY{o}{.}\PY{n}{ndarray}\PY{p}{)}\PY{p}{:}
+                \PY{k}{return} \PY{k+kc}{True}
+            \PY{k}{return} \PY{k+kc}{False}
+        
+        \PY{k}{def} \PY{n+nf}{is\PYZus{}call\PYZus{}or\PYZus{}num}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{p}{:}
+            \PY{k}{return} \PY{n}{is\PYZus{}numeric}\PY{p}{(}\PY{n}{x}\PY{p}{)} \PY{o+ow}{or} \PY{n}{callable}\PY{p}{(}\PY{n}{x}\PY{p}{)}
+        
+        \PY{k}{def} \PY{n+nf}{sum\PYZus{}funcs}\PY{p}{(}\PY{n}{f}\PY{p}{,} \PY{n}{g}\PY{p}{)}\PY{p}{:}
+            \PY{k}{if} \PY{o+ow}{not} \PY{p}{(}\PY{n}{is\PYZus{}call\PYZus{}or\PYZus{}num}\PY{p}{(}\PY{n}{f}\PY{p}{)} \PY{o+ow}{and} \PY{n}{is\PYZus{}call\PYZus{}or\PYZus{}num}\PY{p}{(}\PY{n}{g}\PY{p}{)}\PY{p}{)}\PY{p}{:}
+                \PY{k}{raise} \PY{n+ne}{ValueError}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{f and g are neither functions nor numeric}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+            \PY{k}{def} \PY{n+nf}{sum\PYZus{}}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{p}{:}
+                \PY{k}{if} \PY{n}{callable}\PY{p}{(}\PY{n}{f}\PY{p}{)} \PY{o+ow}{and} \PY{n}{callable}\PY{p}{(}\PY{n}{g}\PY{p}{)}\PY{p}{:}
+                    \PY{k}{return} \PY{n}{f}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{o}{+}\PY{n}{g}\PY{p}{(}\PY{n}{x}\PY{p}{)}
+                \PY{k}{if} \PY{n}{callable}\PY{p}{(}\PY{n}{f}\PY{p}{)}\PY{p}{:}
+                    \PY{k}{return} \PY{n}{f}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{o}{+}\PY{n}{g}
+                \PY{k}{if} \PY{n}{callable}\PY{p}{(}\PY{n}{g}\PY{p}{)}\PY{p}{:}
+                    \PY{k}{return} \PY{n}{f}\PY{o}{+}\PY{n}{g}\PY{p}{(}\PY{n}{x}\PY{p}{)}
+                \PY{k}{return} \PY{n}{f}\PY{o}{+}\PY{n}{g}
+            \PY{k}{return} \PY{n}{sum\PYZus{}}
+        
+        \PY{k}{def} \PY{n+nf}{mul\PYZus{}funcs}\PY{p}{(}\PY{n}{f}\PY{p}{,} \PY{n}{g}\PY{p}{)}\PY{p}{:}
+            \PY{k}{if} \PY{o+ow}{not} \PY{p}{(}\PY{n}{is\PYZus{}call\PYZus{}or\PYZus{}num}\PY{p}{(}\PY{n}{f}\PY{p}{)} \PY{o+ow}{and} \PY{n}{is\PYZus{}call\PYZus{}or\PYZus{}num}\PY{p}{(}\PY{n}{g}\PY{p}{)}\PY{p}{)}\PY{p}{:}
+                \PY{k}{raise} \PY{n+ne}{ValueError}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{f and g are neither functions nor numeric}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+            \PY{k}{def} \PY{n+nf}{mul\PYZus{}}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{p}{:}
+                \PY{k}{if} \PY{n}{callable}\PY{p}{(}\PY{n}{f}\PY{p}{)} \PY{o+ow}{and} \PY{n}{callable}\PY{p}{(}\PY{n}{g}\PY{p}{)}\PY{p}{:}
+                    \PY{k}{return} \PY{n}{f}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{o}{*}\PY{n}{g}\PY{p}{(}\PY{n}{x}\PY{p}{)}
+                \PY{k}{if} \PY{n}{callable}\PY{p}{(}\PY{n}{f}\PY{p}{)}\PY{p}{:}
+                    \PY{k}{return} \PY{n}{f}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{o}{*}\PY{n}{g}
+                \PY{k}{if} \PY{n}{callable}\PY{p}{(}\PY{n}{g}\PY{p}{)}\PY{p}{:}
+                    \PY{k}{return} \PY{n}{f}\PY{o}{*}\PY{n}{g}\PY{p}{(}\PY{n}{x}\PY{p}{)}
+                \PY{k}{return} \PY{n}{f}\PY{o}{*}\PY{n}{g}
+            \PY{k}{return} \PY{n}{mul\PYZus{}}
+        
+        \PY{n+nd}{@dataclass}
+        \PY{k}{class} \PY{n+nc}{C1Func}\PY{p}{:}
+            \PY{n}{val}\PY{p}{:} \PY{n}{Callable}
+            \PY{n}{grad}\PY{p}{:} \PY{n}{Callable}
+            
+            \PY{k}{def} \PY{n+nf}{\PYZus{}\PYZus{}add\PYZus{}\PYZus{}}\PY{p}{(}\PY{n+nb+bp}{self}\PY{p}{,} \PY{n}{other}\PY{p}{)}\PY{p}{:}
+                \PY{k}{if} \PY{n+nb}{isinstance}\PY{p}{(}\PY{n}{other}\PY{p}{,} \PY{n}{C1Func}\PY{p}{)}\PY{p}{:}
+                    \PY{k}{return} \PY{n}{C1Func}\PY{p}{(}\PY{n}{val} \PY{o}{=} \PY{n}{sum\PYZus{}funcs}\PY{p}{(}\PY{n+nb+bp}{self}\PY{o}{.}\PY{n}{val}\PY{p}{,} \PY{n}{other}\PY{o}{.}\PY{n}{val}\PY{p}{)}\PY{p}{,} \PY{n}{grad} \PY{o}{=} \PY{n}{sum\PYZus{}funcs}\PY{p}{(}\PY{n+nb+bp}{self}\PY{o}{.}\PY{n}{grad}\PY{p}{,} \PY{n}{other}\PY{o}{.}\PY{n}{grad}\PY{p}{)}\PY{p}{)}
+                \PY{k}{if} \PY{n}{callable}\PY{p}{(}\PY{n}{other}\PY{p}{)}\PY{p}{:}
+                    \PY{k}{raise} \PY{n+ne}{ValueError}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{Can only sum with other C1Func}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+                \PY{k}{assert} \PY{n}{is\PYZus{}numeric}\PY{p}{(}\PY{n}{other}\PY{p}{)}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{Need }\PY{l+s+si}{\PYZpc{}s}\PY{l+s+s2}{ to be a scalar in order to sum.}\PY{l+s+s2}{\PYZdq{}} \PY{o}{\PYZpc{}} \PY{n}{other}
+                \PY{c+c1}{\PYZsh{} Assume we have a number}
+                \PY{k}{return} \PY{n}{C1Func}\PY{p}{(}\PY{n}{val} \PY{o}{=} \PY{n}{sum\PYZus{}funcs}\PY{p}{(}\PY{n+nb+bp}{self}\PY{o}{.}\PY{n}{val}\PY{p}{,} \PY{n}{other}\PY{p}{)}\PY{p}{,} \PY{n}{grad} \PY{o}{=} \PY{n}{sum\PYZus{}funcs}\PY{p}{(}\PY{n+nb+bp}{self}\PY{o}{.}\PY{n}{grad}\PY{p}{,} \PY{n}{other}\PY{p}{)}\PY{p}{)}
+            
+            \PY{k}{def} \PY{n+nf}{\PYZus{}\PYZus{}radd\PYZus{}\PYZus{}}\PY{p}{(}\PY{n+nb+bp}{self}\PY{p}{,} \PY{n}{other}\PY{p}{)}\PY{p}{:}
+                \PY{k}{return} \PY{n+nb+bp}{self}\PY{o}{.}\PY{n+nf+fm}{\PYZus{}\PYZus{}add\PYZus{}\PYZus{}}\PY{p}{(}\PY{n}{other}\PY{p}{)}
+            
+            \PY{k}{def} \PY{n+nf}{\PYZus{}\PYZus{}mul\PYZus{}\PYZus{}}\PY{p}{(}\PY{n+nb+bp}{self}\PY{p}{,} \PY{n}{other}\PY{p}{)}\PY{p}{:}
+                \PY{k}{if} \PY{n+nb}{isinstance}\PY{p}{(}\PY{n}{other}\PY{p}{,} \PY{n}{C1Func}\PY{p}{)}\PY{p}{:}
+                    \PY{n}{val} \PY{o}{=} \PY{n}{mul\PYZus{}funcs}\PY{p}{(}\PY{n+nb+bp}{self}\PY{o}{.}\PY{n}{val}\PY{p}{,} \PY{n}{other}\PY{o}{.}\PY{n}{val}\PY{p}{)}
+                    \PY{n}{grad} \PY{o}{=} \PY{n}{sum\PYZus{}funcs}\PY{p}{(}\PY{n}{mul\PYZus{}funcs}\PY{p}{(}\PY{n+nb+bp}{self}\PY{o}{.}\PY{n}{grad}\PY{p}{,} \PY{n}{other}\PY{o}{.}\PY{n}{val}\PY{p}{)}\PY{p}{,} \PY{n}{mul\PYZus{}funcs}\PY{p}{(}\PY{n+nb+bp}{self}\PY{o}{.}\PY{n}{val}\PY{p}{,} \PY{n}{other}\PY{o}{.}\PY{n}{grad}\PY{p}{)}\PY{p}{)}
+                    \PY{k}{return} \PY{n}{C1Func}\PY{p}{(}\PY{n}{val} \PY{o}{=} \PY{n}{val}\PY{p}{,} \PY{n}{grad} \PY{o}{=} \PY{n}{grad}\PY{p}{)}
+                \PY{k}{if} \PY{n}{callable}\PY{p}{(}\PY{n}{other}\PY{p}{)}\PY{p}{:}
+                    \PY{k}{raise} \PY{n+ne}{ValueError}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{Can only sum with other C1Func}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+                \PY{k}{assert} \PY{n}{is\PYZus{}numeric}\PY{p}{(}\PY{n}{other}\PY{p}{)}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{Need }\PY{l+s+si}{\PYZpc{}s}\PY{l+s+s2}{ to be a scalar in order to multiply.}\PY{l+s+s2}{\PYZdq{}} \PY{o}{\PYZpc{}} \PY{n}{other}
+                \PY{c+c1}{\PYZsh{} Assume we have a number}
+                \PY{k}{return} \PY{n}{C1Func}\PY{p}{(}\PY{n}{val} \PY{o}{=} \PY{n}{mul\PYZus{}funcs}\PY{p}{(}\PY{n+nb+bp}{self}\PY{o}{.}\PY{n}{val}\PY{p}{,} \PY{n}{other}\PY{p}{)}\PY{p}{,} \PY{n}{grad} \PY{o}{=} \PY{n}{mul\PYZus{}funcs}\PY{p}{(}\PY{n+nb+bp}{self}\PY{o}{.}\PY{n}{grad}\PY{p}{,} \PY{n}{other}\PY{p}{)}\PY{p}{)}
+            
+            \PY{k}{def} \PY{n+nf}{\PYZus{}\PYZus{}rmul\PYZus{}\PYZus{}}\PY{p}{(}\PY{n+nb+bp}{self}\PY{p}{,} \PY{n}{other}\PY{p}{)}\PY{p}{:}
+                \PY{k}{return} \PY{n+nb+bp}{self}\PY{o}{.}\PY{n+nf+fm}{\PYZus{}\PYZus{}mul\PYZus{}\PYZus{}}\PY{p}{(}\PY{n}{other}\PY{p}{)}
+            
+            \PY{k}{def} \PY{n+nf}{\PYZus{}\PYZus{}neg\PYZus{}\PYZus{}}\PY{p}{(}\PY{n+nb+bp}{self}\PY{p}{)}\PY{p}{:}
+                \PY{k}{return} \PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{o}{*}\PY{n+nb+bp}{self}
+            
+            \PY{k}{def} \PY{n+nf}{\PYZus{}\PYZus{}sub\PYZus{}\PYZus{}}\PY{p}{(}\PY{n+nb+bp}{self}\PY{p}{,} \PY{n}{other}\PY{p}{)}\PY{p}{:}
+                \PY{k}{return} \PY{n+nb+bp}{self} \PY{o}{+} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{n}{other}\PY{p}{)}
+            
+            \PY{k}{def} \PY{n+nf}{\PYZus{}\PYZus{}rsub\PYZus{}\PYZus{}}\PY{p}{(}\PY{n+nb+bp}{self}\PY{p}{,} \PY{n}{other}\PY{p}{)}\PY{p}{:}
+                \PY{k}{return} \PY{o}{\PYZhy{}}\PY{n+nb+bp}{self} \PY{o}{+} \PY{n}{other}
+            
+            \PY{k}{def} \PY{n+nf}{map\PYZus{}array}\PY{p}{(}\PY{n+nb+bp}{self}\PY{p}{,} \PY{o}{*}\PY{n}{Xs}\PY{p}{)}\PY{p}{:}
+                \PY{k}{assert} \PY{n+nb}{len}\PY{p}{(}\PY{n}{Xs}\PY{p}{)} \PY{o}{\PYZgt{}} \PY{l+m+mi}{0}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{Need at least one array to apply to.}\PY{l+s+s2}{\PYZdq{}}
+                \PY{n}{\PYZus{}shape} \PY{o}{=} \PY{n}{Xs}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{o}{.}\PY{n}{shape}
+                \PY{n}{flat\PYZus{}Xs} \PY{o}{=} \PY{p}{[}\PY{n}{X}\PY{o}{.}\PY{n}{reshape}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{)} \PY{k}{for} \PY{n}{X} \PY{o+ow}{in} \PY{n}{Xs}\PY{p}{]}
+                \PY{n}{vals} \PY{o}{=} \PY{p}{[}\PY{n+nb+bp}{self}\PY{o}{.}\PY{n}{val}\PY{p}{(}\PY{n}{np}\PY{o}{.}\PY{n}{array}\PY{p}{(}\PY{n}{xs}\PY{p}{)}\PY{p}{)} \PY{k}{for} \PY{n}{xs} \PY{o+ow}{in} \PY{n+nb}{zip}\PY{p}{(}\PY{o}{*}\PY{n}{flat\PYZus{}Xs}\PY{p}{)}\PY{p}{]}
+                \PY{k}{return} \PY{n}{np}\PY{o}{.}\PY{n}{array}\PY{p}{(}\PY{n}{vals}\PY{p}{)}\PY{o}{.}\PY{n}{reshape}\PY{p}{(}\PY{n}{\PYZus{}shape}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}4}]:} \PY{k}{def} \PY{n+nf}{gaussian\PYZus{}f}\PY{p}{(}\PY{n}{m}\PY{p}{,} \PY{n}{s}\PY{o}{=}\PY{l+m+mi}{1}\PY{p}{,} \PY{n}{h}\PY{o}{=}\PY{l+m+mi}{0}\PY{p}{,} \PY{n}{a}\PY{o}{=}\PY{l+m+mi}{1}\PY{p}{)}\PY{p}{:}
+            \PY{k}{def} \PY{n+nf}{val}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{p}{:}
+                \PY{n}{x\PYZus{}m} \PY{o}{=} \PY{n}{x}\PY{o}{\PYZhy{}}\PY{n}{m}
+                \PY{n}{Nx\PYZus{}m} \PY{o}{=} \PY{n}{x\PYZus{}m}\PY{o}{.}\PY{n}{dot}\PY{p}{(}\PY{n}{x\PYZus{}m}\PY{p}{)}
+                \PY{k}{return} \PY{n}{a}\PY{o}{*}\PY{n}{np}\PY{o}{.}\PY{n}{exp}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{n}{Nx\PYZus{}m}\PY{o}{/}\PY{p}{(}\PY{l+m+mi}{2}\PY{o}{*}\PY{p}{(}\PY{n}{s}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2}\PY{p}{)}\PY{p}{)}\PY{p}{)} \PY{o}{+} \PY{n}{h}
+            
+            \PY{k}{def} \PY{n+nf}{grad}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{p}{:}
+                \PY{n}{x\PYZus{}m} \PY{o}{=} \PY{n}{x}\PY{o}{\PYZhy{}}\PY{n}{m}
+                \PY{n}{Nx\PYZus{}m} \PY{o}{=} \PY{n}{x\PYZus{}m}\PY{o}{.}\PY{n}{dot}\PY{p}{(}\PY{n}{x\PYZus{}m}\PY{p}{)}
+                \PY{k}{return} \PY{o}{\PYZhy{}}\PY{n}{a}\PY{o}{*}\PY{n}{np}\PY{o}{.}\PY{n}{exp}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{n}{Nx\PYZus{}m}\PY{o}{/}\PY{n}{s}\PY{p}{)}\PY{o}{*}\PY{p}{(}\PY{n}{x}\PY{o}{\PYZhy{}}\PY{n}{m}\PY{p}{)}\PY{o}{/}\PY{p}{(}\PY{n}{s}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2}\PY{p}{)}
+            
+            \PY{k}{return} \PY{n}{C1Func}\PY{p}{(}\PY{n}{val}\PY{o}{=}\PY{n}{val}\PY{p}{,} \PY{n}{grad}\PY{o}{=}\PY{n}{grad}\PY{p}{)}
+        
+        \PY{n}{loss} \PY{o}{=} \PY{o}{\PYZhy{}}\PY{l+m+mf}{0.5}\PY{o}{*}\PY{n}{gaussian\PYZus{}f}\PY{p}{(}\PY{n}{np}\PY{o}{.}\PY{n}{array}\PY{p}{(}\PY{p}{[}\PY{o}{\PYZhy{}}\PY{l+m+mi}{2}\PY{p}{,}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{)}\PY{p}{)} \PYZbs{}
+            \PY{o}{\PYZhy{}}\PY{n}{gaussian\PYZus{}f}\PY{p}{(}\PY{n}{np}\PY{o}{.}\PY{n}{array}\PY{p}{(}\PY{p}{[}\PY{l+m+mi}{2}\PY{p}{,}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{)}\PY{p}{)} \PYZbs{}
+            \PY{o}{\PYZhy{}}\PY{l+m+mf}{0.5}\PY{o}{*}\PY{n}{gaussian\PYZus{}f}\PY{p}{(}\PY{n}{np}\PY{o}{.}\PY{n}{array}\PY{p}{(}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{,}\PY{l+m+mi}{2}\PY{p}{]}\PY{p}{)}\PY{p}{)} \PYZbs{}
+            \PY{o}{+}\PY{l+m+mi}{3}\PY{o}{*}\PY{n}{gaussian\PYZus{}f}\PY{p}{(}\PY{p}{[}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,}\PY{l+m+mi}{4}\PY{p}{]}\PY{p}{,}\PY{n}{s}\PY{o}{=}\PY{o}{.}\PY{l+m+mi}{5}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}5}]:} \PY{k}{def} \PY{n+nf}{func\PYZus{}plot}\PY{p}{(}\PY{n}{loss}\PY{p}{,} \PY{n}{x\PYZus{}lim}\PY{p}{,} \PY{n}{y\PYZus{}lim}\PY{p}{,} \PY{n}{res}\PY{o}{=}\PY{o}{.}\PY{l+m+mi}{1}\PY{p}{,} \PY{n}{n}\PY{o}{=}\PY{l+m+mi}{100}\PY{p}{)}\PY{p}{:}
+            \PY{k}{if} \PY{o+ow}{not} \PY{n}{res}\PY{p}{:}
+                \PY{n}{x} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{linspace}\PY{p}{(}\PY{n}{x\PYZus{}lim}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{,} \PY{n}{x\PYZus{}lim}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{,} \PY{n}{n}\PY{p}{)}
+                \PY{n}{y} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{linspace}\PY{p}{(}\PY{n}{y\PYZus{}lim}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{,} \PY{n}{y\PYZus{}lim}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{,} \PY{n}{n}\PY{p}{)}
+            \PY{k}{else}\PY{p}{:}
+                \PY{n}{x} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{arange}\PY{p}{(}\PY{n}{x\PYZus{}lim}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{,} \PY{n}{x\PYZus{}lim}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{,} \PY{n}{res}\PY{p}{)}
+                \PY{n}{y} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{arange}\PY{p}{(}\PY{n}{y\PYZus{}lim}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{,} \PY{n}{y\PYZus{}lim}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{,} \PY{n}{res}\PY{p}{)}
+            \PY{n}{X}\PY{p}{,} \PY{n}{Y} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{meshgrid}\PY{p}{(}\PY{n}{x}\PY{p}{,} \PY{n}{y}\PY{p}{)}
+            \PY{n}{Z} \PY{o}{=} \PY{n}{loss}\PY{o}{.}\PY{n}{map\PYZus{}array}\PY{p}{(}\PY{n}{X}\PY{p}{,}\PY{n}{Y}\PY{p}{)}
+            \PY{k}{return} \PY{n}{X}\PY{p}{,} \PY{n}{Y}\PY{p}{,} \PY{n}{Z}
+\end{Verbatim}
+
+
+    \hypertarget{saddle-points-and-stochastic-gradient-descent}{%
+\section{Saddle Points and Stochastic Gradient
+Descent}\label{saddle-points-and-stochastic-gradient-descent}}
+
+    \hypertarget{background-optimizing-a-loss-function}{%
+\subsection{Background: Optimizing a loss
+function:}\label{background-optimizing-a-loss-function}}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}6}]:} \PY{c+c1}{\PYZsh{} Plot the loss surface}
+        \PY{n}{fig} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{figure}\PY{p}{(}\PY{p}{)}
+        \PY{n}{ax} \PY{o}{=} \PY{n}{fig}\PY{o}{.}\PY{n}{add\PYZus{}subplot}\PY{p}{(}\PY{l+m+mi}{111}\PY{p}{,} \PY{n}{projection}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{3d}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+        \PY{n}{ax}\PY{o}{.}\PY{n}{plot\PYZus{}surface}\PY{p}{(}\PY{o}{*}\PY{n}{func\PYZus{}plot}\PY{p}{(}\PY{n}{loss}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{4}\PY{p}{)}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{4}\PY{p}{)}\PY{p}{,} \PY{n}{n}\PY{o}{=}\PY{l+m+mi}{100}\PY{p}{)}\PY{p}{,} \PY{n}{cmap}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{ocean}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+        \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)}
+\end{Verbatim}
+
+
+    
+    \begin{verbatim}
+<IPython.core.display.Javascript object>
+    \end{verbatim}
+
+    
+    
+    \begin{verbatim}
+<IPython.core.display.HTML object>
+    \end{verbatim}
+
+    
+    \hypertarget{we-use-gradient-descent}{%
+\subsection{We use gradient descent:}\label{we-use-gradient-descent}}
+
+\[x_n = x_{n-1} - \nabla f\]
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}7}]:} \PY{n}{rate\PYZus{}decay} \PY{o}{=} \PY{o}{.}\PY{l+m+mi}{0}
+        \PY{n}{lr\PYZus{}0} \PY{o}{=} \PY{l+m+mf}{0.001}
+        \PY{k}{def} \PY{n+nf}{sgd}\PY{p}{(}\PY{n}{x\PYZus{}0}\PY{p}{,} \PY{n}{df}\PY{p}{,} \PY{n}{lr\PYZus{}gen}\PY{o}{=}\PY{k+kc}{None}\PY{p}{)}\PY{p}{:}
+            \PY{k}{if} \PY{n}{lr\PYZus{}gen} \PY{o+ow}{is} \PY{k+kc}{None}\PY{p}{:}
+                \PY{n}{lr\PYZus{}gen} \PY{o}{=} \PY{p}{(}\PY{n}{lr\PYZus{}0}\PY{o}{/}\PY{n}{t} \PY{k}{for} \PY{n}{t} \PY{o+ow}{in} \PY{n}{count}\PY{p}{(}\PY{l+m+mi}{1}\PY{p}{,} \PY{n}{rate\PYZus{}decay}\PY{p}{)}\PY{p}{)}
+            \PY{k}{for} \PY{n}{lr} \PY{o+ow}{in} \PY{n}{lr\PYZus{}gen}\PY{p}{:}
+                \PY{k}{yield} \PY{n}{x\PYZus{}0}
+                \PY{n}{delta} \PY{o}{=} \PY{n}{df}\PY{p}{(}\PY{n}{x\PYZus{}0}\PY{p}{)}
+                \PY{n}{x\PYZus{}0} \PY{o}{=} \PY{n}{x\PYZus{}0} \PY{o}{\PYZhy{}} \PY{n}{lr}\PY{o}{*}\PY{n}{delta}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}8}]:} \PY{k}{def} \PY{n+nf}{sgd\PYZus{}plot}\PY{p}{(}\PY{n}{x\PYZus{}0}\PY{p}{,} \PY{n}{loss}\PY{p}{,} \PY{n}{lr\PYZus{}gen}\PY{o}{=}\PY{k+kc}{None}\PY{p}{,} \PY{n}{max\PYZus{}iter}\PY{o}{=}\PY{l+m+mi}{500}\PY{p}{,} \PY{n}{bounds}\PY{o}{=}\PY{p}{(}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,}\PY{l+m+mi}{4}\PY{p}{)}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,}\PY{l+m+mi}{4}\PY{p}{)}\PY{p}{)}\PY{p}{)}\PY{p}{:}
+            \PY{n}{xs} \PY{o}{=} \PY{p}{[}\PY{p}{]}
+            \PY{n}{ys} \PY{o}{=} \PY{p}{[}\PY{p}{]}
+            \PY{n}{zs} \PY{o}{=} \PY{p}{[}\PY{p}{]}
+            \PY{k}{def} \PY{n+nf}{out\PYZus{}of\PYZus{}bounds}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{p}{:}
+                \PY{k}{if} \PY{n}{x}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]} \PY{o}{\PYZlt{}} \PY{n}{bounds}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]} \PY{o+ow}{or} \PY{n}{x}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]} \PY{o}{\PYZgt{}} \PY{n}{bounds}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{:}
+                    \PY{k}{return} \PY{k+kc}{True}
+                \PY{k}{if} \PY{n}{x}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]} \PY{o}{\PYZlt{}} \PY{n}{bounds}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]} \PY{o+ow}{or} \PY{n}{x}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]} \PY{o}{\PYZgt{}} \PY{n}{bounds}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{:}
+                    \PY{k}{return} \PY{k+kc}{True}
+                \PY{k}{return} \PY{k+kc}{False}
+            \PY{k}{for} \PY{n}{i}\PY{p}{,} \PY{n}{w} \PY{o+ow}{in} \PY{n+nb}{enumerate}\PY{p}{(}\PY{n}{sgd}\PY{p}{(}\PY{n}{x\PYZus{}0}\PY{p}{,} \PY{n}{loss}\PY{o}{.}\PY{n}{grad}\PY{p}{,} \PY{n}{lr\PYZus{}gen}\PY{p}{)}\PY{p}{)}\PY{p}{:}
+                \PY{k}{if} \PY{n}{i} \PY{o}{\PYZgt{}} \PY{n}{max\PYZus{}iter}\PY{p}{:}
+                    \PY{k}{break}
+                \PY{k}{if} \PY{n}{out\PYZus{}of\PYZus{}bounds}\PY{p}{(}\PY{n}{w}\PY{p}{)}\PY{p}{:}
+                    \PY{k}{break}
+                \PY{n}{X} \PY{o}{=} \PY{n}{w}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}
+                \PY{n}{Y} \PY{o}{=} \PY{n}{w}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}
+                \PY{n}{xs}\PY{o}{.}\PY{n}{append}\PY{p}{(}\PY{n}{X}\PY{p}{)}
+                \PY{n}{ys}\PY{o}{.}\PY{n}{append}\PY{p}{(}\PY{n}{Y}\PY{p}{)}
+                \PY{n}{zs}\PY{o}{.}\PY{n}{append}\PY{p}{(}\PY{n}{loss}\PY{o}{.}\PY{n}{val}\PY{p}{(}\PY{n}{w}\PY{p}{)}\PY{p}{)}
+            \PY{k}{return} \PY{n}{xs}\PY{p}{,} \PY{n}{ys}\PY{p}{,} \PY{n}{zs}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}9}]:} \PY{c+c1}{\PYZsh{} Plot Gradient Descent on the loss surface}
+        \PY{n}{fig} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{figure}\PY{p}{(}\PY{p}{)}
+        \PY{n}{ax} \PY{o}{=} \PY{n}{fig}\PY{o}{.}\PY{n}{add\PYZus{}subplot}\PY{p}{(}\PY{l+m+mi}{111}\PY{p}{,} \PY{n}{projection}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{3d}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+        
+        \PY{c+c1}{\PYZsh{} Plot gradient descent from x0}
+        \PY{n}{x0} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{array}\PY{p}{(}\PY{p}{[}\PY{o}{\PYZhy{}}\PY{l+m+mf}{3.5}\PY{p}{,} \PY{l+m+mf}{3.51}\PY{p}{]}\PY{p}{)}
+        \PY{n}{ax}\PY{o}{.}\PY{n}{plot}\PY{p}{(}\PY{o}{*}\PY{n}{sgd\PYZus{}plot}\PY{p}{(}\PY{n}{x0}\PY{p}{,} \PY{n}{loss}\PY{p}{,} \PY{n}{repeat}\PY{p}{(}\PY{o}{.}\PY{l+m+mi}{5}\PY{p}{)}\PY{p}{,} \PY{l+m+mi}{1000}\PY{p}{)}\PY{p}{,} \PY{n}{color}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{r}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+        
+        \PY{c+c1}{\PYZsh{} Plot the surface}
+        \PY{n}{ax}\PY{o}{.}\PY{n}{plot\PYZus{}surface}\PY{p}{(}\PY{o}{*}\PY{n}{func\PYZus{}plot}\PY{p}{(}\PY{n}{loss}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{4}\PY{p}{)}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{4}\PY{p}{)}\PY{p}{,} \PY{n}{n}\PY{o}{=}\PY{l+m+mi}{100}\PY{p}{)}\PY{p}{,} \PY{n}{cmap}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{ocean}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+        \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)} 
+\end{Verbatim}
+
+
+    
+    \begin{verbatim}
+<IPython.core.display.Javascript object>
+    \end{verbatim}
+
+    
+    
+    \begin{verbatim}
+<IPython.core.display.HTML object>
+    \end{verbatim}
+
+    
+    \hypertarget{what-is-a-saddle-point}{%
+\subsection{What is a saddle point?}\label{what-is-a-saddle-point}}
+
+A saddle point is a point where a function is locally flat but not a
+local minima (or maxima).
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}10}]:} \PY{c+c1}{\PYZsh{} An example of a saddle point:}
+         \PY{n}{fig} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{figure}\PY{p}{(}\PY{p}{)}
+         \PY{n}{ax} \PY{o}{=} \PY{n}{fig}\PY{o}{.}\PY{n}{add\PYZus{}subplot}\PY{p}{(}\PY{l+m+mi}{111}\PY{p}{,} \PY{n}{projection}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{3d}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Plot the convex axis:}
+         \PY{n}{xs} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{linspace}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{100}\PY{p}{)}
+         \PY{n}{ys} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{zeros}\PY{p}{(}\PY{n+nb}{len}\PY{p}{(}\PY{n}{xs}\PY{p}{)}\PY{p}{)}
+         \PY{n}{zs} \PY{o}{=} \PY{p}{[}\PY{n}{x}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2} \PY{o}{\PYZhy{}} \PY{n}{y}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2} \PY{k}{for} \PY{n}{x}\PY{p}{,}\PY{n}{y} \PY{o+ow}{in} \PY{n+nb}{zip}\PY{p}{(}\PY{n}{xs}\PY{p}{,} \PY{n}{ys}\PY{p}{)}\PY{p}{]}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{plot}\PY{p}{(}\PY{n}{xs}\PY{p}{,} \PY{n}{ys}\PY{p}{,} \PY{n}{zs}\PY{p}{,} \PY{n}{color}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{g}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Plot the concave axis:}
+         \PY{n}{ys} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{linspace}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{100}\PY{p}{)}
+         \PY{n}{xs} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{zeros}\PY{p}{(}\PY{p}{[}\PY{n+nb}{len}\PY{p}{(}\PY{n}{ys}\PY{p}{)}\PY{p}{]}\PY{p}{)}
+         \PY{n}{zs} \PY{o}{=} \PY{p}{[}\PY{n}{x}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2} \PY{o}{\PYZhy{}} \PY{n}{y}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2} \PY{k}{for} \PY{n}{x}\PY{p}{,}\PY{n}{y} \PY{o+ow}{in} \PY{n+nb}{zip}\PY{p}{(}\PY{n}{xs}\PY{p}{,} \PY{n}{ys}\PY{p}{)}\PY{p}{]}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{plot}\PY{p}{(}\PY{n}{xs}\PY{p}{,} \PY{n}{ys}\PY{p}{,} \PY{n}{zs}\PY{p}{,} \PY{n}{color}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{r}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Make data}
+         \PY{n}{x} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{linspace}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{100}\PY{p}{)}
+         \PY{n}{y} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{linspace}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{100}\PY{p}{)}
+         \PY{n}{X}\PY{p}{,} \PY{n}{Y} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{meshgrid}\PY{p}{(}\PY{n}{x}\PY{p}{,} \PY{n}{y}\PY{p}{)}
+         \PY{n}{Z} \PY{o}{=} \PY{n}{X}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2} \PY{o}{\PYZhy{}} \PY{n}{Y}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2}
+         
+         \PY{c+c1}{\PYZsh{} Plot the surface}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{contour3D}\PY{p}{(}\PY{n}{X}\PY{p}{,} \PY{n}{Y}\PY{p}{,} \PY{n}{Z}\PY{p}{,} \PY{l+m+mi}{50}\PY{p}{,} \PY{n}{cmap}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{binary}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+         
+         \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)}
+\end{Verbatim}
+
+
+    
+    \begin{verbatim}
+<IPython.core.display.Javascript object>
+    \end{verbatim}
+
+    
+    
+    \begin{verbatim}
+<IPython.core.display.HTML object>
+    \end{verbatim}
+
+    
+    \begin{itemize}
+\tightlist
+\item
+  Saddlepoints always occur between local minima
+\end{itemize}
+
+    \begin{itemize}
+\tightlist
+\item
+  There are \textbf{lots} of saddle points in deep neural networks
+\end{itemize}
+
+    \begin{itemize}
+\tightlist
+\item
+  Locally any saddle point looks like the function \$\$\overset{concave}
+  {\overbrace{\frac{-a_1}{2}x_1^2+\dots +\frac{-a_k}{2}x_k^2}}
+\item
+  \overset{convex}{\overbrace{\frac{a_{k+1}}{2}x_{k+1}^2+\dots+\frac{a_m}{2}x_m^2}}\$\$
+  where \(1<k<m\) and all \(a_i>0\).
+\end{itemize}
+
+    \hypertarget{full-gradient-descent-will-always-escape-saddle-points-eventually}{%
+\subsubsection{Full Gradient descent will always escape saddle points
+(eventually)}\label{full-gradient-descent-will-always-escape-saddle-points-eventually}}
+
+    Recall the gradient descent formula
+\[x_n = x_{n-1} +\Delta x_{n-1}, \quad \text{ where } \quad \Delta x= - \nabla f\]
+in coordinates, this reads:
+\[\Delta x_i = - \frac{\partial f}{\partial x_i}\]
+
+    Meanwhile the local model for a saddle point at the origin is:
+\[f(x_1,\dots,x_n) = \overset{concave}
+{\overbrace{\frac{-a_1}{2}x_1^2+\dots +\frac{-a_k}{2}x_k^2}}
++ \overset{convex}{\overbrace{\frac{a_{k+1}}{2}x_{k+1}^2+\dots+\frac{a_m}{2}x_m^2}}\]
+
+    We have
+\[\frac{\partial f}{\partial x_i} = -a_ix_i\quad \text{ for } i<=k\quad\quad
+\text{ and }\quad\quad\frac{\partial f}{\partial x_i} = a_ix_i\quad \text{ for } i>k\]
+
+    So:
+\[\Delta x_i = a_ix_i \quad \text{ for } i<=k \quad \text{ (repulsive dynamics)}\]
+and
+\[\Delta x_i = -a_ix_i \quad \text{ for } i>k \quad \text{ (attractive dynamics)}\]
+
+Though we are attracted to the saddle point in some directions, we are
+eventually ejected from the saddle point by the repulsive forces.
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}11}]:} \PY{c+c1}{\PYZsh{} Gradient Descent can get stuck near saddle points}
+         \PY{n}{fig} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{figure}\PY{p}{(}\PY{p}{)}
+         \PY{n}{ax} \PY{o}{=} \PY{n}{fig}\PY{o}{.}\PY{n}{add\PYZus{}subplot}\PY{p}{(}\PY{l+m+mi}{111}\PY{p}{,} \PY{n}{projection}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{3d}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Plot gradient descent from x0}
+         \PY{n}{skip} \PY{o}{=} \PY{l+m+mi}{20}
+         \PY{n}{x0} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{array}\PY{p}{(}\PY{p}{[}\PY{o}{\PYZhy{}}\PY{l+m+mf}{3.5}\PY{p}{,} \PY{l+m+mf}{3.51}\PY{p}{]}\PY{p}{)}
+         \PY{n}{xs}\PY{p}{,} \PY{n}{ys}\PY{p}{,} \PY{n}{zs} \PY{o}{=} \PY{n}{sgd\PYZus{}plot}\PY{p}{(}\PY{n}{x0}\PY{p}{,} \PY{n}{loss}\PY{p}{,} \PY{n}{repeat}\PY{p}{(}\PY{o}{.}\PY{l+m+mi}{5}\PY{p}{)}\PY{p}{,} \PY{l+m+mi}{1000}\PY{p}{)}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{plot}\PY{p}{(}\PY{n}{xs}\PY{p}{[}\PY{p}{:}\PY{p}{:}\PY{n}{skip}\PY{p}{]}\PY{p}{,} \PY{n}{ys}\PY{p}{[}\PY{p}{:}\PY{p}{:}\PY{n}{skip}\PY{p}{]}\PY{p}{,} \PY{n}{zs}\PY{p}{[}\PY{p}{:}\PY{p}{:}\PY{n}{skip}\PY{p}{]}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{bo}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{color}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{r}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Plot the surface}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{plot\PYZus{}surface}\PY{p}{(}\PY{o}{*}\PY{n}{func\PYZus{}plot}\PY{p}{(}\PY{n}{loss}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{4}\PY{p}{)}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{4}\PY{p}{)}\PY{p}{,} \PY{n}{n}\PY{o}{=}\PY{l+m+mi}{100}\PY{p}{)}\PY{p}{,} \PY{n}{cmap}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{ocean}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)} 
+\end{Verbatim}
+
+
+    
+    \begin{verbatim}
+<IPython.core.display.Javascript object>
+    \end{verbatim}
+
+    
+    
+    \begin{verbatim}
+<IPython.core.display.HTML object>
+    \end{verbatim}
+
+    
+    \hypertarget{typically-the-loss-function-in-deep-neural-networks-is-noisy}{%
+\subsection{Typically, the loss function in deep neural networks is
+noisy}\label{typically-the-loss-function-in-deep-neural-networks-is-noisy}}
+
+\begin{itemize}
+\tightlist
+\item
+  Deep networks need massive data sets to train successfully
+\item
+  One needs to train the network on smaller minibatches of the data
+\item
+  One samples these minibatches from the known data and this sampling
+  results in a \textbf{noisy loss function}
+\end{itemize}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}12}]:} \PY{k}{def} \PY{n+nf}{noisy\PYZus{}surface}\PY{p}{(}\PY{n}{intensity}\PY{o}{=}\PY{l+m+mi}{2}\PY{p}{)}\PY{p}{:}
+             \PY{k}{def} \PY{n+nf}{f}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{p}{:}
+                 \PY{k}{return} \PY{n}{x}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{4}\PY{o}{/}\PY{l+m+mi}{4} \PY{o}{\PYZhy{}} \PY{n}{x}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{3} \PY{o}{+} \PY{n}{x}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]} \PY{o}{+} \PY{n}{x}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2}
+             
+             \PY{k}{def} \PY{n+nf}{df}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{p}{:}
+                 \PY{n}{a\PYZus{}0}\PY{p}{,} \PY{n}{a\PYZus{}1} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{random}\PY{o}{.}\PY{n}{normal}\PY{p}{(}\PY{n}{loc}\PY{o}{=}\PY{l+m+mi}{0}\PY{p}{,} \PY{n}{scale} \PY{o}{=} \PY{n}{intensity}\PY{p}{,} \PY{n}{size}\PY{o}{=}\PY{l+m+mi}{2}\PY{p}{)}
+                 \PY{n}{X} \PY{o}{=} \PY{n}{x}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{o}{+}\PY{n}{a\PYZus{}0}
+                 \PY{n}{Y} \PY{o}{=} \PY{n}{x}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{o}{+}\PY{n}{a\PYZus{}1}
+                 \PY{k}{return} \PY{n}{np}\PY{o}{.}\PY{n}{array}\PY{p}{(}\PY{p}{[}\PY{n}{X}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{3} \PY{o}{+} \PY{o}{\PYZhy{}}\PY{l+m+mi}{3}\PY{o}{*}\PY{n}{X}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2} \PY{o}{+} \PY{l+m+mi}{1}\PY{p}{,} \PY{l+m+mi}{2}\PY{o}{*}\PY{n}{Y}\PY{p}{]}\PY{p}{)}
+         
+             \PY{n}{rate\PYZus{}decay} \PY{o}{=} \PY{o}{.}\PY{l+m+mi}{0001}
+             \PY{n}{lr\PYZus{}0} \PY{o}{=} \PY{l+m+mf}{0.001}
+             \PY{k}{return} \PY{p}{\PYZob{}}
+                 \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{c1f}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:} \PY{n}{C1Func}\PY{p}{(}\PY{n}{val}\PY{o}{=}\PY{n}{f}\PY{p}{,} \PY{n}{grad}\PY{o}{=}\PY{n}{df}\PY{p}{)}\PY{p}{,}
+                 \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{lr\PYZus{}gen}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:} \PY{p}{(}\PY{n}{lr\PYZus{}0}\PY{o}{/}\PY{n}{t} \PY{k}{for} \PY{n}{t} \PY{o+ow}{in} \PY{n}{count}\PY{p}{(}\PY{l+m+mi}{1}\PY{p}{,} \PY{n}{rate\PYZus{}decay}\PY{p}{)}\PY{p}{)}\PY{p}{,}
+                 \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{x0}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:} \PY{p}{[}\PY{l+m+mi}{2}\PY{p}{,}\PY{o}{\PYZhy{}}\PY{l+m+mi}{3}\PY{p}{]}\PY{p}{,}
+                 \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{max\PYZus{}iter}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:} \PY{l+m+mi}{1000}
+             \PY{p}{\PYZcb{}}
+\end{Verbatim}
+
+
+    \hypertarget{example}{%
+\subsection{Example:}\label{example}}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}54}]:} \PY{c+c1}{\PYZsh{} Plot Gradient Descent on the loss surface}
+         \PY{n}{intensity}\PY{o}{=}\PY{l+m+mi}{2} \PY{c+c1}{\PYZsh{} 0, 1, 2}
+         
+         \PY{c+c1}{\PYZsh{} get the noisy surface:}
+         \PY{n}{ns} \PY{o}{=} \PY{n}{noisy\PYZus{}surface}\PY{p}{(}\PY{n}{intensity}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Set up the plotting environment}
+         \PY{n}{fig} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{figure}\PY{p}{(}\PY{p}{)}
+         \PY{n}{ax} \PY{o}{=} \PY{n}{fig}\PY{o}{.}\PY{n}{add\PYZus{}subplot}\PY{p}{(}\PY{l+m+mi}{111}\PY{p}{,} \PY{n}{projection}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{3d}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Plot gradient descent from x0}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{plot}\PY{p}{(}\PY{o}{*}\PY{n}{sgd\PYZus{}plot}\PY{p}{(}\PY{n}{ns}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{x0}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]}\PY{p}{,} \PY{n}{ns}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{c1f}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]}\PY{p}{,} \PY{n}{ns}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{lr\PYZus{}gen}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]}\PY{p}{,} \PY{n}{ns}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{max\PYZus{}iter}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]}\PY{p}{)}\PY{p}{,} \PY{n}{color}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{r}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Plot the surface}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{plot\PYZus{}surface}\PY{p}{(}\PY{o}{*}\PY{n}{func\PYZus{}plot}\PY{p}{(}\PY{n}{ns}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{c1f}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{2}\PY{p}{,} \PY{l+m+mi}{4}\PY{p}{)}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{4}\PY{p}{)}\PY{p}{,} \PY{n}{n}\PY{o}{=}\PY{l+m+mi}{100}\PY{p}{)}\PY{p}{,} \PY{n}{cmap}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{ocean}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{view\PYZus{}init}\PY{p}{(}\PY{l+m+mi}{60}\PY{p}{,} \PY{l+m+mi}{35}\PY{p}{)}
+         \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)} 
+\end{Verbatim}
+
+
+    
+    \begin{verbatim}
+<IPython.core.display.Javascript object>
+    \end{verbatim}
+
+    
+    
+    \begin{verbatim}
+<IPython.core.display.HTML object>
+    \end{verbatim}
+
+    
+    \hypertarget{overview-of-talk}{%
+\subsection{Overview of talk:}\label{overview-of-talk}}
+
+\begin{itemize}
+\tightlist
+\item
+  I will describe why noise can trap us at saddle points
+\item
+  I will describe some ways to escape saddle points
+\item
+  Open questions
+\end{itemize}
+
+    \hypertarget{why-noise-hurts}{%
+\subsection{Why noise hurts}\label{why-noise-hurts}}
+
+    The local model for a saddle point in a noisy loss function:
+\[f(x_1,\dots,x_n) = \overset{concave}
+{\overbrace{\frac{-a_1-\xi_1}{2}x_1^2+\dots +\frac{-a_k-\xi_k}{2}x_k^2}}
++ \overset{convex}{\overbrace{\frac{a_{k+1}-\xi_{k+1}}{2}x_{k+1}^2+\dots+\frac{a_m-\xi_m}{2}x_m^2}}\\
+-\eta_1x_1-\cdots-\eta_mx_m
+\] where \(\xi_i\) and \(\eta_i\) are \textbf{noise} (mean zero random
+variables).
+
+    So, we have
+\[\frac{\partial f}{\partial x_i} = \pm a_ix_i +\xi_ix_i+\eta_i\] And
+the gradient descent update becomes:
+\[\Delta x_i =\pm a_i x_i+ \xi_i x_i+\eta_i\]
+
+    Let's consider the seperate components \[ \Delta x =
+    \overset{\text{Usual gradient}}{\overbrace{\pm ax}} 
+    +\overset{\text{Attractive noise}}{\overbrace{\xi x}}+\overset{\text{Diffusive noise}}{\overbrace{\eta}}\]
+
+    \hypertarget{attractive-noise}{%
+\subsection{Attractive noise:}\label{attractive-noise}}
+
+\[x_{n+1}=(1+\xi) x_{n}\]
+
+Suppose that either \(\xi =-\sigma\) or \(\xi= \sigma\) with equal
+probability.
+
+    \begin{figure}
+\centering
+\includegraphics{attachment:1stage.jpeg}
+\caption{1stage.jpeg}
+\end{figure}
+
+    \begin{figure}
+\centering
+\includegraphics{attachment:2stage.jpeg}
+\caption{2stage.jpeg}
+\end{figure}
+
+    \begin{figure}
+\centering
+\includegraphics{attachment:4stage.jpeg}
+\caption{4stage.jpeg}
+\end{figure}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}14}]:} \PY{k}{def} \PY{n+nf}{attractive\PYZus{}boundary}\PY{p}{(}\PY{n}{N}\PY{p}{,}\PY{n}{sigma}\PY{p}{)}\PY{p}{:}
+             \PY{n}{P} \PY{o}{=} \PY{n}{lognorm}\PY{o}{.}\PY{n}{cdf}\PY{p}{(}\PY{l+m+mi}{1}\PY{p}{,} \PY{n}{scale} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{exp}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{n}{N}\PY{o}{*}\PY{n}{sigma}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2}\PY{o}{/}\PY{l+m+mi}{2}\PY{p}{)}\PY{p}{,} \PY{n}{s}\PY{o}{=}\PY{n}{sigma}\PY{o}{*}\PY{n}{np}\PY{o}{.}\PY{n}{sqrt}\PY{p}{(}\PY{n}{N}\PY{p}{)}\PY{p}{)}
+             \PY{k}{return} \PY{n}{binom}\PY{o}{.}\PY{n}{ppf}\PY{p}{(}\PY{n}{P}\PY{p}{,} \PY{n}{N}\PY{p}{,} \PY{l+m+mf}{0.5}\PY{p}{)}
+         
+         \PY{k}{def} \PY{n+nf}{draw\PYZus{}binom}\PY{p}{(}\PY{n}{ax}\PY{p}{,} \PY{n}{N}\PY{p}{,} \PY{n}{sigma}\PY{p}{,} \PY{n}{L}\PY{p}{,} \PY{n}{R}\PY{p}{,} \PY{n}{color}\PY{p}{)}\PY{p}{:}
+             \PY{n}{x} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{arange}\PY{p}{(}\PY{n}{L}\PY{p}{,} \PY{n}{R}\PY{o}{+}\PY{l+m+mi}{1}\PY{p}{)}
+             \PY{n}{ax}\PY{o}{.}\PY{n}{plot}\PY{p}{(}\PY{n}{x}\PY{p}{,} \PY{n}{binom}\PY{o}{.}\PY{n}{pmf}\PY{p}{(}\PY{n}{x}\PY{p}{,} \PY{n}{N}\PY{p}{,} \PY{l+m+mf}{0.5}\PY{p}{)}\PY{p}{,} \PY{n}{color}\PY{o}{+}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{o}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{ms}\PY{o}{=}\PY{l+m+mi}{8}\PY{p}{,} \PY{n}{label}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{binom pmf}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+             \PY{n}{ax}\PY{o}{.}\PY{n}{vlines}\PY{p}{(}\PY{n}{x}\PY{p}{,} \PY{l+m+mi}{0}\PY{p}{,} \PY{n}{binom}\PY{o}{.}\PY{n}{pmf}\PY{p}{(}\PY{n}{x}\PY{p}{,} \PY{n}{N}\PY{p}{,} \PY{l+m+mf}{0.5}\PY{p}{)}\PY{p}{,} \PY{n}{colors}\PY{o}{=}\PY{n}{color}\PY{p}{,} \PY{n}{lw}\PY{o}{=}\PY{l+m+mi}{5}\PY{p}{,} \PY{n}{alpha}\PY{o}{=}\PY{l+m+mf}{0.5}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}56}]:} \PY{c+c1}{\PYZsh{} Stage N}
+         \PY{n}{N} \PY{o}{=} \PY{l+m+mi}{1000}
+         \PY{n}{sigma}\PY{o}{=}\PY{l+m+mf}{0.1}
+         
+         \PY{n}{fig}\PY{p}{,} \PY{n}{ax} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{subplots}\PY{p}{(}\PY{l+m+mi}{1}\PY{p}{,} \PY{l+m+mi}{1}\PY{p}{)}
+         \PY{n}{N\PYZus{}A} \PY{o}{=} \PY{n}{attractive\PYZus{}boundary}\PY{p}{(}\PY{n}{N}\PY{p}{,} \PY{l+m+mf}{0.5}\PY{p}{)}
+         \PY{n}{draw\PYZus{}binom}\PY{p}{(}\PY{n}{ax}\PY{p}{,} \PY{n}{N}\PY{p}{,} \PY{n}{sigma}\PY{p}{,} \PY{l+m+mi}{0}\PY{p}{,} \PY{n}{N\PYZus{}A}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{r}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         \PY{n}{draw\PYZus{}binom}\PY{p}{(}\PY{n}{ax}\PY{p}{,} \PY{n}{N}\PY{p}{,} \PY{n}{sigma}\PY{p}{,} \PY{n}{N\PYZus{}A}\PY{o}{+}\PY{l+m+mi}{1}\PY{p}{,} \PY{n}{N}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{b}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+\end{Verbatim}
+
+
+    
+    \begin{verbatim}
+<IPython.core.display.Javascript object>
+    \end{verbatim}
+
+    
+    
+    \begin{verbatim}
+<IPython.core.display.HTML object>
+    \end{verbatim}
+
+    
+    \hypertarget{diffusive-noise}{%
+\section{Diffusive noise:}\label{diffusive-noise}}
+
+Recall: \[ \Delta x =
+    \overset{\text{Usual gradient}}{\overbrace{\pm ax}} 
+    +\overset{\text{Attractive noise}}{\overbrace{\xi x}}+\overset{\text{Diffusive noise}}{\overbrace{\eta}}\]
+
+So the diffusive component is: \[ \Delta x = \eta\]
+
+At stage \(N\), we have
+\[x_N=x_0+\sum_{n=0}^N \Delta x_n = x_0+\sum_{i=0}^N \eta_i\]
+
+But \(\eta_i\) are iid random variables with mean zero and norm
+\(\tau\), so \(\sum_{i=0}^N \eta_i\sim N(0, \sqrt{N}\tau)\). Therefore:
+
+\[x_N\sim N(x_0, \tau\sqrt{N})\]
+
+In summary, \(x\) diffuses at a rate of \(\tau\sqrt{N}\).
+
+    \hypertarget{does-the-diffusive-or-attractive-noise-dominate}{%
+\subsection{Does the diffusive or attractive noise
+dominate?}\label{does-the-diffusive-or-attractive-noise-dominate}}
+
+\[ \Delta x =
+    \overset{\text{Usual gradient}}{\overbrace{\pm ax}} 
+    +\overset{\text{Attractive noise}}{\overbrace{\xi x}}+\overset{\text{Diffusive noise}}{\overbrace{\eta}}\]
+
+\hypertarget{replace-with-a-stochastic-differential-equation}{%
+\paragraph{Replace with a stochastic differential
+equation:}\label{replace-with-a-stochastic-differential-equation}}
+
+\[dx = ax \:dt+\xi x \:dt +\eta\: dt\] where \(\xi\) and \(\eta\) are
+white noise.
+
+    Let \(\sigma\) and \(\tau\) represent the scaling factors such that
+\(W_t=\int_0^t\frac{\xi}{\sigma}\:dt\) and
+\(V_t=\int_0^t\frac{\eta}{\tau}\:dt\) are standard brownian motion. Then
+
+\[dx = ax \:dt+\sigma x \:dW +\tau\: dV\]
+
+    \hypertarget{case-1-xi-and-eta-are-correlated}{%
+\subsection{\texorpdfstring{Case 1: \(\xi\) and \(\eta\) are
+correlated}{Case 1: \textbackslash{}xi and \textbackslash{}eta are correlated}}\label{case-1-xi-and-eta-are-correlated}}
+
+In this case we may assume \(V = W\), so
+\[dx = ax \:dt+\sigma x \:dW +\tau\: dW\] Substituting
+\(x = y-\tau/\sigma\), we get
+\[dy = a(y-\tau/\sigma) \:dt  + \sigma y \:dW\]
+
+This elimates the diffusive noise, replacing it by a constant rate of
+change of \(-a\tau/\sigma\). We can solve this exactly, to get:
+\[x_t = -\tau/\sigma+(x_0+\tau/\sigma)e^{(a-\sigma^2/2)t+\sigma W_t}-\frac{a\tau}{\sigma}\int_0^t e^{(a-\sigma^2/2)(t-s)+\sigma (W_t-W_s)}ds\]
+
+    \[x_t = -\tau/\sigma+(x_0+\tau/\sigma)e^{(a-\sigma^2/2)t+\sigma W_t}-\frac{a\tau}{\sigma}\int_0^t e^{(a-\sigma^2/2)(t-s)+\sigma (W_t-W_s)}ds\]
+
+We see that the effective rate of growth is \(a-\sigma^2/2\) - this rate
+depends only on the intensity of the attractive noise. - It is
+independent of the intensity of the diffusive noise. - In particular, if
+the noise \(\sigma\) is sufficiently strong, the saddle point will be
+attractive.
+
+    \hypertarget{stationary-distribution}{%
+\subsection{Stationary distribution:}\label{stationary-distribution}}
+
+\[\lim_{t\to \infty} -x_t-\tau/\sigma\] is inverse-gamma distributed
+with scale \(\beta = 2\frac{\lvert a\tau\rvert}{\sigma^3}\) and shape
+\(\alpha = 1-2a/\sigma^2\)
+
+    This has no mean, but it's mode is at
+\(-\tau/\sigma+\beta/(\alpha+1)= -\tau/\sigma-\frac{a\tau}{\sigma^3-a\sigma}\)
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}41}]:} \PY{c+c1}{\PYZsh{} The stationary distribution}
+         \PY{n}{a}\PY{p}{,} \PY{n}{sig}\PY{p}{,} \PY{n}{tau} \PY{o}{=} \PY{l+m+mi}{1}\PY{p}{,} \PY{l+m+mi}{2}\PY{p}{,} \PY{o}{\PYZhy{}}\PY{l+m+mi}{2}
+         
+         \PY{n}{alpha} \PY{o}{=} \PY{l+m+mi}{1}\PY{o}{\PYZhy{}}\PY{l+m+mi}{2}\PY{o}{*}\PY{n}{a}\PY{o}{/}\PY{p}{(}\PY{n}{sig}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2}\PY{p}{)}
+         \PY{n}{beta} \PY{o}{=} \PY{l+m+mi}{2}\PY{o}{*}\PY{n+nb}{abs}\PY{p}{(}\PY{n}{a}\PY{o}{*}\PY{n}{tau}\PY{p}{)}\PY{o}{/}\PY{p}{(}\PY{n}{sig}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{3}\PY{p}{)}
+         \PY{n}{rv} \PY{o}{=} \PY{n}{invgamma}\PY{p}{(}\PY{n}{alpha}\PY{p}{,} \PY{n}{loc} \PY{o}{=} \PY{n+nb}{abs}\PY{p}{(}\PY{n}{tau}\PY{o}{/}\PY{n}{sig}\PY{p}{)}\PY{p}{,} \PY{n}{scale}\PY{o}{=}\PY{n}{beta}\PY{p}{)}
+         
+         \PY{n}{fig}\PY{p}{,} \PY{n}{ax} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{subplots}\PY{p}{(}\PY{l+m+mi}{1}\PY{p}{,} \PY{l+m+mi}{1}\PY{p}{)}
+         \PY{n}{x\PYZus{}tmp} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{linspace}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{10}\PY{p}{,}\PY{l+m+mi}{10}\PY{p}{,} \PY{l+m+mi}{100}\PY{p}{)}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{plot}\PY{p}{(}\PY{n}{x\PYZus{}tmp}\PY{p}{,} \PY{n}{rv}\PY{o}{.}\PY{n}{pdf}\PY{p}{(}\PY{n}{x\PYZus{}tmp} \PY{k}{if} \PY{n}{a}\PY{o}{*}\PY{n}{tau} \PY{o}{\PYZlt{}}\PY{l+m+mi}{0} \PY{k}{else} \PY{n}{x\PYZus{}tmp}\PY{p}{[}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{:}\PY{p}{:}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{)}\PY{p}{)}
+         \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)}
+\end{Verbatim}
+
+
+    
+    \begin{verbatim}
+<IPython.core.display.Javascript object>
+    \end{verbatim}
+
+    
+    
+    \begin{verbatim}
+<IPython.core.display.HTML object>
+    \end{verbatim}
+
+    
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}17}]:} \PY{n}{n} \PY{o}{=} \PY{l+m+mi}{5000}
+         \PY{n}{dt} \PY{o}{=} \PY{o}{.}\PY{l+m+mi}{1}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}42}]:} \PY{n}{samples} \PY{o}{=} \PY{l+m+mi}{3000}
+         \PY{n}{white\PYZus{}noise} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{random}\PY{o}{.}\PY{n}{normal}\PY{p}{(}\PY{n}{loc}\PY{o}{=}\PY{l+m+mi}{0}\PY{p}{,} \PY{n}{scale}\PY{o}{=}\PY{n}{np}\PY{o}{.}\PY{n}{sqrt}\PY{p}{(}\PY{n}{dt}\PY{p}{)}\PY{p}{,} \PY{n}{size} \PY{o}{=} \PY{p}{(}\PY{n}{n}\PY{p}{,} \PY{n}{samples}\PY{p}{)}\PY{p}{)}\PY{o}{/}\PY{n}{dt}
+         \PY{n}{W} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{cumsum}\PY{p}{(}\PY{n}{dt}\PY{o}{*}\PY{n}{white\PYZus{}noise}\PY{p}{[}\PY{p}{:}\PY{p}{,}\PY{p}{:}\PY{p}{]}\PY{p}{,} \PY{n}{axis} \PY{o}{=} \PY{l+m+mi}{0}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}43}]:} \PY{n}{s} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{arange}\PY{p}{(}\PY{l+m+mi}{0}\PY{p}{,} \PY{n}{n}\PY{o}{*}\PY{n}{dt}\PY{p}{,} \PY{n}{dt}\PY{p}{)}\PY{o}{.}\PY{n}{reshape}\PY{p}{(}\PY{p}{[}\PY{n}{n}\PY{p}{,}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{)}
+         \PY{n}{T} \PY{o}{=} \PY{n}{n}\PY{o}{*}\PY{n}{dt}
+         \PY{n}{X} \PY{o}{=} \PY{o}{\PYZhy{}}\PY{n}{tau}\PY{o}{/}\PY{n}{sig}\PY{o}{\PYZhy{}}\PY{n}{a}\PY{o}{*}\PY{n}{tau}\PY{o}{/}\PY{n}{sig}\PY{o}{*}\PY{n}{np}\PY{o}{.}\PY{n}{cumsum}\PY{p}{(}\PY{n}{dt}\PY{o}{*}\PY{n}{np}\PY{o}{.}\PY{n}{exp}\PY{p}{(}\PY{p}{(}\PY{n}{a}\PY{o}{\PYZhy{}}\PY{p}{(}\PY{n}{sig}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2}\PY{p}{)}\PY{o}{/}\PY{l+m+mi}{2}\PY{p}{)}\PY{o}{*}\PY{p}{(}\PY{n}{T} \PY{o}{\PYZhy{}} \PY{n}{s}\PY{p}{)} \PY{o}{+} \PY{n}{sig}\PY{o}{*}\PY{p}{(}\PY{n}{W}\PY{p}{[}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{,}\PY{p}{:}\PY{p}{]} \PY{o}{\PYZhy{}} \PY{n}{W}\PY{p}{)}\PY{p}{)}\PY{p}{,} \PY{n}{axis} \PY{o}{=} \PY{l+m+mi}{0}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}44}]:} \PY{n}{fig}\PY{p}{,} \PY{n}{ax} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{subplots}\PY{p}{(}\PY{l+m+mi}{1}\PY{p}{,} \PY{l+m+mi}{1}\PY{p}{)}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{hist}\PY{p}{(}\PY{n}{X}\PY{p}{[}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{,}\PY{p}{:}\PY{p}{]}\PY{p}{,} \PY{n}{bins}\PY{o}{=}\PY{l+m+mi}{50}\PY{p}{,} \PY{n}{density}\PY{o}{=}\PY{k+kc}{True}\PY{p}{,} \PY{n+nb}{range}\PY{o}{=}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{15}\PY{p}{,}\PY{l+m+mi}{15}\PY{p}{)}\PY{p}{)}
+         \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)}
+\end{Verbatim}
+
+
+    
+    \begin{verbatim}
+<IPython.core.display.Javascript object>
+    \end{verbatim}
+
+    
+    
+    \begin{verbatim}
+<IPython.core.display.HTML object>
+    \end{verbatim}
+
+    
+    \hypertarget{case-2-xi-and-eta-are-not-correlated}{%
+\subsection{\texorpdfstring{Case 2: \(\xi\) and \(\eta\) are \emph{not}
+correlated}{Case 2: \textbackslash{}xi and \textbackslash{}eta are not correlated}}\label{case-2-xi-and-eta-are-not-correlated}}
+
+In this case, \(\eta\) serves to time-average the solution
+\[\hat x_t=x_0e^{(a-\sigma^2/2)t+\sigma W_t}\] of the equation
+\[d\hat x = a\hat x \:dt+\sigma \hat x \:dW\] Explictly, we have
+\[x_t = x_0e^{(a-\sigma^2/2)t+\sigma W_t} + \int_0^te^{(a-\sigma^2/2)(t-s)+\sigma (W_t-W_s)}\eta \: ds\]
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}21}]:} \PY{c+c1}{\PYZsh{} Sampling from the stationary distribution we get:}
+         \PY{n}{fig}\PY{p}{,} \PY{n}{ax} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{subplots}\PY{p}{(}\PY{l+m+mi}{1}\PY{p}{,} \PY{l+m+mi}{1}\PY{p}{)}
+         \PY{n}{dV} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{random}\PY{o}{.}\PY{n}{normal}\PY{p}{(}\PY{n}{loc}\PY{o}{=}\PY{l+m+mi}{0}\PY{p}{,} \PY{n}{scale}\PY{o}{=}\PY{n}{np}\PY{o}{.}\PY{n}{sqrt}\PY{p}{(}\PY{n}{dt}\PY{p}{)}\PY{p}{,} \PY{n}{size} \PY{o}{=} \PY{p}{(}\PY{n}{n}\PY{p}{,} \PY{n}{samples}\PY{p}{)}\PY{p}{)}\PY{o}{/}\PY{n}{dt}
+         \PY{n}{X} \PY{o}{=} \PY{n}{tau}\PY{o}{*}\PY{n}{np}\PY{o}{.}\PY{n}{cumsum}\PY{p}{(}\PY{n}{dV}\PY{o}{*}\PY{n}{np}\PY{o}{.}\PY{n}{exp}\PY{p}{(}\PY{p}{(}\PY{n}{a}\PY{o}{\PYZhy{}}\PY{p}{(}\PY{n}{sig}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2}\PY{p}{)}\PY{o}{/}\PY{l+m+mi}{2}\PY{p}{)}\PY{o}{*}\PY{p}{(}\PY{n}{T} \PY{o}{\PYZhy{}} \PY{n}{s}\PY{p}{)} \PY{o}{+} \PY{n}{sig}\PY{o}{*}\PY{p}{(}\PY{n}{W}\PY{p}{[}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{,}\PY{p}{:}\PY{p}{]} \PY{o}{\PYZhy{}} \PY{n}{W}\PY{p}{)}\PY{p}{)}\PY{p}{,} \PY{n}{axis} \PY{o}{=} \PY{l+m+mi}{0}\PY{p}{)}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{hist}\PY{p}{(}\PY{n}{X}\PY{p}{[}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{,}\PY{p}{:}\PY{p}{]}\PY{p}{,} \PY{n}{bins}\PY{o}{=}\PY{l+m+mi}{30}\PY{p}{,} \PY{n}{density}\PY{o}{=}\PY{k+kc}{True}\PY{p}{,} \PY{n+nb}{range}\PY{o}{=}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{25}\PY{p}{,}\PY{l+m+mi}{25}\PY{p}{)}\PY{p}{)}
+         \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)}
+\end{Verbatim}
+
+
+    
+    \begin{verbatim}
+<IPython.core.display.Javascript object>
+    \end{verbatim}
+
+    
+    
+    \begin{verbatim}
+<IPython.core.display.HTML object>
+    \end{verbatim}
+
+    
+    \hypertarget{how-should-we-escape-saddle-points-in-the-presence-of-noise}{%
+\subsection{How should we escape saddle points in the presence of
+noise?}\label{how-should-we-escape-saddle-points-in-the-presence-of-noise}}
+
+We need to reduce the noise!
+
+    \hypertarget{options}{%
+\subsection{Options}\label{options}}
+
+\begin{itemize}
+\tightlist
+\item
+  Perturbed Stochastic Gradient Descent
+\item
+  Stochastic Variance Reduction Gradient Descent (SVRGD)
+\item
+  Increase the minibatch size
+\item
+  Decrease the learning rate
+\item
+  Anneal the learning rate
+\item
+  Use ReLu's
+\end{itemize}
+
+    \hypertarget{perturbed-stochastic-gradient-descent}{%
+\subsection{Perturbed Stochastic Gradient
+Descent}\label{perturbed-stochastic-gradient-descent}}
+
+\hypertarget{idea}{%
+\subsubsection{Idea:}\label{idea}}
+
+Increase the intensity of the diffusive noise \(\eta\) in the equation
+\[dx = ax \:dt+\xi x \:dt +\eta\: dt\]
+
+\hypertarget{problems}{%
+\subsubsection{Problems:}\label{problems}}
+
+\begin{itemize}
+\tightlist
+\item
+  This does not guarantee that we will escape, instead
+
+  \begin{itemize}
+  \tightlist
+  \item
+    it increases the odds that we will escape,
+  \item
+    it greatly speeds how quickly we pass through non-attractive saddle
+    points (where the attractive noise is small).
+  \end{itemize}
+\end{itemize}
+
+    \hypertarget{stochastic-variance-reduction-gradient-descent-svrgd}{%
+\subsection{Stochastic Variance Reduction Gradient Descent
+(SVRGD)}\label{stochastic-variance-reduction-gradient-descent-svrgd}}
+
+\hypertarget{idea}{%
+\subsubsection{Idea:}\label{idea}}
+
+Suppose you have \(N\) training samples.
+
+until converged: \(\quad\quad\) store the current location \(x\) as a
+landmark: \(\quad\quad\) set \(x_{*} := x\) \(\quad\quad\) compute the
+full gradient \(\nabla f_{full}(x_*)\) at \(x_*\) \(\quad\quad\) for i =
+1 \ldots{} N: \(\quad\quad\quad\quad\) compute the approximate gradient
+\(\nabla f_{approx}(x)\) at x \(\quad\quad\quad\quad\) compute the
+approximate gradient \(\nabla f_{approx}(x_*)\) at \(x_*\)
+\(\quad\quad\quad\quad\) set
+\(\nabla f_{VR} := \nabla f_{approx}(x)-\nabla f_{approx}(x_*)+\nabla f_{full}(x_*)\)
+\(\quad\quad\quad\quad\) set \(x := x - \nabla f_{VR}\)
+
+    \begin{itemize}
+\tightlist
+\item
+  Interestingly, SVRGD serves correlate the two noises \(\xi\) and
+  \(\eta\) in the equation \[dx = ax \:dt+\xi x \:dt +\eta\: dt\]
+\item
+  Infact, at the end of every inner loop \(x-x_*\) exhibits an inverse
+  gamma distribution with scale proportionate to the distance from
+  \(x_*\) to the saddle point:
+\end{itemize}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}47}]:} \PY{c+c1}{\PYZsh{} The stationary distribution}
+         \PY{n}{a}\PY{p}{,} \PY{n}{sig}\PY{p}{,} \PY{n}{tau} \PY{o}{=} \PY{l+m+mi}{1}\PY{p}{,} \PY{l+m+mi}{2}\PY{p}{,} \PY{o}{\PYZhy{}}\PY{l+m+mi}{2}
+         
+         \PY{n}{x0}\PY{o}{=}\PY{n+nb}{abs}\PY{p}{(}\PY{n}{tau}\PY{o}{/}\PY{n}{sig}\PY{p}{)}
+         \PY{n}{alpha} \PY{o}{=} \PY{l+m+mi}{1}\PY{o}{\PYZhy{}}\PY{l+m+mi}{2}\PY{o}{*}\PY{n}{a}\PY{o}{/}\PY{p}{(}\PY{n}{sig}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{2}\PY{p}{)}
+         \PY{n}{beta} \PY{o}{=} \PY{l+m+mi}{2}\PY{o}{*}\PY{n+nb}{abs}\PY{p}{(}\PY{n}{a}\PY{o}{*}\PY{n}{tau}\PY{p}{)}\PY{o}{/}\PY{p}{(}\PY{n}{sig}\PY{o}{*}\PY{o}{*}\PY{l+m+mi}{3}\PY{p}{)}
+         \PY{n}{rv} \PY{o}{=} \PY{n}{invgamma}\PY{p}{(}\PY{n}{alpha}\PY{p}{,} \PY{n}{loc} \PY{o}{=} \PY{n}{x0}\PY{p}{,} \PY{n}{scale}\PY{o}{=}\PY{n}{beta}\PY{p}{)}
+         
+         \PY{n}{fig}\PY{p}{,} \PY{n}{ax} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{subplots}\PY{p}{(}\PY{l+m+mi}{1}\PY{p}{,} \PY{l+m+mi}{1}\PY{p}{)}
+         \PY{n}{x\PYZus{}tmp} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{linspace}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{10}\PY{p}{,}\PY{l+m+mi}{10}\PY{p}{,} \PY{l+m+mi}{100}\PY{p}{)}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{plot}\PY{p}{(}\PY{n}{x\PYZus{}tmp}\PY{p}{,} \PY{n}{rv}\PY{o}{.}\PY{n}{pdf}\PY{p}{(}\PY{n}{x\PYZus{}tmp} \PY{k}{if} \PY{n}{a}\PY{o}{*}\PY{n}{tau} \PY{o}{\PYZlt{}}\PY{l+m+mi}{0} \PY{k}{else} \PY{n}{x\PYZus{}tmp}\PY{p}{[}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{:}\PY{p}{:}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{)}\PY{p}{)}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{text}\PY{p}{(}\PY{n+nb}{abs}\PY{p}{(}\PY{n}{tau}\PY{o}{/}\PY{n}{sig}\PY{p}{)}\PY{p}{,} \PY{o}{.}\PY{l+m+mi}{5}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{x\PYZus{}*}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{plot}\PY{p}{(}\PY{p}{[}\PY{n}{x0}\PY{o}{\PYZhy{}}\PY{o}{.}\PY{l+m+mi}{2}\PY{p}{,}\PY{n}{x0}\PY{o}{\PYZhy{}}\PY{o}{.}\PY{l+m+mi}{2}\PY{p}{]}\PY{p}{,}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{,}\PY{o}{.}\PY{l+m+mi}{5}\PY{p}{]}\PY{p}{)}
+         \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)}
+\end{Verbatim}
+
+
+    
+    \begin{verbatim}
+<IPython.core.display.Javascript object>
+    \end{verbatim}
+
+    
+    
+    \begin{verbatim}
+<IPython.core.display.HTML object>
+    \end{verbatim}
+
+    
+    \hypertarget{svgrd-guarantees-that-you-will-escape-the-saddle-point}{%
+\subsection{SVGRD guarantees that you will escape the saddle
+point}\label{svgrd-guarantees-that-you-will-escape-the-saddle-point}}
+
+Infact, you expect to escape geometrically (in the outer loop)
+
+    \hypertarget{problems}{%
+\subsubsection{Problems:}\label{problems}}
+
+\begin{itemize}
+\tightlist
+\item
+  Unfortuately, you may need to compute the full gradient (updating
+  \(x_*\)) before each foolproof step away from the saddle point.
+\item
+  This results in the same computational cost as gradient descent (which
+  is considered too expensive for training deep neural networks).
+\end{itemize}
+
+    \hypertarget{increase-the-minibatch-size}{%
+\subsection{Increase the minibatch
+size}\label{increase-the-minibatch-size}}
+
+\hypertarget{idea}{%
+\subsubsection{Idea:}\label{idea}}
+
+\begin{itemize}
+\tightlist
+\item
+  Full batch Gradient Descent will never get stuck at a saddle point
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Why? It reduces the attactive noise to zero
+  \end{itemize}
+\item
+  Similarly, using large minibatches greatly decreases the odds of being
+  stuck at a saddle point
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Why? It reduces the attactive noise
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{problems}{%
+\subsubsection{Problems:}\label{problems}}
+
+\begin{itemize}
+\tightlist
+\item
+  Unfortunately using larger minibatches becomes computationally
+  expensive
+\end{itemize}
+
+    \hypertarget{decrease-the-learning-rate}{%
+\subsection{Decrease the learning
+rate}\label{decrease-the-learning-rate}}
+
+\hypertarget{idea}{%
+\subsubsection{Idea:}\label{idea}}
+
+Instead of making the updates \[x_n = x_{n-1} +\Delta x_{n-1},\] make
+smaller updates: \[x_n = x_{n-1} +\rho \Delta x_{n-1}\] (where
+\(0<\rho<1\) is small).
+
+\begin{itemize}
+\tightlist
+\item
+  This decreases the attractive noise by a factor of \(\sqrt{\rho}\)
+\end{itemize}
+
+\hypertarget{problems}{%
+\subsubsection{Problems:}\label{problems}}
+
+\begin{itemize}
+\tightlist
+\item
+  Learning takes longer
+\item
+  It doesn't guarantee that we will escape, it only increases the odds
+\end{itemize}
+
+    \hypertarget{anneal-the-learning-rate}{%
+\subsection{Anneal the learning rate}\label{anneal-the-learning-rate}}
+
+\hypertarget{idea}{%
+\subsubsection{Idea:}\label{idea}}
+
+Decrease the learning rate on a regular schedule:
+\[x_n = x_{n-1} +\rho \Delta x_{n-1}\] \[p_n = \rho_0/n\]
+
+\begin{itemize}
+\tightlist
+\item
+  This \textbf{Guarantees} tha we will escape the saddle point
+  (eventually),
+\item
+  This is recommended for other reasons too
+\end{itemize}
+
+\hypertarget{problems}{%
+\subsubsection{Problems:}\label{problems}}
+
+\begin{itemize}
+\tightlist
+\item
+  It may still take too long to escape
+\end{itemize}
+
+    \hypertarget{use-relus}{%
+\subsection{Use ReLu's}\label{use-relus}}
+
+\hypertarget{idea}{%
+\subsubsection{Idea:}\label{idea}}
+
+\begin{itemize}
+\tightlist
+\item
+  Regularized linear units result in piecewise linear loss functions
+\item
+  This eliminates the attractive noise in the local update
+\item
+  It dramatically changes the dynamics
+\end{itemize}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}23}]:} \PY{k}{def} \PY{n+nf}{PLF}\PY{p}{(}\PY{n}{vvs} \PY{o}{=} \PY{p}{(}\PY{p}{(}\PY{p}{(}\PY{l+m+mi}{1}\PY{p}{,}\PY{l+m+mi}{1}\PY{p}{,}\PY{l+m+mi}{1}\PY{p}{)}\PY{p}{,} \PY{p}{(}\PY{l+m+mi}{1}\PY{p}{,}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{,}\PY{l+m+mi}{1}\PY{p}{)}\PY{p}{)}\PY{p}{,}\PY{p}{(}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{,}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{,}\PY{l+m+mi}{1}\PY{p}{)}\PY{p}{,}\PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{,}\PY{l+m+mi}{1}\PY{p}{,}\PY{l+m+mi}{1}\PY{p}{)}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{1}\PY{p}{,} \PY{o}{.}\PY{l+m+mi}{25}\PY{p}{,} \PY{o}{\PYZhy{}}\PY{o}{.}\PY{l+m+mi}{5}\PY{p}{)}\PY{p}{)}\PY{p}{)}\PY{p}{,} \PY{n}{sig\PYZus{}0}\PY{o}{=}\PY{l+m+mi}{0}\PY{p}{,} \PY{n}{sig}\PY{o}{=}\PY{o}{.}\PY{l+m+mi}{2}\PY{p}{)}\PY{p}{:}
+             \PY{l+s+sd}{\PYZdq{}\PYZdq{}\PYZdq{}}
+         \PY{l+s+sd}{    Noisy Piecewise Linear Saddle point}
+         \PY{l+s+sd}{    Min Max: Min of the inner elements of vvs, max of the outers}
+         \PY{l+s+sd}{    \PYZdq{}\PYZdq{}\PYZdq{}}
+             \PY{k}{def} \PY{n+nf}{noisify\PYZus{}vvs}\PY{p}{(}\PY{n}{vvs}\PY{p}{,} \PY{n}{sig}\PY{p}{)}\PY{p}{:}
+                 \PY{k}{return} \PY{p}{[}
+                     \PY{p}{[}\PY{n}{np}\PY{o}{.}\PY{n}{array}\PY{p}{(}\PY{n}{v}\PY{p}{)}\PY{o}{+}\PY{n}{np}\PY{o}{.}\PY{n}{random}\PY{o}{.}\PY{n}{normal}\PY{p}{(}\PY{n}{loc}\PY{o}{=}\PY{l+m+mi}{0}\PY{p}{,} \PY{n}{scale} \PY{o}{=} \PY{n}{sig}\PY{p}{,} \PY{n}{size}\PY{o}{=}\PY{l+m+mi}{3}\PY{p}{)}
+                     \PY{k}{for} \PY{n}{v} \PY{o+ow}{in} \PY{n}{vs}\PY{p}{]}
+                     \PY{k}{for} \PY{n}{vs} \PY{o+ow}{in} \PY{n}{vvs}
+                 \PY{p}{]}
+                 
+             
+             \PY{k}{def} \PY{n+nf}{val}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{p}{:}
+                 \PY{n}{x} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{concatenate}\PY{p}{(}\PY{p}{[}\PY{n}{x}\PY{p}{,}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{]}\PY{p}{)}
+                 \PY{k}{return} \PY{n+nb}{max}\PY{p}{(}
+                     \PY{n+nb}{min}\PY{p}{(}\PY{n+nb}{map}\PY{p}{(}\PY{k}{lambda} \PY{n}{v}\PY{p}{:} \PY{n}{np}\PY{o}{.}\PY{n}{dot}\PY{p}{(}\PY{n}{x}\PY{p}{,} \PY{n}{v}\PY{p}{)}\PY{p}{,} \PY{n}{vs}\PY{p}{)}\PY{p}{)}
+                     \PY{k}{for} \PY{n}{vs} \PY{o+ow}{in} \PY{n}{vvs}
+                 \PY{p}{)}
+             
+             \PY{k}{def} \PY{n+nf}{grad}\PY{p}{(}\PY{n}{x}\PY{p}{)}\PY{p}{:}
+                 \PY{n}{wws} \PY{o}{=} \PY{n}{noisify\PYZus{}vvs}\PY{p}{(}\PY{n}{vvs}\PY{p}{,} \PY{n}{sig}\PY{p}{)}
+                 \PY{n}{x} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{concatenate}\PY{p}{(}\PY{p}{[}\PY{n}{x}\PY{p}{,}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{]}\PY{p}{)}
+                 \PY{n}{loc\PYZus{}vals} \PY{o}{=} \PY{p}{[}
+                     \PY{p}{[}\PY{n}{np}\PY{o}{.}\PY{n}{dot}\PY{p}{(}\PY{n}{x}\PY{p}{,} \PY{n}{v}\PY{p}{)} \PY{k}{for} \PY{n}{v} \PY{o+ow}{in} \PY{n}{vs}\PY{p}{]}
+                     \PY{k}{for} \PY{n}{vs} \PY{o+ow}{in} \PY{n}{wws}
+                 \PY{p}{]}
+                 \PY{n}{o\PYZus{}argmax} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{argmax}\PY{p}{(}\PY{p}{[}\PY{n+nb}{max}\PY{p}{(}\PY{o}{*}\PY{n}{val}\PY{p}{)} \PY{k}{for} \PY{n}{val} \PY{o+ow}{in} \PY{n}{loc\PYZus{}vals}\PY{p}{]}\PY{p}{)}
+                 \PY{n}{i\PYZus{}argmin} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{argmin}\PY{p}{(}\PY{n}{loc\PYZus{}vals}\PY{p}{[}\PY{n}{o\PYZus{}argmax}\PY{p}{]}\PY{p}{)}
+         \PY{c+c1}{\PYZsh{}         print(o\PYZus{}argmax, i\PYZus{}argmin)}
+                 \PY{n}{v} \PY{o}{=} \PY{n}{wws}\PY{p}{[}\PY{n}{o\PYZus{}argmax}\PY{p}{]}\PY{p}{[}\PY{n}{i\PYZus{}argmin}\PY{p}{]}
+                 \PY{k}{return} \PY{n}{np}\PY{o}{.}\PY{n}{array}\PY{p}{(}\PY{p}{[}\PY{n}{v}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{,}\PY{n}{v}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}\PY{p}{]}\PY{p}{)}
+             \PY{k}{return} \PY{n}{C1Func}\PY{p}{(}\PY{n}{val}\PY{o}{=}\PY{n}{val}\PY{p}{,} \PY{n}{grad}\PY{o}{=}\PY{n}{grad}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}63}]:} \PY{c+c1}{\PYZsh{} Plot the loss surface}
+         \PY{n}{fig} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{figure}\PY{p}{(}\PY{p}{)}
+         \PY{n}{ax} \PY{o}{=} \PY{n}{fig}\PY{o}{.}\PY{n}{add\PYZus{}subplot}\PY{p}{(}\PY{l+m+mi}{111}\PY{p}{,} \PY{n}{projection}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{3d}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         
+         \PY{n}{lossPLF} \PY{o}{=} \PY{n}{PLF}\PY{p}{(}\PY{n}{sig}\PY{o}{=}\PY{o}{.}\PY{l+m+mi}{2}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Plot gradient descent from x0:}
+         \PY{n}{x0} \PY{o}{=} \PY{n}{np}\PY{o}{.}\PY{n}{array}\PY{p}{(}\PY{p}{[}\PY{o}{\PYZhy{}}\PY{l+m+mi}{2}\PY{p}{,} \PY{o}{.}\PY{l+m+mi}{5}\PY{p}{]}\PY{p}{)}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{plot}\PY{p}{(}\PY{o}{*}\PY{n}{sgd\PYZus{}plot}\PY{p}{(}\PY{n}{x0}\PY{p}{,} \PY{n}{lossPLF}\PY{p}{,} \PY{n}{repeat}\PY{p}{(}\PY{o}{.}\PY{l+m+mi}{5}\PY{p}{)}\PY{p}{,} \PY{l+m+mi}{100}\PY{p}{)}\PY{p}{,} \PY{n}{color}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{r}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Plot the surface:}
+         \PY{n}{ax}\PY{o}{.}\PY{n}{plot\PYZus{}surface}\PY{p}{(}\PY{o}{*}\PY{n}{func\PYZus{}plot}\PY{p}{(}\PY{n}{lossPLF}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{4}\PY{p}{)}\PY{p}{,} \PY{p}{(}\PY{o}{\PYZhy{}}\PY{l+m+mi}{4}\PY{p}{,} \PY{l+m+mi}{4}\PY{p}{)}\PY{p}{,} \PY{n}{n}\PY{o}{=}\PY{l+m+mi}{100}\PY{p}{)}\PY{p}{,} \PY{n}{cmap}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{ocean}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)}
+\end{Verbatim}
+
+
+    
+    \begin{verbatim}
+<IPython.core.display.Javascript object>
+    \end{verbatim}
+
+    
+    
+    \begin{verbatim}
+<IPython.core.display.HTML object>
+    \end{verbatim}
+
+    
+    \hypertarget{open-questions}{%
+\subsection{Open questions}\label{open-questions}}
+
+\begin{itemize}
+\tightlist
+\item
+  What are the odds of the attractive noise being significantly strong?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How is affected by the dimensionality?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Is it less likely in high dimensions?
+    \end{itemize}
+  \item
+    How is it affected by depth vs width of the network?
+  \end{itemize}
+\item
+  How does momentum affect the dynamics?
+\item
+  Trade off between increasing batch size (reduces variance linearly) vs
+  increasing network size (reduces odds of only bad directions, while
+  also increasing number of saddle points).
+\end{itemize}
+
+
+    % Add a bibliography block to the postdoc
+    
+    
+    
+    \end{document}
